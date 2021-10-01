@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Grund | Academic</title>
+    <link>/de/author/s-grund/</link>
+      <atom:link href="/de/author/s-grund/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Grund</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>S Grund</title>
+      <link>/de/author/s-grund/</link>
+    </image>
+    
+    <item>
+      <title>Efficacy and Moderators of Internet-Based Interventions in Adults with Subthreshold Depression- An Individual Participant Data Meta-Analysis of Randomized Controlled Trials</title>
+      <link>/de/publication/efficacy-and-moderators-of-internet-based-interventions-in-adults-with-subthreshold-depression-an-individual-participant-data-meta-analysis-of-randomized-controlled-trials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/de/publication/efficacy-and-moderators-of-internet-based-interventions-in-adults-with-subthreshold-depression-an-individual-participant-data-meta-analysis-of-randomized-controlled-trials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

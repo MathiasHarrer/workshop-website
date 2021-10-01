@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Garnefski | Academic</title>
+    <link>/de/author/n-garnefski/</link>
+      <atom:link href="/de/author/n-garnefski/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Garnefski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>N Garnefski</title>
+      <link>/de/author/n-garnefski/</link>
+    </image>
+    
+    <item>
+      <title>Reference Reason for exclusion</title>
+      <link>/de/publication/reference-reason-for-exclusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/de/publication/reference-reason-for-exclusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

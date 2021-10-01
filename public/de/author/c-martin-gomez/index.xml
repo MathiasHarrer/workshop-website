@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Martín-Gómez | Academic</title>
+    <link>/de/author/c-martin-gomez/</link>
+      <atom:link href="/de/author/c-martin-gomez/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Martín-Gómez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>C Martín-Gómez</title>
+      <link>/de/author/c-martin-gomez/</link>
+    </image>
+    
+    <item>
+      <title>Moderators of psychological and psychoeducational interventions for the prevention of anxiety- A systematic review</title>
+      <link>/de/publication/moderators-of-psychological-and-psychoeducational-interventions-for-the-prevention-of-anxiety-a-systematic-review/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/de/publication/moderators-of-psychological-and-psychoeducational-interventions-for-the-prevention-of-anxiety-a-systematic-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moderators of psychological and psychoeducational interventions for the prevention of depression- A systematic review</title>
+      <link>/de/publication/moderators-of-psychological-and-psychoeducational-interventions-for-the-prevention-of-depression-a-systematic-review/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/de/publication/moderators-of-psychological-and-psychoeducational-interventions-for-the-prevention-of-depression-a-systematic-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

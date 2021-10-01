@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Nixon | Protect Lab</title>
+    <link>/en/author/p-nixon/</link>
+      <atom:link href="/en/author/p-nixon/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Nixon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>P Nixon</title>
+      <link>/en/author/p-nixon/</link>
+    </image>
+    
+    <item>
+      <title>A three-armed randomised controlled trial investigating the comparative impact of guidance on the efficacy of a web-based stress management intervention and health impairing </title>
+      <link>/en/publication/a-three-armed-randomised-controlled-trial-investigating-the-comparative-impact-of-guidance-on-the-efficacy-of-a-web-based-stress-management-intervention-and-health-impairing-/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/a-three-armed-randomised-controlled-trial-investigating-the-comparative-impact-of-guidance-on-the-efficacy-of-a-web-based-stress-management-intervention-and-health-impairing-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

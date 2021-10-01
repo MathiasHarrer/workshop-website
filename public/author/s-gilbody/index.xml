@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Gilbody | Protect Lab</title>
+    <link>/author/s-gilbody/</link>
+      <atom:link href="/author/s-gilbody/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Gilbody</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>S Gilbody</title>
+      <link>/author/s-gilbody/</link>
+    </image>
+    
+    <item>
+      <title>How can we estimate QALYs based on PHQ-9 scores? Equipercentile linking analysis of PHQ-9 and EQ-5D</title>
+      <link>/publication/how-can-we-estimate-qalys-based-on-phq-9-scores-equipercentile-linking-analysis-of-phq-9-and-eq-5d/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/how-can-we-estimate-qalys-based-on-phq-9-scores-equipercentile-linking-analysis-of-phq-9-and-eq-5d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of meditation  yoga  and mindfulness on depression  anxiety  and stress in tertiary education students- A meta-analysis</title>
+      <link>/publication/the-effects-of-meditation-yoga-and-mindfulness-on-depression-anxiety-and-stress-in-tertiary-education-students-a-meta-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/the-effects-of-meditation-yoga-and-mindfulness-on-depression-anxiety-and-stress-in-tertiary-education-students-a-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of meditation  yoga and mindfulness on depression  anxiety and stress in tertiary education students- A meta-analysis</title>
+      <link>/publication/the-effects-of-meditation-yoga-and-mindfulness-on-depression-anxiety-and-stress-in-tertiary-education-students-a-meta-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/the-effects-of-meditation-yoga-and-mindfulness-on-depression-anxiety-and-stress-in-tertiary-education-students-a-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

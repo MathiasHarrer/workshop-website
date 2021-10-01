@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HM Koot | Academic</title>
+    <link>/de/author/hm-koot/</link>
+      <atom:link href="/de/author/hm-koot/index.xml" rel="self" type="application/rss+xml" />
+    <description>HM Koot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>HM Koot</title>
+      <link>/de/author/hm-koot/</link>
+    </image>
+    
+    <item>
+      <title>Psychological treatment of depression in college students- a metaanalysis</title>
+      <link>/de/publication/psychological-treatment-of-depression-in-college-students-a-metaanalysis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/de/publication/psychological-treatment-of-depression-in-college-students-a-metaanalysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

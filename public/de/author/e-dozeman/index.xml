@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Dozeman | Academic</title>
+    <link>/de/author/e-dozeman/</link>
+      <atom:link href="/de/author/e-dozeman/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Dozeman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>E Dozeman</title>
+      <link>/de/author/e-dozeman/</link>
+    </image>
+    
+    <item>
+      <title>Dimensionality of the system usability scale among professionals using internet-based interventions for depression- a confirmatory factor analysis</title>
+      <link>/de/publication/dimensionality-of-the-system-usability-scale-among-professionals-using-internet-based-interventions-for-depression-a-confirmatory-factor-analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/de/publication/dimensionality-of-the-system-usability-scale-among-professionals-using-internet-based-interventions-for-depression-a-confirmatory-factor-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing and up-scaling evidence-based eMental health in Europe- the study protocol for the MasterMind project</title>
+      <link>/de/publication/implementing-and-up-scaling-evidence-based-emental-health-in-europe-the-study-protocol-for-the-mastermind-project/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/de/publication/implementing-and-up-scaling-evidence-based-emental-health-in-europe-the-study-protocol-for-the-mastermind-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Wals | Protect Lab</title>
+    <link>/en/author/f-wals/</link>
+      <atom:link href="/en/author/f-wals/index.xml" rel="self" type="application/rss+xml" />
+    <description>F Wals</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>F Wals</title>
+      <link>/en/author/f-wals/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the persuasive effects of testimonials on the acceptance of digital stress management trainings among university students and underlying mechanisms- a randomized </title>
+      <link>/en/publication/investigating-the-persuasive-effects-of-testimonials-on-the-acceptance-of-digital-stress-management-trainings-among-university-students-and-underlying-mechanisms-a-randomized-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/publication/investigating-the-persuasive-effects-of-testimonials-on-the-acceptance-of-digital-stress-management-trainings-among-university-students-and-underlying-mechanisms-a-randomized-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Burdach | Protect Lab</title>
+    <link>/en/author/d-burdach/</link>
+      <atom:link href="/en/author/d-burdach/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Burdach</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>D Burdach</title>
+      <link>/en/author/d-burdach/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of an internet-based intervention to improve sleep difficulties in a culturally diverse sample of international students- A randomised controlled pilot study</title>
+      <link>/en/publication/effectiveness-of-an-internet-based-intervention-to-improve-sleep-difficulties-in-a-culturally-diverse-sample-of-international-students-a-randomised-controlled-pilot-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/publication/effectiveness-of-an-internet-based-intervention-to-improve-sleep-difficulties-in-a-culturally-diverse-sample-of-international-students-a-randomised-controlled-pilot-study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

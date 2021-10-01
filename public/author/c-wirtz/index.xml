@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Wirtz | Protect Lab</title>
+    <link>/author/c-wirtz/</link>
+      <atom:link href="/author/c-wirtz/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Wirtz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>C Wirtz</title>
+      <link>/author/c-wirtz/</link>
+    </image>
+    
+    <item>
+      <title>Mood and sleep reciprocally reinforce each other over the course of treatment for major depressive disorder</title>
+      <link>/publication/mood-and-sleep-reciprocally-reinforce-each-other-over-the-course-of-treatment-for-major-depressive-disorder/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/mood-and-sleep-reciprocally-reinforce-each-other-over-the-course-of-treatment-for-major-depressive-disorder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Hopfinger | Academic</title>
+    <link>/de/author/l-hopfinger/</link>
+      <atom:link href="/de/author/l-hopfinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Hopfinger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>L Hopfinger</title>
+      <link>/de/author/l-hopfinger/</link>
+    </image>
+    
+    <item>
+      <title>Emotion regulation protects against recurrence of depressive symptoms following inpatient care for major depressive disorder</title>
+      <link>/de/publication/emotion-regulation-protects-against-recurrence-of-depressive-symptoms-following-inpatient-care-for-major-depressive-disorder/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/de/publication/emotion-regulation-protects-against-recurrence-of-depressive-symptoms-following-inpatient-care-for-major-depressive-disorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion regulation mediates the effect of childhood trauma on depression</title>
+      <link>/de/publication/emotion-regulation-mediates-the-effect-of-childhood-trauma-on-depression/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/de/publication/emotion-regulation-mediates-the-effect-of-childhood-trauma-on-depression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

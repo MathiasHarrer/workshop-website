@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TG Baudson | Academic</title>
+    <link>/de/author/tg-baudson/</link>
+      <atom:link href="/de/author/tg-baudson/index.xml" rel="self" type="application/rss+xml" />
+    <description>TG Baudson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>TG Baudson</title>
+      <link>/de/author/tg-baudson/</link>
+    </image>
+    
+    <item>
+      <title>Jasmina Burdzovic Andreas* and Geir S. Brunborg</title>
+      <link>/de/publication/jasmina-burdzovic-andreas-and-geir-s-brunborg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/de/publication/jasmina-burdzovic-andreas-and-geir-s-brunborg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

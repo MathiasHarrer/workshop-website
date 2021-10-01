@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Breet | Protect Lab</title>
+    <link>/author/e-breet/</link>
+      <atom:link href="/author/e-breet/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Breet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>E Breet</title>
+      <link>/author/e-breet/</link>
+    </image>
+    
+    <item>
+      <title>A qualitative study of university students experience of Internet‐based CBT for depression</title>
+      <link>/publication/a-qualitative-study-of-university-students-experience-of-internet-based-cbt-for-depression/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/a-qualitative-study-of-university-students-experience-of-internet-based-cbt-for-depression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

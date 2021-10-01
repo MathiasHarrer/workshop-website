@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Terao | Protect Lab</title>
+    <link>/author/t-terao/</link>
+      <atom:link href="/author/t-terao/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Terao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>T Terao</title>
+      <link>/author/t-terao/</link>
+    </image>
+    
+    <item>
+      <title>How to Help Employees Returning to Work Following Depression</title>
+      <link>/publication/how-to-help-employees-returning-to-work-following-depression/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/how-to-help-employees-returning-to-work-following-depression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAJ De Witte | Protect Lab</title>
+    <link>/en/author/naj-de-witte/</link>
+      <atom:link href="/en/author/naj-de-witte/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAJ De Witte</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>NAJ De Witte</title>
+      <link>/en/author/naj-de-witte/</link>
+    </image>
+    
+    <item>
+      <title>Online consultations in mental healthcare during the COVID-19 outbreak- An international survey study on professionals motivations and perceived barriers</title>
+      <link>/en/publication/online-consultations-in-mental-healthcare-during-the-covid-19-outbreak-an-international-survey-study-on-professionals-motivations-and-perceived-barriers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/online-consultations-in-mental-healthcare-during-the-covid-19-outbreak-an-international-survey-study-on-professionals-motivations-and-perceived-barriers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

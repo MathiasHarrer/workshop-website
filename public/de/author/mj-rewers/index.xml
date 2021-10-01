@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MJ Rewers | Academic</title>
+    <link>/de/author/mj-rewers/</link>
+      <atom:link href="/de/author/mj-rewers/index.xml" rel="self" type="application/rss+xml" />
+    <description>MJ Rewers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>MJ Rewers</title>
+      <link>/de/author/mj-rewers/</link>
+    </image>
+    
+    <item>
+      <title>Early hyperglycemia detected by continuous glucose monitoring in children at risk for type 1 diabetes</title>
+      <link>/de/publication/early-hyperglycemia-detected-by-continuous-glucose-monitoring-in-children-at-risk-for-type-1-diabetes/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/de/publication/early-hyperglycemia-detected-by-continuous-glucose-monitoring-in-children-at-risk-for-type-1-diabetes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

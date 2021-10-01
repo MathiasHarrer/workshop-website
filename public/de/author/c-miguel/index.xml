@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Miguel | Academic</title>
+    <link>/de/author/c-miguel/</link>
+      <atom:link href="/de/author/c-miguel/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Miguel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>C Miguel</title>
+      <link>/de/author/c-miguel/</link>
+    </image>
+    
+    <item>
+      <title>Internet-based cognitive behavioral therapy for depression- a systematic review and individual patient data network meta-analysis</title>
+      <link>/de/publication/internet-based-cognitive-behavioral-therapy-for-depression-a-systematic-review-and-individual-patient-data-network-meta-analysis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/de/publication/internet-based-cognitive-behavioral-therapy-for-depression-a-systematic-review-and-individual-patient-data-network-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychological treatment of depression in institutional settings- A meta-analytic review</title>
+      <link>/de/publication/psychological-treatment-of-depression-in-institutional-settings-a-meta-analytic-review/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/de/publication/psychological-treatment-of-depression-in-institutional-settings-a-meta-analytic-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

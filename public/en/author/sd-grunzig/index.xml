@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SD Grünzig | Protect Lab</title>
+    <link>/en/author/sd-grunzig/</link>
+      <atom:link href="/en/author/sd-grunzig/index.xml" rel="self" type="application/rss+xml" />
+    <description>SD Grünzig</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>SD Grünzig</title>
+      <link>/en/author/sd-grunzig/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of a guided web-based intervention to reduce depressive symptoms before outpatient psychotherapy- A pragmatic randomized controlled trial</title>
+      <link>/en/publication/effectiveness-of-a-guided-web-based-intervention-to-reduce-depressive-symptoms-before-outpatient-psychotherapy-a-pragmatic-randomized-controlled-trial/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/effectiveness-of-a-guided-web-based-intervention-to-reduce-depressive-symptoms-before-outpatient-psychotherapy-a-pragmatic-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness and acceptance of a web-based depression intervention during waiting time for outpatient psychotherapy- study protocol for a randomized controlled trial</title>
+      <link>/en/publication/effectiveness-and-acceptance-of-a-web-based-depression-intervention-during-waiting-time-for-outpatient-psychotherapy-study-protocol-for-a-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/effectiveness-and-acceptance-of-a-web-based-depression-intervention-during-waiting-time-for-outpatient-psychotherapy-study-protocol-for-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Kaal | Protect Lab</title>
+    <link>/en/author/e-kaal/</link>
+      <atom:link href="/en/author/e-kaal/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Kaal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>E Kaal</title>
+      <link>/en/author/e-kaal/</link>
+    </image>
+    
+    <item>
+      <title>Effects of a minimal‐guided on‐line intervention for alcohol misuse in Estonia- a randomized controlled trial</title>
+      <link>/en/publication/effects-of-a-minimal-guided-on-line-intervention-for-alcohol-misuse-in-estonia-a-randomized-controlled-trial/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/effects-of-a-minimal-guided-on-line-intervention-for-alcohol-misuse-in-estonia-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the efficacy of a minimal-guidance online self-help intervention for alcohol misuse in Estonia- study protocol of a randomized controlled trial</title>
+      <link>/en/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

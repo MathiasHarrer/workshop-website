@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Philippi | Protect Lab</title>
+    <link>/en/author/p-philippi/</link>
+      <atom:link href="/en/author/p-philippi/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Philippi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>P Philippi</title>
+      <link>/en/author/p-philippi/</link>
+    </image>
+    
+    <item>
+      <title>Acceptance towards digital health interventions–Model validation and further development of the Unified Theory of Acceptance and Use of Technology</title>
+      <link>/en/publication/acceptance-towards-digital-health-interventions-model-validation-and-further-development-of-the-unified-theory-of-acceptance-and-use-of-technology/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/acceptance-towards-digital-health-interventions-model-validation-and-further-development-of-the-unified-theory-of-acceptance-and-use-of-technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

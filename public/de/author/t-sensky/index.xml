@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Sensky | Academic</title>
+    <link>/de/author/t-sensky/</link>
+      <atom:link href="/de/author/t-sensky/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Sensky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>T Sensky</title>
+      <link>/de/author/t-sensky/</link>
+    </image>
+    
+    <item>
+      <title>The Journal’s Appreciation</title>
+      <link>/de/publication/the-journal-s-appreciation/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/de/publication/the-journal-s-appreciation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

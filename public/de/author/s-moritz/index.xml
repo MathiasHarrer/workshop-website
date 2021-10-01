@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Moritz | Academic</title>
+    <link>/de/author/s-moritz/</link>
+      <atom:link href="/de/author/s-moritz/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Moritz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>S Moritz</title>
+      <link>/de/author/s-moritz/</link>
+    </image>
+    
+    <item>
+      <title>Digitalisierte Psychotherapie- Die Frage nach dem “Wie”</title>
+      <link>/de/publication/digitalisierte-psychotherapie-die-frage-nach-dem-wie-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/de/publication/digitalisierte-psychotherapie-die-frage-nach-dem-wie-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitized Psychotherapy- The Question of&#34; How&#34;</title>
+      <link>/de/publication/digitized-psychotherapy-the-question-of-how-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/de/publication/digitized-psychotherapy-the-question-of-how-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Health</title>
+      <link>/de/publication/e-health/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/de/publication/e-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Journal’s Appreciation</title>
+      <link>/de/publication/the-journal-s-appreciation/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/de/publication/the-journal-s-appreciation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

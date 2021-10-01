@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Simek | Protect Lab</title>
+    <link>/en/author/m-simek/</link>
+      <atom:link href="/en/author/m-simek/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Simek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>M Simek</title>
+      <link>/en/author/m-simek/</link>
+    </image>
+    
+    <item>
+      <title>Online prevention programmes for university students- stakeholder perspectives from six European countries</title>
+      <link>/en/publication/online-prevention-programmes-for-university-students-stakeholder-perspectives-from-six-european-countries/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/online-prevention-programmes-for-university-students-stakeholder-perspectives-from-six-european-countries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakeholders’ views on online interventions to prevent common mental health disorders in adults implemented into existing healthcare systems in Europe</title>
+      <link>/en/publication/stakeholders-views-on-online-interventions-to-prevent-common-mental-health-disorders-in-adults-implemented-into-existing-healthcare-systems-in-europe/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/stakeholders-views-on-online-interventions-to-prevent-common-mental-health-disorders-in-adults-implemented-into-existing-healthcare-systems-in-europe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

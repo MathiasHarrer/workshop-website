@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TA Furukawa | Protect Lab</title>
+    <link>/en/author/ta-furukawa/</link>
+      <atom:link href="/en/author/ta-furukawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>TA Furukawa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>TA Furukawa</title>
+      <link>/en/author/ta-furukawa/</link>
+    </image>
+    
+    <item>
+      <title>Dismantling  optimising  and personalising internet cognitive behavioural therapy for depression- a systematic review and component network meta-analysis using individual </title>
+      <link>/en/publication/dismantling-optimising-and-personalising-internet-cognitive-behavioural-therapy-for-depression-a-systematic-review-and-component-network-meta-analysis-using-individual-/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/dismantling-optimising-and-personalising-internet-cognitive-behavioural-therapy-for-depression-a-systematic-review-and-component-network-meta-analysis-using-individual-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How can we estimate QALYs based on PHQ-9 scores? Equipercentile linking analysis of PHQ-9 and EQ-5D</title>
+      <link>/en/publication/how-can-we-estimate-qalys-based-on-phq-9-scores-equipercentile-linking-analysis-of-phq-9-and-eq-5d/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/how-can-we-estimate-qalys-based-on-phq-9-scores-equipercentile-linking-analysis-of-phq-9-and-eq-5d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing the clinical interpretability of PHQ-9 through equipercentile linking with health utility values by EQ-5D-3L</title>
+      <link>/en/publication/increasing-the-clinical-interpretability-of-phq-9-through-equipercentile-linking-with-health-utility-values-by-eq-5d-3l/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/increasing-the-clinical-interpretability-of-phq-9-through-equipercentile-linking-with-health-utility-values-by-eq-5d-3l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet-based cognitive behavioral therapy for depression- a systematic review and individual patient data network meta-analysis</title>
+      <link>/en/publication/internet-based-cognitive-behavioral-therapy-for-depression-a-systematic-review-and-individual-patient-data-network-meta-analysis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/internet-based-cognitive-behavioral-therapy-for-depression-a-systematic-review-and-individual-patient-data-network-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doing meta-analysis in R</title>
+      <link>/en/publication/doing-meta-analysis-in-r/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/doing-meta-analysis-in-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doing meta-analysis with R- A hands-On guide</title>
+      <link>/en/publication/doing-meta-analysis-with-r-a-hands-on-guide/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/doing-meta-analysis-with-r-a-hands-on-guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

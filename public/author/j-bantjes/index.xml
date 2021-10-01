@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Bantjes | Protect Lab</title>
+    <link>/author/j-bantjes/</link>
+      <atom:link href="/author/j-bantjes/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Bantjes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>J Bantjes</title>
+      <link>/author/j-bantjes/</link>
+    </image>
+    
+    <item>
+      <title>A qualitative study of university students experience of Internet‐based CBT for depression</title>
+      <link>/publication/a-qualitative-study-of-university-students-experience-of-internet-based-cbt-for-depression/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/a-qualitative-study-of-university-students-experience-of-internet-based-cbt-for-depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Childhood adversities and suicidal thoughts and behaviors among first-year college students- results from the WMH-ICS initiative</title>
+      <link>/publication/childhood-adversities-and-suicidal-thoughts-and-behaviors-among-first-year-college-students-results-from-the-wmh-ics-initiative/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/childhood-adversities-and-suicidal-thoughts-and-behaviors-among-first-year-college-students-results-from-the-wmh-ics-initiative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-suicidal self-injury among first-year college students and its association with mental disorders- results from the World Mental Health International College Student (WMH </title>
+      <link>/publication/non-suicidal-self-injury-among-first-year-college-students-and-its-association-with-mental-disorders-results-from-the-world-mental-health-international-college-student-wmh-/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/non-suicidal-self-injury-among-first-year-college-students-and-its-association-with-mental-disorders-results-from-the-world-mental-health-international-college-student-wmh-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sources of Stress and Their Associations With Mental Disorders Among College Students- Results of the World Health Organization World Mental Health Surveys International </title>
+      <link>/publication/sources-of-stress-and-their-associations-with-mental-disorders-among-college-students-results-of-the-world-health-organization-world-mental-health-surveys-international-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sources-of-stress-and-their-associations-with-mental-disorders-among-college-students-results-of-the-world-health-organization-world-mental-health-surveys-international-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suicidal thoughts and behaviors among first-year college students- Results from the WMH-ICS project</title>
+      <link>/publication/suicidal-thoughts-and-behaviors-among-first-year-college-students-results-from-the-wmh-ics-project/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/suicidal-thoughts-and-behaviors-among-first-year-college-students-results-from-the-wmh-ics-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

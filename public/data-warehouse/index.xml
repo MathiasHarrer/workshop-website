@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trial Data Warehouse | Protect Lab</title>
+    <link>/data-warehouse/</link>
+      <atom:link href="/data-warehouse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trial Data Warehouse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>Trial Data Warehouse</title>
+      <link>/data-warehouse/</link>
+    </image>
+    
+  </channel>
+</rss>

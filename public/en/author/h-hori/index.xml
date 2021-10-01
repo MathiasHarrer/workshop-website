@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H Hori | Protect Lab</title>
+    <link>/en/author/h-hori/</link>
+      <atom:link href="/en/author/h-hori/index.xml" rel="self" type="application/rss+xml" />
+    <description>H Hori</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>H Hori</title>
+      <link>/en/author/h-hori/</link>
+    </image>
+    
+    <item>
+      <title>How to Help Employees Returning to Work Following Depression</title>
+      <link>/en/publication/how-to-help-employees-returning-to-work-following-depression/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/how-to-help-employees-returning-to-work-following-depression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
