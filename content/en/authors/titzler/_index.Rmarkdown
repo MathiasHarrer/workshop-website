@@ -49,5 +49,13 @@ Since 2017 she has also been giving workshops for (prospective and approved) psy
 
 After her studies of psychology and practical clinical work at the University Hospital Erlangen in the inpatient care of mentally ill patients, Ms Titzler has been working as a research assistant and project leader of EU and industry research projects at the Chair of Clinical Psychology and Psychotherapy at the University of Erlangen-Nuremberg in the E-Mental Health working group since May 2014.
 
+<p></p>
+
+### Research Projects
+
+- [E-Compared](www.e-compared.eu)
+- [ImpleMentAll](www.implementall.eu)
+- [PsychOnlineTherapie (DE)](www.psychonlinetherapie.de)
+- [In Balance With Us (ImplementIT, TEC-A, PROD-A, PACT-A; DE)](https://klips.phil.fau.de/mit-uns-im-gleichgewicht)
 
 </font>
