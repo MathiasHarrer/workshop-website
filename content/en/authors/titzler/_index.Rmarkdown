@@ -53,9 +53,9 @@ After her studies of psychology and practical clinical work at the University Ho
 
 ### Research Projects
 
-- [E-Compared](www.e-compared.eu)
-- [ImpleMentAll](www.implementall.eu)
-- [PsychOnlineTherapie (DE)](www.psychonlinetherapie.de)
+- [E-Compared](https://www.e-compared.eu)
+- [ImpleMentAll](https://www.implementall.eu)
+- [PsychOnlineTherapie (DE)](https://www.psychonlinetherapie.de)
 - [In Balance With Us (ImplementIT, TEC-A, PROD-A, PACT-A; DE)](https://klips.phil.fau.de/mit-uns-im-gleichgewicht)
 
 </font>

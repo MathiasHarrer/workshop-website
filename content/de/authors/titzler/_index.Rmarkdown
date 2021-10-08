@@ -53,9 +53,9 @@ Nach dem Studium der Psychologie und klinisch praktischer Tätigkeit am Universi
 
 ### Forschungsprojekte
 
-- [E-Compared](www.e-compared.eu)
-- [ImpleMentAll](www.implementall.eu)
-- [PsychOnlineTherapie](www.psychonlinetherapie.de)
+- [E-Compared](https://www.e-compared.eu)
+- [ImpleMentAll](https://www.implementall.eu)
+- [PsychOnlineTherapie](https://www.psychonlinetherapie.de)
 - [Mit uns im Gleichgewicht (ImplementIT, TEC-A, PROD-A, PACT-A)](https://klips.phil.fau.de/mit-uns-im-gleichgewicht)
 
 
