@@ -97,6 +97,45 @@
                 href="/en/author/prof.-dr.-johannes-a.c.-laferton/"
                 />
   </url><url>
+    <loc>/en/datasets/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/datasets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/datasets/"
+                />
+  </url><url>
+    <loc>/en/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url><url>
+    <loc>/en/datasets/suicide-prevention/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/datasets/suicide-prevention/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/datasets/suicide-prevention/"
+                />
+  </url><url>
     <loc>/en/authors/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -160,19 +199,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/project/"
-                />
-  </url><url>
-    <loc>/en/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
                 />
   </url><url>
     <loc>/en/project/star/</loc>

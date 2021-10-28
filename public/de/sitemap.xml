@@ -79,8 +79,21 @@
                 href="/author/prof.-dr.-johannes-a.c.-laferton/"
                 />
   </url><url>
+    <loc>/datasets/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/datasets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/datasets/"
+                />
+  </url><url>
     <loc>/</loc>
-    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -90,6 +103,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="/"
+                />
+  </url><url>
+    <loc>/datasets/suicide-prevention/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/datasets/suicide-prevention/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/datasets/suicide-prevention/"
                 />
   </url><url>
     <loc>/data-warehouse/</loc>
