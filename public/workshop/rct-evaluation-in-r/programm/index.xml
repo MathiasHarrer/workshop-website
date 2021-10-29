@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programm | Protect Lab</title>
+    <link>/workshop/rct-evaluation-in-r/programm/</link>
+      <atom:link href="/workshop/rct-evaluation-in-r/programm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programm</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2021</copyright>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>Programm</title>
+      <link>/workshop/rct-evaluation-in-r/programm/</link>
+    </image>
+    
+  </channel>
+</rss>

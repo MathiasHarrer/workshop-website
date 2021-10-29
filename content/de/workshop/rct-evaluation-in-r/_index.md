@@ -1,11 +1,38 @@
 ---
 title: Evaluation Randomisiert-Kontrollierter Studien mit R
 type: book  # Do not modify.
-toc: false
+toc: true
 linktitle: Evaluation von RCTs mit R
 ---
 
-{{< spoiler text="Kurzbeschreibung" >}}
+<style>
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+</style>
+
+---
+
+Workshop
+
+![](bg-praxis.jpg)
+
+## Willkommen!
+
+---
+
+Herzlich Willkommen im digitalen Repositorium für den Workshop "Evaluation Randomisiert-Kontrollierter Studien mit `R`". Auf diesen Seiten finden sich alle Materialen (Foliensätze, Code-Snippets, Datensätze), die während des Workshops Verwendung finden. Die Unterlagen stehen sowohl während, als auch nach Ende des Workshops hier zur Verfügung.
+
+<br>
+
+## Kursbeschreibung
+
+---
+
+{{< spoiler text="Ausklappen" >}}
 
 Randomisiert-kontrollierte Studien (RCTs) gelten im Bereich der Gesundheitswissenschaften und “evidence-based medicine” als Goldstandard zur Evaluation gesundheitsfördernder Interventionen. Auch in sozial- und bildungswissenschaftlichen Kontexten werden RCTs zunehmend genutzt, um Effekte von Interventionsinstrumenten kausal nachzuweisen.
 
@@ -24,4 +51,18 @@ Ein großer Vorteil der R Infrastruktur liegt in der verbesserten Transparenz un
 Der Workshop richtet sich an Promovierende der Fakultät für Sport- und Gesundheitswissenschaften aber auch an andere Promovierende, die sich mit quantitativen Methoden in der Interventionsforschung auseinandersetzen möchten und praktische Fähigkeiten zur Analyse von Interventionsstudien in R erlangen wollen.  
 {{< /spoiler >}}
 
-{{< cta cta_text="👉 Vorbereitung" cta_link="chapter1" >}}
+<br>
+
+## Leitung & Verantwortliche
+
+---
+
+* [Prof. Dr. David Ebert, TUM](/ebert): Leitung des Workshops
+* [Mathias Harrer, TUM & FAU Erlangen-Nürnberg](/harrer): Vorbereitung & Leitung des Workshops
+* [Janika Thielecke, TUM & FAU Erlangen-Nürnberg](/thielecke): Vorbereitung des Workshops
+* Antonia Sprenger, Humboldt-Universität zu Berlin: Vorbereitung des Workshops
+
+
+<br></br>
+
+{{< cta cta_text="👉 Vorbereitung" cta_link="vorbereitung" >}}

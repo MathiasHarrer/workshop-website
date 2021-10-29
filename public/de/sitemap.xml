@@ -15,12 +15,6 @@
                 href="/author/prof.-dr.-david-daniel-ebert/"
                 />
   </url><url>
-    <loc>/workshop/rct-evaluation-in-r/chapter1/syllabus/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/chapter2/syllabus/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -61,17 +55,7 @@
                 href="/author/dr.-claudia-buntrock/"
                 />
   </url><url>
-    <loc>/workshop/rct-evaluation-in-r/chapter1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/chapter1/reading-list/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/chapter2/reading-list/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/chapter2/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>/workshop/rct-evaluation-in-r/programm/</loc>
   </url><url>
     <loc>/author/dr.-anna-carlotta-zarski/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
@@ -86,8 +70,7 @@
                 href="/author/dr.-anna-carlotta-zarski/"
                 />
   </url><url>
-    <loc>/workshop/rct-evaluation-in-r/chapter1/takeaways/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>/workshop/rct-evaluation-in-r/r-entdecken/</loc>
   </url><url>
     <loc>/author/prof.-dr.-johannes-a.c.-laferton/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
@@ -4371,12 +4354,6 @@
                 hreflang="de"
                 href="/post/special-issue/"
                 />
-  </url><url>
-    <loc>/workshop/rct-evaluation-in-r/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/workshop/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/abgeschlossen/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
@@ -11816,6 +11793,8 @@
                 href="/publication/efficacy-and-moderators-of-internet-based-interventions-in-adults-with-subthreshold-depression-an-individual-participant-data-meta-analysis-of-randomized-controlled-trials/"
                 />
   </url><url>
+    <loc>/workshop/rct-evaluation-in-r/</loc>
+  </url><url>
     <loc>/author/f-wals/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12139,6 +12118,8 @@
                 hreflang="de"
                 href="/author/v-bremer/"
                 />
+  </url><url>
+    <loc>/workshop/</loc>
   </url><url>
     <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <xhtml:link
