@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Mr Robot"
+name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Open+Sans|Raleway:700|Roboto+Mono:wght@300"
+google_fonts = "family=Roboto:wght@500&family=Fira+Code:wght@300;400;500;600;700&family=Fira+Sans&family=Raleway:ital,wght@0,700;1,700"
 
 # Font families
-heading_font = "Raleway"
-body_font = "Open Sans"
-nav_font = "Open Sans"
-mono_font = "Roboto Mono"
+heading_font = "Fira Sans"
+body_font = "Fira Sans"
+nav_font = "Fira Sans"
+mono_font = "Fira Code"
