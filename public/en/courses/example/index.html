@@ -684,33 +684,33 @@
 <h2 id="update-site-menu">Update site menu</h2>
 <p>After renaming or deleting the <code>courses</code> folder, you may wish to update any <code>[[main]]</code> menu links to it by editing your menu configuration at <code>config/_default/menus.toml</code>.</p>
 <p>For example, if you delete this folder, you can remove the following from your menu configuration:</p>
-<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<div class="highlight"><div style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
 <table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
+<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
 </span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2">2</a>
 </span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3">3</a>
 </span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4">4</a>
 </span></code></pre></td>
 <td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[[main]]
-  name = <span style="background-color:#fff0f0">&#34;Courses&#34;</span>
-  url = <span style="background-color:#fff0f0">&#34;courses/&#34;</span>
-  weight = <span style="color:#00d;font-weight:bold">50</span>
+<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#111">[[</span><span style="color:#75af00">main</span><span style="color:#111">]]</span>
+  <span style="color:#75af00">name</span> <span style="color:#111">=</span> <span style="color:#d88200">&#34;Courses&#34;</span>
+  <span style="color:#75af00">url</span> <span style="color:#111">=</span> <span style="color:#d88200">&#34;courses/&#34;</span>
+  <span style="color:#75af00">weight</span> <span style="color:#111">=</span> <span style="color:#ae81ff">50</span>
 </code></pre></td></tr></table>
 </div>
 </div><p>Or, if you are creating a software documentation site, you can rename the <code>courses</code> folder to <code>docs</code> and update the associated <em>Courses</em> menu configuration to:</p>
-<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<div class="highlight"><div style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
 <table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
+<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
 </span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2">2</a>
 </span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3">3</a>
 </span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4">4</a>
 </span></code></pre></td>
 <td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[[main]]
-  name = <span style="background-color:#fff0f0">&#34;Docs&#34;</span>
-  url = <span style="background-color:#fff0f0">&#34;docs/&#34;</span>
-  weight = <span style="color:#00d;font-weight:bold">50</span>
+<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#111">[[</span><span style="color:#75af00">main</span><span style="color:#111">]]</span>
+  <span style="color:#75af00">name</span> <span style="color:#111">=</span> <span style="color:#d88200">&#34;Docs&#34;</span>
+  <span style="color:#75af00">url</span> <span style="color:#111">=</span> <span style="color:#d88200">&#34;docs/&#34;</span>
+  <span style="color:#75af00">weight</span> <span style="color:#111">=</span> <span style="color:#ae81ff">50</span>
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="update-the-docs-menu">Update the docs menu</h2>
@@ -772,8 +772,10 @@ Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
     
     
       
+          Last updated on
+      
     
-    2019-05-05
+    1. Januar 2021
   </span>
   
 
@@ -859,8 +861,10 @@ Tip 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
     
     
       
+          Last updated on
+      
     
-    2019-05-05
+    1. Januar 2021
   </span>
   
 

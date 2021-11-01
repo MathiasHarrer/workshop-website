@@ -1,6 +1,8 @@
 ---
 title: Evaluation Randomisiert-Kontrollierter Studien mit R
 type: book  # Do not modify.
+icon_pack: fas
+icon: book
 toc: true
 linktitle: Evaluation von RCTs mit R
 ---

@@ -71,7 +71,7 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     noClasses: true
-    style: colorful
+    style: monokailight
     tabWidth: 4
 related:
   threshold: 80

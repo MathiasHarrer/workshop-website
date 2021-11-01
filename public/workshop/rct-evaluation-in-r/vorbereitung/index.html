@@ -685,7 +685,7 @@
 
     
       <div class="docs-toc-item">
-        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/">Evaluation von RCTs mit R</a>
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/"><i class="fas fa-book pr-1"></i>Evaluation von RCTs mit R</a>
     
       
         <ul class="nav docs-sidenav">
@@ -703,7 +703,7 @@
 
     
       <div class="docs-toc-item">
-        <a class="docs-toc-link  active" href="/workshop/rct-evaluation-in-r/vorbereitung/"><i class="fas fa-book pr-1"></i>Vorbereitung</a>
+        <a class="docs-toc-link  active" href="/workshop/rct-evaluation-in-r/vorbereitung/">Vorbereitung</a>
     
 
     
@@ -723,7 +723,7 @@
 
     
       <div class="docs-toc-item">
-        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/programm/"><i class="fas fa-list pr-1"></i>Programm</a>
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/programm/">Programm</a>
     
 
     
@@ -743,7 +743,145 @@
 
     
       <div class="docs-toc-item">
-        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/r-entdecken/"><i class="fab fa-r-project pr-1"></i>R Entdecken</a>
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/r-entdecken/">R Entdecken</a>
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/">Einführung &amp; Hintergrund</a>
+    
+      
+        <ul class="nav docs-sidenav">
+      
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/kernmerkmale/">Kernmerkmale</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/kausale-inferenz/">Kausale Inferenz</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/hypothesen/">Studienhypothesen</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/missing-data/">Missing Data-Mechanismen</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/multiple-imputation/">Multiple Imputation</a></li>
+
+      
+        </ul>
+      
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/analysieren-verstehen/">Analysieren &amp; Verstehen</a>
+    
+      
+        <ul class="nav docs-sidenav">
+      
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/rubin-regeln/">Die Rubin-Regeln</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/functional-programming/">Functional Programming</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/primaere-wirksamkeitsanalyse/">Primäre Wirksamkeitsanalyse</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veraenderung/">Reliable Veränderung</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/nnt/">Number Needed to Treat</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/">Generalisierte Lineare Modelle</a></li>
+
+      
+        </ul>
+      
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/material/"><i class="fas fa-database pr-1"></i>Material</a>
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/literatur/"><i class="fas fa-bookmark pr-1"></i>Literatur</a>
     
 
     
@@ -776,10 +914,10 @@
 
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#flexibility">Flexibility</a></li>
-    <li><a href="#delete-courses">Delete courses</a></li>
-    <li><a href="#update-site-menu">Update site menu</a></li>
-    <li><a href="#update-the-docs-menu">Update the docs menu</a></li>
+    <li><a href="#r--rstudio">R &amp; RStudio</a></li>
+    <li><a href="#vorbereitung-des-analysenordners">Vorbereitung des Analysenordners</a></li>
+    <li><a href="#bring-your-data">&ldquo;Bring Your Data&rdquo;</a></li>
+    <li><a href="#checkliste">Checkliste</a></li>
   </ul>
 </nav>
 
@@ -797,7 +935,8 @@
           <h1>Vorbereitung</h1>
 
           <div class="article-style">
-            <style>
+            <hr>
+<style>
 code{
   color: #2a7792;
 }
@@ -805,147 +944,68 @@ code{
   font-size: 16px
 }
 </style>
-<h2 id="flexibility">Flexibility</h2>
-<p>Document everything!</p>
-<p>This feature can be used for publishing content such as:</p>
+<br>
+<h2 id="r--rstudio">R &amp; RStudio</h2>
+<hr>
+<p>Für den Workshop ist eine aktuelle Installation von R (Version 4.0.0 oder größer) und RStudio auf dem PC notwendig. Beide Programme können hier heruntergeladen werden:</p>
 <ul>
-<li><strong>Online courses</strong></li>
-<li><strong>Project or software documentation</strong></li>
-<li><strong>Tutorials</strong></li>
-<li><strong>Notes</strong></li>
+<li>
+<p><strong>R</strong>: Download der Version für <a href="https://cran.r-project.org/bin/windows/base/" target="_blank" rel="noopener">Windows</a> oder <a href="https://cran.r-project.org/bin/macosx/" target="_blank" rel="noopener">macOS</a>.</p>
+</li>
+<li>
+<p><strong>RStudio</strong>: Download der kostenlosen Version von <a href="https://www.rstudio.com/products/rstudio/" target="_blank" rel="noopener">RStudio Desktop</a>.</p>
+</li>
 </ul>
-<p>The <code>courses</code> folder may be renamed. For example, we can rename it to <code>docs</code> for software/project documentation or <code>tutorials</code> for creating an online course.</p>
-<h2 id="delete-courses">Delete courses</h2>
-<p><strong>To remove these pages, delete the <code>courses</code> folder and see below to delete the associated menu link.</strong></p>
-<h2 id="update-site-menu">Update site menu</h2>
-<p>After renaming or deleting the <code>courses</code> folder, you may wish to update any <code>[[main]]</code> menu links to it by editing your menu configuration at <code>config/_default/menus.toml</code>.</p>
-<p>For example, if you delete this folder, you can remove the following from your menu configuration:</p>
-<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2">2</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3">3</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4">4</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[[main]]
-  name = <span style="background-color:#fff0f0">&#34;Courses&#34;</span>
-  url = <span style="background-color:#fff0f0">&#34;courses/&#34;</span>
-  weight = <span style="color:#00d;font-weight:bold">50</span>
-</code></pre></td></tr></table>
-</div>
-</div><p>Or, if you are creating a software documentation site, you can rename the <code>courses</code> folder to <code>docs</code> and update the associated <em>Courses</em> menu configuration to:</p>
-<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2">2</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3">3</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4">4</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[[main]]
-  name = <span style="background-color:#fff0f0">&#34;Docs&#34;</span>
-  url = <span style="background-color:#fff0f0">&#34;docs/&#34;</span>
-  weight = <span style="color:#00d;font-weight:bold">50</span>
-</code></pre></td></tr></table>
-</div>
-</div><div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2">2</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#06b;font-weight:bold">library</span>(dplyr)
-a <span style="color:#333">&lt;-</span> b
-</code></pre></td></tr></table>
-</div>
-</div><div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2">2</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3">3</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4">4</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#080;font-weight:bold">import</span> <span style="color:#0e84b5;font-weight:bold">numpy</span> <span style="color:#080;font-weight:bold">as</span> <span style="color:#0e84b5;font-weight:bold">np</span>
-main(<span style="color:#333">.</span>)
-library(<span style="background-color:#fff0f0">&#34;dplyr&#34;</span>)
-a <span style="color:#333">&lt;-</span> b
-</code></pre></td></tr></table>
-</div>
-</div><div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2">2</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r"><span style="color:#06b;font-weight:bold">library</span>(dplyr)
-a <span style="color:#333">&lt;-</span> b</code></pre></td></tr></table>
-</div>
-</div>
-<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1">1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2">2</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3">3</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4">4</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="5"><a style="outline: none; text-decoration:none; color:inherit" href="#5">5</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="6"><a style="outline: none; text-decoration:none; color:inherit" href="#6">6</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="7"><a style="outline: none; text-decoration:none; color:inherit" href="#7">7</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js">func
-library(<span style="background-color:#fff0f0">&#34;dplyr&#34;</span>)
-df <span style="color:#333">%&gt;%</span>
-  mutate(date <span style="color:#333">=</span> lubridate<span style="color:#333">::</span>ymd(date_string)) <span style="color:#333">%&gt;%</span>
-  select(<span style="color:#333">-</span> date_string)
-str(df)
-nrow(df)
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="update-the-docs-menu">Update the docs menu</h2>
-<p>If you use the <em>docs</em> layout, note that the name of the menu in the front matter should be in the form <code>[menu.X]</code> where <code>X</code> is the folder name. Hence, if you rename the <code>courses/example/</code> folder, you should also rename the menu definitions in the front matter of files within <code>courses/example/</code> from <code>[menu.example]</code> to <code>[menu.&lt;NewFolderName&gt;]</code>.</p>
-<p><a href="google.de">link</a></p>
-<div class="highlight"><div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1"> 1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2"> 2</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3"> 3</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4"> 4</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="5"><a style="outline: none; text-decoration:none; color:inherit" href="#5"> 5</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="6"><a style="outline: none; text-decoration:none; color:inherit" href="#6"> 6</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="7"><a style="outline: none; text-decoration:none; color:inherit" href="#7"> 7</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="8"><a style="outline: none; text-decoration:none; color:inherit" href="#8"> 8</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="9"><a style="outline: none; text-decoration:none; color:inherit" href="#9"> 9</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="10"><a style="outline: none; text-decoration:none; color:inherit" href="#10">10</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="11"><a style="outline: none; text-decoration:none; color:inherit" href="#11">11</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="12"><a style="outline: none; text-decoration:none; color:inherit" href="#12">12</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="13"><a style="outline: none; text-decoration:none; color:inherit" href="#13">13</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="14"><a style="outline: none; text-decoration:none; color:inherit" href="#14">14</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="15"><a style="outline: none; text-decoration:none; color:inherit" href="#15">15</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="16"><a style="outline: none; text-decoration:none; color:inherit" href="#16">16</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="17"><a style="outline: none; text-decoration:none; color:inherit" href="#17">17</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">data <span style="color:#333">%&gt;%</span>
-  <span style="color:#06b;font-weight:bold">select</span>(id, m, group, pss.0,
-         pss.1, pss.2) <span style="color:#333">%&gt;%</span>
-  <span style="color:#06b;font-weight:bold">pivot_longer</span>(<span style="color:#333">-</span><span style="color:#06b;font-weight:bold">c</span>(id, group, m),
-               names_to <span style="color:#333">=</span> <span style="background-color:#fff0f0">&#34;time&#34;</span>,
-               names_prefix <span style="color:#333">=</span> <span style="background-color:#fff0f0">&#34;pss.&#34;</span>,
-               values_to <span style="color:#333">=</span> <span style="background-color:#fff0f0">&#34;pss&#34;</span>) <span style="color:#333">-&gt;</span> plot.data
+<p>Nachdem beide Programme installiert wurden, sollte kurz geprüft werden, ob RStudio &ldquo;startbereit&rdquo; ist. Dazu muss einfach RStudio geöffnet werden; wird in der Console (unten links) die heruntergeladene R Version angezeigt (zusammen mit Lizenz- und anderen Basisinformationen), kann R auf dem Computer genutzt werden.</p>
+<p>Mehr Information zur Installation von R/RStudio finden sich <a href="https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/discovering-R.html#install-R" target="_blank" rel="noopener">hier</a>.</p>
+<br>
+<h2 id="vorbereitung-des-analysenordners">Vorbereitung des Analysenordners</h2>
+<hr>
+<p>Um die Praxisbeispiele während des Workshops selbst durchlaufen zu können, sollte zuvor bereits ein <strong>Ordner</strong> mit allen wichtigen Materialen zusammengestellt werden. Dieser Ordner sollte an einem gut auffindbaren Ort abgespeichert werden, und einen aussagekräftigen Namen tragen (z.B. <code>rct-workshop</code>).</p>
+<p>Während des Workshops werden neue Daten generiert, die dann ebenfalls in dem erstellten Ordner abgespeichert werden. Zu Beginn sollten jedoch bereits diese Materialen abgespeichert sein:</p>
+<ul>
+<li>📄 <code>script.R</code> (Leeres Skript für geschriebenen Code)</li>
+<li>📁 <code>data</code>
+<ul>
+<li>📄 <code>data.csv</code> (Datensatz für die Praxisbeispiele)</li>
+<li>📄 <code>imp.rda</code> (Imputierter Datensatz)</li>
+</ul>
+</li>
+</ul>
+<p>Dieser Ordner kann <a href="/workshop/rct-evaluation-in-r/vorbereitung/rct-workshop.zip">hier</a> im zip-Format heruntergeladen werden. Zudem können alle Datensätze unter dem Reiter <a href="/workshop/rct-evaluation-in-r/material">Material</a> eingesehen und heruntergeladen werden.</p>
+<br>
+<h2 id="bring-your-data">&ldquo;Bring Your Data&rdquo;</h2>
+<hr>
+<p>Der Workshop und alle seine Praxisbeispiele sind auf den o.g. Datensatz zugeschnitten. Besonders R-Anfängern möchten wir ans Herz legen, den Workshop mit diesen bereitgestellten Daten zu durchlaufen.</p>
+<p>Es besteht jedoch auch die Möglichkeit, Übungen und Praxisbeispiele mit einem eigenen RCT-Datensatz auszuprobieren. Dafür sollten jedoch Folgendes beachtet werden:</p>
+<ul>
+<li>
+<p><strong>Der Datensatz sollte nach den Grundsätzen von &ldquo;tidy data&rdquo; vorstrukturiert sein</strong>. Für eine Einführung in das &ldquo;tidy data&rdquo;-Konzept siehe Wickham (<a href="https://www.jstatsoft.org/article/view/v059i10" target="_blank" rel="noopener">2014</a>). Zudem sollte ein Codebook erstellt werden; diesem Codebook folgend sollten alle Variablennamen konsistent formatiert sein. Ein besonderes Augenmerk liegt dabei auf der Kodierung des Messzeitpunktes; bespielsweise sollten Messzeitpunktangaben über alle Variablen konsistent sein (z.B. <code>depression_t1</code>, <code>depression_t2</code>, <code>depression_t3</code> für Depression zu Baseline, Post-Test und Follow-up). Ein Beispiel für einen Coding Guide findet sich <a href="/data-warehouse/coding-guide/">hier</a>; der Beispieldatensatz <code>data.csv</code> ist nach diesen Richtlinien aufbereitet.</p>
+</li>
+<li>
+<p><strong>Individuelles Troubleshooting ist nur eingeschränkt möglich</strong>. Verfahren wie z.B. multiple Imputation müssen flexibel auf die vorliegenden Daten adaptiert werden; eine &ldquo;one size fits all&rdquo;-Lösung existiert hierfür nicht. Dies bedeutet, dass im Workshop erarbeiteter Code sich oft nicht automatisch und ohne Abänderungen auf das eigene Datenset übertragen lässt. Während des Workshops besteht nur begrenzt die Möglichkeit, auf Fehlermeldungen, Konvergenzprobleme etc. bei &ldquo;mitgebrachten&rdquo; Daten einzugehen. Im Notfall besteht jederzeit die Möglichkeit, auf die bereitgestellten Daten &ldquo;umzusatteln&rdquo;, und sich nach dem Workshop mit der nötigen Muße dem eigenen Datensatz zu widmen.</p>
+</li>
+</ul>
+<br>
+<h2 id="checkliste">Checkliste</h2>
+<hr>
+<p>Hier zusammenfassend eine Checkliste der Dinge, die für den Workshop vorbereitet werden müssen:</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Installation von R</li>
+<li><input checked="" disabled="" type="checkbox"> Installation von Rstudio</li>
+<li><input checked="" disabled="" type="checkbox"> Anlegen des Analysenordners auf dem PC</li>
+<li><input disabled="" type="checkbox"> Vorbereitung eigener Daten (<em>optional</em>)</li>
+</ul>
+<br>
+<ul class="cta-group">
+  
+  <li>
+    <a href="/workshop/rct-evaluation-in-r/programm/"  class="btn btn-primary px-3 py-3">👉 Los geht&rsquo;s!</a>
+  </li>
+  
+  
+</ul>
 
-jitter1 <span style="color:#333">=</span> <span style="color:#06b;font-weight:bold">runif</span>(<span style="color:#06b;font-weight:bold">nrow</span>(plot.data), <span style="color:#60e;font-weight:bold">-.05</span>, <span style="color:#60e;font-weight:bold">.05</span>)
-jitter2 <span style="color:#333">=</span> <span style="color:#06b;font-weight:bold">runif</span>(<span style="color:#06b;font-weight:bold">nrow</span>(plot.data), <span style="color:#60e;font-weight:bold">-.5</span>, <span style="color:#60e;font-weight:bold">.5</span>)
-
-<span style="color:#06b;font-weight:bold">within</span>(plot.data, {
-  time <span style="color:#333">=</span> <span style="color:#06b;font-weight:bold">as.numeric</span>(time)
-  group <span style="color:#333">=</span> <span style="color:#06b;font-weight:bold">as.factor</span>(group)
-  time.jitter <span style="color:#333">=</span> time <span style="color:#333">+</span> jitter1
-  pss.jitter <span style="color:#333">=</span> pss <span style="color:#333">+</span> jitter2
-}) <span style="color:#333">-&gt;</span> plot.data</code></pre></td></tr></table>
-</div>
-</div>
 
           </div>
 
@@ -967,7 +1027,7 @@ jitter2 <span style="color:#333">=</span> <span style="color:#06b;font-weight:bo
         </div>
 
         <div class="body-footer">
-          <p>Zuletzt aktualisiert am 0001-01-01</p>
+          <p>Zuletzt aktualisiert am 1. Januar 2021</p>
 
           
 

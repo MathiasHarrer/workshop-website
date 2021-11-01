@@ -1,0 +1,1233 @@
+<!DOCTYPE html><html lang="de" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Prof. Dr. David Daniel Ebert" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="code{ color: #2a7792; } .hljs{ font-size: 14px }   Slides   
+
+Praxis-Teil  Logistische Regression 1 2 3 4 5 6 7 8 9 10 11 12 13  # Wir fokussieren hier auf die logistische Regression." />
+
+  
+  <link rel="alternate" hreflang="de" href="/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="rgb(42, 119, 146)" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Fira+Code:wght@300;400;500;600;700&family=Fira+Sans&family=Raleway:ital,wght@0,700;1,700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Fira+Code:wght@300;400;500;600;700&family=Fira+Sans&family=Raleway:ital,wght@0,700;1,700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.a545b0d9762cb75c12b077425c17d68b.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua7fc57bd6c63daa14ad6ba507053d01b_19344_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua7fc57bd6c63daa14ad6ba507053d01b_19344_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@DDEbert" />
+    <meta property="twitter:creator" content="@DDEbert" />
+  
+  <meta property="og:site_name" content="Protect Lab" />
+  <meta property="og:url" content="/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/" />
+  <meta property="og:title" content="Generalisierte Lineare Modelle | Protect Lab" />
+  <meta property="og:description" content="code{ color: #2a7792; } .hljs{ font-size: 14px }   Slides   
+
+Praxis-Teil  Logistische Regression 1 2 3 4 5 6 7 8 9 10 11 12 13  # Wir fokussieren hier auf die logistische Regression." /><meta property="og:image" content="/media/logo.svg" />
+    <meta property="twitter:image" content="/media/logo.svg" /><meta property="og:locale" content="de" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-01-25T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-01-25T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "rgb(42, 119, 146)",
+          "text": "rgb(255, 255, 255)"
+        },
+        "button": {
+          "background": "rgb(255, 255, 255)",
+          "text": "rgb(42, 119, 146)"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies.",
+        "dismiss": "Verstanden!",
+        "link": "Mehr erfahren",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
+
+  
+
+
+
+
+
+  <title>Generalisierte Lineare Modelle | Protect Lab</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="00cbd41cd3235aafaa9cb19973490bd2" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7f3e7639f4c7f2a2cf83b68ea7de7f08.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Suche</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Suche..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Suche...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/media/logo.svg" alt="Protect Lab"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Navigation einblenden">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/media/logo.svg" alt="Protect Lab"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Lab</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/author/prof.-dr.-david-daniel-ebert/"><span>Prof. David Daniel Ebert</span></a>
+            
+              <a class="dropdown-item" href="/team/"><span>Team</span></a>
+            
+              <a class="dropdown-item" href="/job/"><span>Ausschreibungen</span></a>
+            
+              <a class="dropdown-item" href="/#contact"><span>Kontakt</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Forschung</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/research/"><span>Übersicht</span></a>
+            
+              <a class="dropdown-item" href="/research-projects/"><span>Forschungsprojekte</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publikationen</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/press/"><span>Presse</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post/"><span>Neuigkeiten</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Suche"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      <form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-md-3 w-100" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <div class="d-flex">
+      <span class="d-md-none pl-1 flex-grow-1 text-left overflow-hidden">
+        
+          Analysieren & Verstehen
+        
+      </span>
+      <span><i class="fas fa-chevron-down"></i></span>
+    </div>
+  </button>
+
+  
+  <button class="form-control sidebar-search js-search d-none d-md-flex">
+    <i class="fas fa-search pr-2"></i>
+    <span class="sidebar-search-text">Suche...</span>
+    <span class="sidebar-search-shortcut">/</span>
+  </button>
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  
+  
+  
+  
+
+  
+  
+    
+
+    
+      
+
+      <ul class="nav docs-sidenav">
+        <li><a href="/workshop/"><i class="fas fa-arrow-left pr-1"></i>Workshops</a></li>
+      </ul>
+
+      
+      
+        
+          
+        
+      
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/"><i class="fas fa-book pr-1"></i>Evaluation von RCTs mit R</a>
+    
+      
+        <ul class="nav docs-sidenav">
+      
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/vorbereitung/">Vorbereitung</a>
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/programm/">Programm</a>
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/r-entdecken/">R Entdecken</a>
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/">Einführung &amp; Hintergrund</a>
+    
+      
+        <ul class="nav docs-sidenav">
+      
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/kernmerkmale/">Kernmerkmale</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/kausale-inferenz/">Kausale Inferenz</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/hypothesen/">Studienhypothesen</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/missing-data/">Missing Data-Mechanismen</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/multiple-imputation/">Multiple Imputation</a></li>
+
+      
+        </ul>
+      
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/analysieren-verstehen/">Analysieren &amp; Verstehen</a>
+    
+      
+        <ul class="nav docs-sidenav">
+      
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/rubin-regeln/">Die Rubin-Regeln</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/functional-programming/">Functional Programming</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/primaere-wirksamkeitsanalyse/">Primäre Wirksamkeitsanalyse</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veraenderung/">Reliable Veränderung</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/nnt/">Number Needed to Treat</a></li>
+
+
+
+  <li class="active"><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/">Generalisierte Lineare Modelle</a></li>
+
+      
+        </ul>
+      
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/material/"><i class="fas fa-database pr-1"></i>Material</a>
+    
+
+    
+      </div>
+    
+
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/literatur/"><i class="fas fa-bookmark pr-1"></i>Literatur</a>
+    
+
+    
+      </div>
+    
+
+      
+        </ul>
+      
+    
+
+    
+      </div>
+    
+
+    
+  
+</nav>
+
+    </div>
+
+    
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      
+
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Auf dieser Seite</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#slides">Slides</a></li>
+    <li><a href="#praxis-teil">Praxis-Teil</a>
+      <ul>
+        <li><a href="#logistische-regression">Logistische Regression</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          
+
+          <h1>Generalisierte Lineare Modelle</h1>
+
+          <div class="article-style">
+            <style>
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 14px
+}
+
+
+
+</style>
+<hr>
+<h2 id="slides">Slides</h2>
+<hr>
+<iframe src="https://drive.google.com/file/d/117bRqbY9wjSy8M7jakcYDjBxtYTMldmF/preview" width="640" height="480" allow="autoplay"></iframe>
+<p><br></br></p>
+<h2 id="praxis-teil">Praxis-Teil</h2>
+<hr>
+<h3 id="logistische-regression">Logistische Regression</h3>
+<div class="highlight"><div style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1"> 1</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2"> 2</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3"> 3</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4"> 4</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="5"><a style="outline: none; text-decoration:none; color:inherit" href="#5"> 5</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="6"><a style="outline: none; text-decoration:none; color:inherit" href="#6"> 6</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="7"><a style="outline: none; text-decoration:none; color:inherit" href="#7"> 7</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="8"><a style="outline: none; text-decoration:none; color:inherit" href="#8"> 8</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="9"><a style="outline: none; text-decoration:none; color:inherit" href="#9"> 9</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="10"><a style="outline: none; text-decoration:none; color:inherit" href="#10">10</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="11"><a style="outline: none; text-decoration:none; color:inherit" href="#11">11</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="12"><a style="outline: none; text-decoration:none; color:inherit" href="#12">12</a>
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="13"><a style="outline: none; text-decoration:none; color:inherit" href="#13">13</a>
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e"># Wir fokussieren hier auf die logistische Regression.</span>
+<span style="color:#75715e"># Wir nutzen die neu generierte Reliable Improvement-Variable als Repsonse</span>
+
+<span style="color:#75715e"># In einem Set:</span>
+<span style="color:#111">m.logreg</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">glm</span><span style="color:#111">(</span><span style="color:#111">ri</span> <span style="color:#f92672">~</span> <span style="color:#ae81ff">1</span> <span style="color:#f92672">+</span> <span style="color:#111">group</span> <span style="color:#f92672">+</span> <span style="color:#111">pss.0</span><span style="color:#111">,</span> <span style="color:#111">data</span> <span style="color:#f92672">=</span> <span style="color:#111">implist[[1]]</span><span style="color:#111">,</span>
+                <span style="color:#111">family</span> <span style="color:#f92672">=</span> <span style="color:#75af00">binomial</span><span style="color:#111">(</span><span style="color:#d88200">&#34;logit&#34;</span><span style="color:#111">))</span>
+<span style="color:#75af00">summary</span><span style="color:#111">(</span><span style="color:#111">m.logreg</span><span style="color:#111">)</span>
+
+
+<span style="color:#75715e"># In den MI-Sets:</span>
+<span style="color:#75af00">with</span><span style="color:#111">(</span><span style="color:#111">implist</span><span style="color:#111">,</span> <span style="color:#75af00">glm</span><span style="color:#111">(</span><span style="color:#111">ri</span> <span style="color:#f92672">~</span> <span style="color:#ae81ff">1</span> <span style="color:#f92672">+</span> <span style="color:#111">group</span> <span style="color:#f92672">+</span> <span style="color:#111">pss.0</span><span style="color:#111">,</span><span style="color:#75af00">binomial</span><span style="color:#111">(</span><span style="color:#d88200">&#34;logit&#34;</span><span style="color:#111">)))</span> <span style="color:#f92672">%&gt;%</span>
+  <span style="color:#75af00">testEstimates</span><span style="color:#111">()</span> <span style="color:#f92672">-&gt;</span> <span style="color:#111">mi.logreg</span>
+<span style="color:#111">mi.logreg</span></code></pre></td></tr></table>
+</div>
+</div>
+
+          </div>
+
+          
+
+
+
+          
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Zurück</div>
+    <a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/nnt/" rel="next">Number Needed to Treat</a>
+  </div>
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Zuletzt aktualisiert am 25. Januar 2021</p>
+
+          
+
+
+
+
+
+          
+
+
+
+
+          
+
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © Protect Lab 2021
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Zitieren</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Kopie
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js" integrity="sha512-I7w3ZdSFzw5j3jU3ZkNikBNeIrl3i+hEuEdwNmqUJvwNcaBUNcijnP2gd9DtGlgVYDplfjGoD8vTNsID+lCjqg==" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/de/js/wowchemy.min.9d8922b63a2e50946d0623bbc2261433.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>

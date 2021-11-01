@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material | Protect Lab</title>
+    <link>/workshop/rct-evaluation-in-r/material/</link>
+      <atom:link href="/workshop/rct-evaluation-in-r/material/index.xml" rel="self" type="application/rss+xml" />
+    <description>Material</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2021</copyright>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>Material</title>
+      <link>/workshop/rct-evaluation-in-r/material/</link>
+    </image>
+    
+  </channel>
+</rss>
