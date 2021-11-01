@@ -17,7 +17,6 @@ code{
 .hljs{
   font-size: 16px
 }
-
 </style>
 
 ## Flexibility
