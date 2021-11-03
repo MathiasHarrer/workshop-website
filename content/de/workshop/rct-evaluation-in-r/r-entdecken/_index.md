@@ -15,8 +15,9 @@ code{
   color: #2a7792;
 }
 .hljs{
-  font-size: 16px
-}
+  font-size: 16px}
+
+h1 {color: #2a7792;}
 
 </style>
 

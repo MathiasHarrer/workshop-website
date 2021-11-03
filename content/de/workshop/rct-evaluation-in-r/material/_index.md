@@ -17,6 +17,7 @@ code{
 }
 .hljs{
   font-size: 16px
+h1 {color: #2a7792;}
 }
 
 </style>
@@ -27,7 +28,6 @@ code{
 
 ## Daten
 
----
 
 - `data.csv`: Ausgewählte Daten einer randomisiert-kontrollierten Studie, mit fehlenden Werten.
 - `imp.rda`: Element der Klasse `mids` mit $m$=25 (multipel) imputierten Datensätzen.
@@ -38,6 +38,5 @@ code{
 
 ## Slides
 
----
 
 - Gesammelte Foliensätze des Workshops.

@@ -28,3 +28,8 @@ code{
 <br>
 
 {{< cta cta_text="👉 Kernmerkmale" cta_link="kernmerkmale" >}}
+
+
+<style>
+h1 {color: #2a7792;}
+</style>

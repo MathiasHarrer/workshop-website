@@ -29,3 +29,7 @@ code{
 <br>
 
 {{< cta cta_text="👉 Die Rubin-Regeln" cta_link="/workshop/rct-evaluation-in-r/analysieren-verstehen/rubin-regeln" >}}
+
+<style>
+h1 {color: #2a7792;}
+</style>

@@ -19,13 +19,13 @@ code{
 .hljs{
   font-size: 16px
 }
+h1 {color: #2a7792;}
 </style>
 
 <br>
 
 ## R & RStudio
 
----
 
 Für den Workshop ist eine aktuelle Installation von R (Version 4.0.0 oder größer) und RStudio auf dem PC notwendig. Beide Programme können hier heruntergeladen werden:
 
@@ -41,7 +41,6 @@ Mehr Information zur Installation von R/RStudio finden sich [hier](https://bookd
 
 ## Vorbereitung des Analysenordners
 
----
 
 Um die Praxisbeispiele während des Workshops selbst durchlaufen zu können, sollte zuvor bereits ein **Ordner** mit allen wichtigen Materialen zusammengestellt werden. Dieser Ordner sollte an einem gut auffindbaren Ort abgespeichert werden, und einen aussagekräftigen Namen tragen (z.B. `rct-workshop`).
 
@@ -59,7 +58,6 @@ Dieser Ordner kann [hier](/workshop/rct-evaluation-in-r/vorbereitung/rct-worksho
 
 ## "Bring Your Data"
 
----
 
 Der Workshop und alle seine Praxisbeispiele sind auf den o.g. Datensatz zugeschnitten. Besonders R-Anfängern möchten wir ans Herz legen, den Workshop mit diesen bereitgestellten Daten zu durchlaufen.
 
@@ -74,7 +72,6 @@ Es besteht jedoch auch die Möglichkeit, Übungen und Praxisbeispiele mit einem 
 
 ## Checkliste
 
----
 
 Hier zusammenfassend eine Checkliste der Dinge, die für den Workshop vorbereitet werden müssen:
 
@@ -84,5 +81,3 @@ Hier zusammenfassend eine Checkliste der Dinge, die für den Workshop vorbereite
 - [ ] Vorbereitung eigener Daten (_optional_)
 
 <br>
-
-{{< cta cta_text="👉 Los geht's!" cta_link="/workshop/rct-evaluation-in-r/programm/" >}}

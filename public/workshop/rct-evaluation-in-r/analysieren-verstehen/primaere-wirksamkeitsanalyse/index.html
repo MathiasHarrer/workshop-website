@@ -30,9 +30,7 @@
   
     
   
-  <meta name="description" content="code{ color: #2a7792; } .hljs{ font-size: 14px }   Slides   
-
-Praxis-Teil  Analysis of Covariance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20  m." />
+  <meta name="description" content="code{ color: #2a7792; } .hljs{ font-size: 16px } .minih{ font-size: 1px; margin: 0px 0px 0px 0px; } .highlight { position: relative; } .highlight pre { padding: 15px; } .highlight-copy-btn { position: absolute; top: 7px; right: 7px; border: 0; border-radius: 4px; padding: 5px; font-size: 0." />
 
   
   <link rel="alternate" hreflang="de" href="/workshop/rct-evaluation-in-r/analysieren-verstehen/primaere-wirksamkeitsanalyse/" />
@@ -303,9 +301,7 @@ Praxis-Teil  Analysis of Covariance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
   <meta property="og:site_name" content="Protect Lab" />
   <meta property="og:url" content="/workshop/rct-evaluation-in-r/analysieren-verstehen/primaere-wirksamkeitsanalyse/" />
   <meta property="og:title" content="Primäre Wirksamkeitsanalyse | Protect Lab" />
-  <meta property="og:description" content="code{ color: #2a7792; } .hljs{ font-size: 14px }   Slides   
-
-Praxis-Teil  Analysis of Covariance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20  m." /><meta property="og:image" content="/media/logo.svg" />
+  <meta property="og:description" content="code{ color: #2a7792; } .hljs{ font-size: 16px } .minih{ font-size: 1px; margin: 0px 0px 0px 0px; } .highlight { position: relative; } .highlight pre { padding: 15px; } .highlight-copy-btn { position: absolute; top: 7px; right: 7px; border: 0; border-radius: 4px; padding: 5px; font-size: 0." /><meta property="og:image" content="/media/logo.svg" />
     <meta property="twitter:image" content="/media/logo.svg" /><meta property="og:locale" content="de" />
   
     
@@ -314,7 +310,7 @@ Praxis-Teil  Analysis of Covariance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
         content="2021-01-25T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-01-25T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-11-01T13:21:46&#43;01:00">
   
 
   
@@ -695,7 +691,7 @@ Praxis-Teil  Analysis of Covariance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
 
     
       <div class="docs-toc-item">
-        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/"><i class="fas fa-book pr-1"></i>Evaluation von RCTs mit R</a>
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/">Evaluation von RCTs mit R</a>
     
       
         <ul class="nav docs-sidenav">
@@ -839,15 +835,27 @@ Praxis-Teil  Analysis of Covariance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
 
 
 
-  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veraenderung/">Reliable Veränderung</a></li>
-
-
-
-  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/nnt/">Number Needed to Treat</a></li>
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/">Reliable Veränderung</a></li>
 
 
 
   <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/">Generalisierte Lineare Modelle</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/visualisierung/">Visualisierung</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/multiples-testen/">Alphakorrektur</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/effektstaerken/">Effektstärken</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reporting-reproduzierbarkeit/">Reporting &amp; Reproduzierbarkeit</a></li>
 
       
         </ul>
@@ -924,7 +932,7 @@ Praxis-Teil  Analysis of Covariance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
 
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#slides">Slides</a></li>
+    <li><a href="#foliensatz">Foliensatz</a></li>
     <li><a href="#praxis-teil">Praxis-Teil</a>
       <ul>
         <li><a href="#analysis-of-covariance">Analysis of Covariance</a></li>
@@ -954,43 +962,45 @@ code{
   color: #2a7792;
 }
 .hljs{
-  font-size: 14px
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
 }
 
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
 </style>
 <hr>
-<h2 id="slides">Slides</h2>
-<hr>
+<h2 class="minih" id="foliensatz">Foliensatz</h2>
 <iframe src="https://drive.google.com/file/d/117bRqbY9wjSy8M7jakcYDjBxtYTMldmF/preview" width="640" height="480" allow="autoplay"></iframe>
 <p><br></br></p>
 <h2 id="praxis-teil">Praxis-Teil</h2>
 <hr>
 <h3 id="analysis-of-covariance">Analysis of Covariance</h3>
-<div class="highlight"><div style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1"> 1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2"> 2</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3"> 3</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4"> 4</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="5"><a style="outline: none; text-decoration:none; color:inherit" href="#5"> 5</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="6"><a style="outline: none; text-decoration:none; color:inherit" href="#6"> 6</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="7"><a style="outline: none; text-decoration:none; color:inherit" href="#7"> 7</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="8"><a style="outline: none; text-decoration:none; color:inherit" href="#8"> 8</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="9"><a style="outline: none; text-decoration:none; color:inherit" href="#9"> 9</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="10"><a style="outline: none; text-decoration:none; color:inherit" href="#10">10</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="11"><a style="outline: none; text-decoration:none; color:inherit" href="#11">11</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="12"><a style="outline: none; text-decoration:none; color:inherit" href="#12">12</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="13"><a style="outline: none; text-decoration:none; color:inherit" href="#13">13</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="14"><a style="outline: none; text-decoration:none; color:inherit" href="#14">14</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="15"><a style="outline: none; text-decoration:none; color:inherit" href="#15">15</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="16"><a style="outline: none; text-decoration:none; color:inherit" href="#16">16</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="17"><a style="outline: none; text-decoration:none; color:inherit" href="#17">17</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="18"><a style="outline: none; text-decoration:none; color:inherit" href="#18">18</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="19"><a style="outline: none; text-decoration:none; color:inherit" href="#19">19</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="20"><a style="outline: none; text-decoration:none; color:inherit" href="#20">20</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">m.ancova</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">lm</span><span style="color:#111">(</span><span style="color:#111">pss.1</span> <span style="color:#f92672">~</span> <span style="color:#ae81ff">1</span> <span style="color:#f92672">+</span> <span style="color:#111">group</span> <span style="color:#f92672">+</span> <span style="color:#75af00">scale</span><span style="color:#111">(</span><span style="color:#111">pss.0</span><span style="color:#111">),</span> <span style="color:#111">data</span> <span style="color:#f92672">=</span> <span style="color:#111">implist[[1]]</span><span style="color:#111">)</span>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">m.ancova</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">lm</span><span style="color:#111">(</span><span style="color:#111">pss.1</span> <span style="color:#f92672">~</span> <span style="color:#ae81ff">1</span> <span style="color:#f92672">+</span> <span style="color:#111">group</span> <span style="color:#f92672">+</span> <span style="color:#75af00">scale</span><span style="color:#111">(</span><span style="color:#111">pss.0</span><span style="color:#111">),</span> <span style="color:#111">data</span> <span style="color:#f92672">=</span> <span style="color:#111">implist[[1]]</span><span style="color:#111">)</span>
 <span style="color:#75af00">summary</span><span style="color:#111">(</span><span style="color:#111">m.ancova</span><span style="color:#111">)</span>
 
 <span style="color:#75715e"># Prüfe Voraussetzungen:</span>
@@ -1009,29 +1019,10 @@ code{
 
 <span style="color:#75715e"># Zum Vergleich: Fit ohne Kovariate</span>
 <span style="color:#75af00">lm</span><span style="color:#111">(</span><span style="color:#111">pss.1</span> <span style="color:#f92672">~</span> <span style="color:#ae81ff">1</span> <span style="color:#f92672">+</span> <span style="color:#111">group</span><span style="color:#111">,</span> <span style="color:#111">data</span> <span style="color:#f92672">=</span> <span style="color:#111">implist[[1]]</span><span style="color:#111">)</span> <span style="color:#f92672">%&gt;%</span>
-  <span style="color:#75af00">anova</span><span style="color:#111">()</span></code></pre></td></tr></table>
-</div>
-</div>
+  <span style="color:#75af00">anova</span><span style="color:#111">()</span></code></pre></div>
 <br>
 <h3 id="ancova-in-multipel-imputierten-daten">ANCOVA in Multipel Imputierten Daten</h3>
-<div class="highlight"><div style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1"> 1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2"> 2</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3"> 3</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4"> 4</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="5"><a style="outline: none; text-decoration:none; color:inherit" href="#5"> 5</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="6"><a style="outline: none; text-decoration:none; color:inherit" href="#6"> 6</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="7"><a style="outline: none; text-decoration:none; color:inherit" href="#7"> 7</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="8"><a style="outline: none; text-decoration:none; color:inherit" href="#8"> 8</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="9"><a style="outline: none; text-decoration:none; color:inherit" href="#9"> 9</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="10"><a style="outline: none; text-decoration:none; color:inherit" href="#10">10</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="11"><a style="outline: none; text-decoration:none; color:inherit" href="#11">11</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="12"><a style="outline: none; text-decoration:none; color:inherit" href="#12">12</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="13"><a style="outline: none; text-decoration:none; color:inherit" href="#13">13</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e"># Liste muss Klasse &#34;mitml.list&#34; besitzen!</span>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e"># Liste muss Klasse &#34;mitml.list&#34; besitzen!</span>
 <span style="color:#75af00">class</span><span style="color:#111">(</span><span style="color:#111">implist</span><span style="color:#111">)</span> <span style="color:#f92672">=</span> <span style="color:#75af00">c</span><span style="color:#111">(</span><span style="color:#d88200">&#34;mitml.list&#34;</span><span style="color:#111">,</span> <span style="color:#d88200">&#34;list&#34;</span><span style="color:#111">)</span>
 
 <span style="color:#75715e"># Fitte ANCOVA-Modell in allen MI-Sets</span>
@@ -1043,55 +1034,10 @@ code{
   <span style="color:#75af00">map_dbl</span><span style="color:#111">(</span><span style="color:#f92672">~</span><span style="color:#75af00">anova</span><span style="color:#111">(</span><span style="color:#111">.)</span><span style="color:#f92672">$</span><span style="color:#111">`F value`[1]</span><span style="color:#111">)</span> <span style="color:#f92672">-&gt;</span> <span style="color:#111">Fvalues</span>
 
 <span style="color:#75715e"># Kombiniere F-Werte mit Rubin-Regeln</span>
-<span style="color:#75af00">micombine.F</span><span style="color:#111">(</span><span style="color:#111">Fvalues</span><span style="color:#111">,</span> <span style="color:#ae81ff">1</span><span style="color:#111">)</span></code></pre></td></tr></table>
-</div>
-</div>
+<span style="color:#75af00">micombine.F</span><span style="color:#111">(</span><span style="color:#111">Fvalues</span><span style="color:#111">,</span> <span style="color:#ae81ff">1</span><span style="color:#111">)</span></code></pre></div>
 <br>
 <h3 id="ancova-bei-sekundären-endpunkten">ANCOVA bei sekundären Endpunkten</h3>
-<div class="highlight"><div style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="1"><a style="outline: none; text-decoration:none; color:inherit" href="#1"> 1</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="2"><a style="outline: none; text-decoration:none; color:inherit" href="#2"> 2</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="3"><a style="outline: none; text-decoration:none; color:inherit" href="#3"> 3</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="4"><a style="outline: none; text-decoration:none; color:inherit" href="#4"> 4</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="5"><a style="outline: none; text-decoration:none; color:inherit" href="#5"> 5</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="6"><a style="outline: none; text-decoration:none; color:inherit" href="#6"> 6</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="7"><a style="outline: none; text-decoration:none; color:inherit" href="#7"> 7</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="8"><a style="outline: none; text-decoration:none; color:inherit" href="#8"> 8</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="9"><a style="outline: none; text-decoration:none; color:inherit" href="#9"> 9</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="10"><a style="outline: none; text-decoration:none; color:inherit" href="#10">10</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="11"><a style="outline: none; text-decoration:none; color:inherit" href="#11">11</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="12"><a style="outline: none; text-decoration:none; color:inherit" href="#12">12</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="13"><a style="outline: none; text-decoration:none; color:inherit" href="#13">13</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="14"><a style="outline: none; text-decoration:none; color:inherit" href="#14">14</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="15"><a style="outline: none; text-decoration:none; color:inherit" href="#15">15</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="16"><a style="outline: none; text-decoration:none; color:inherit" href="#16">16</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="17"><a style="outline: none; text-decoration:none; color:inherit" href="#17">17</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="18"><a style="outline: none; text-decoration:none; color:inherit" href="#18">18</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="19"><a style="outline: none; text-decoration:none; color:inherit" href="#19">19</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="20"><a style="outline: none; text-decoration:none; color:inherit" href="#20">20</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="21"><a style="outline: none; text-decoration:none; color:inherit" href="#21">21</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="22"><a style="outline: none; text-decoration:none; color:inherit" href="#22">22</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="23"><a style="outline: none; text-decoration:none; color:inherit" href="#23">23</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="24"><a style="outline: none; text-decoration:none; color:inherit" href="#24">24</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="25"><a style="outline: none; text-decoration:none; color:inherit" href="#25">25</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="26"><a style="outline: none; text-decoration:none; color:inherit" href="#26">26</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="27"><a style="outline: none; text-decoration:none; color:inherit" href="#27">27</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="28"><a style="outline: none; text-decoration:none; color:inherit" href="#28">28</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="29"><a style="outline: none; text-decoration:none; color:inherit" href="#29">29</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="30"><a style="outline: none; text-decoration:none; color:inherit" href="#30">30</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="31"><a style="outline: none; text-decoration:none; color:inherit" href="#31">31</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="32"><a style="outline: none; text-decoration:none; color:inherit" href="#32">32</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="33"><a style="outline: none; text-decoration:none; color:inherit" href="#33">33</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="34"><a style="outline: none; text-decoration:none; color:inherit" href="#34">34</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="35"><a style="outline: none; text-decoration:none; color:inherit" href="#35">35</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="36"><a style="outline: none; text-decoration:none; color:inherit" href="#36">36</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="37"><a style="outline: none; text-decoration:none; color:inherit" href="#37">37</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="38"><a style="outline: none; text-decoration:none; color:inherit" href="#38">38</a>
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="39"><a style="outline: none; text-decoration:none; color:inherit" href="#39">39</a>
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e"># Definiere Namen alles zu analysierenden Variablen</span>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e"># Definiere Namen alles zu analysierenden Variablen</span>
 <span style="color:#75715e"># (ohne Zeitangabe)</span>
 <span style="color:#111">test.vars</span> <span style="color:#f92672">=</span> <span style="color:#75af00">c</span><span style="color:#111">(</span><span style="color:#d88200">&#34;pss&#34;</span><span style="color:#111">,</span> <span style="color:#d88200">&#34;cesd&#34;</span><span style="color:#111">,</span> <span style="color:#d88200">&#34;hadsa&#34;</span><span style="color:#111">,</span>
               <span style="color:#d88200">&#34;isi&#34;</span><span style="color:#111">,</span> <span style="color:#d88200">&#34;mbi&#34;</span><span style="color:#111">,</span> <span style="color:#d88200">&#34;pswq&#34;</span><span style="color:#111">)</span>
@@ -1129,9 +1075,10 @@ code{
             <span style="color:#111">time</span> <span style="color:#f92672">=</span> <span style="color:#75af00">rep</span><span style="color:#111">(</span><span style="color:#ae81ff">1</span><span style="color:#f92672">:</span><span style="color:#ae81ff">2</span><span style="color:#111">,</span> <span style="color:#111">each</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">6</span><span style="color:#111">),</span> <span style="color:#111">.)</span> <span style="color:#f92672">-&gt;</span> <span style="color:#111">mi.ancova.full</span>
 
 <span style="color:#75715e"># Speichere Ergebnisse als Excel-Sheet</span>
-<span style="color:#75af00">write_xlsx</span><span style="color:#111">(</span><span style="color:#111">mi.ancova.full</span><span style="color:#111">,</span> <span style="color:#d88200">&#34;mi_ancova_full.xlsx&#34;</span><span style="color:#111">)</span></code></pre></td></tr></table>
-</div>
-</div>
+<span style="color:#75af00">write_xlsx</span><span style="color:#111">(</span><span style="color:#111">mi.ancova.full</span><span style="color:#111">,</span> <span style="color:#d88200">&#34;mi_ancova_full.xlsx&#34;</span><span style="color:#111">)</span></code></pre></div>
+<style>
+h1 {color: #2a7792;}
+</style>
 
           </div>
 
@@ -1156,7 +1103,7 @@ code{
   
   <div class="post-nav-item">
     <div class="meta-nav">Weiter</div>
-    <a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veraenderung/" rel="prev">Reliable Veränderung</a>
+    <a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/" rel="prev">Reliable Veränderung</a>
   </div>
   
 </div>
@@ -1166,7 +1113,7 @@ code{
         </div>
 
         <div class="body-footer">
-          <p>Zuletzt aktualisiert am 25. Januar 2021</p>
+          <p>Zuletzt aktualisiert am 1. Januar 2021</p>
 
           
 
@@ -1361,7 +1308,9 @@ code{
       
     
     
-    <script src="/de/js/wowchemy.min.9d8922b63a2e50946d0623bbc2261433.js"></script>
+      
+    
+    <script src="/de/js/wowchemy.min.54654f46868ee8112030ea397058d886.js"></script>
 
     
   <script async defer src="https://buttons.github.io/buttons.js"></script>

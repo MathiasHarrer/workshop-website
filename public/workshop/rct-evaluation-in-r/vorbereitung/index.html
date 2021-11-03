@@ -685,7 +685,7 @@
 
     
       <div class="docs-toc-item">
-        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/"><i class="fas fa-book pr-1"></i>Evaluation von RCTs mit R</a>
+        <a class="docs-toc-link " href="/workshop/rct-evaluation-in-r/">Evaluation von RCTs mit R</a>
     
       
         <ul class="nav docs-sidenav">
@@ -829,15 +829,27 @@
 
 
 
-  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veraenderung/">Reliable Veränderung</a></li>
-
-
-
-  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/nnt/">Number Needed to Treat</a></li>
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/">Reliable Veränderung</a></li>
 
 
 
   <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/">Generalisierte Lineare Modelle</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/visualisierung/">Visualisierung</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/multiples-testen/">Alphakorrektur</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/effektstaerken/">Effektstärken</a></li>
+
+
+
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reporting-reproduzierbarkeit/">Reporting &amp; Reproduzierbarkeit</a></li>
 
       
         </ul>
@@ -943,10 +955,10 @@ code{
 .hljs{
   font-size: 16px
 }
+h1 {color: #2a7792;}
 </style>
 <br>
 <h2 id="r--rstudio">R &amp; RStudio</h2>
-<hr>
 <p>Für den Workshop ist eine aktuelle Installation von R (Version 4.0.0 oder größer) und RStudio auf dem PC notwendig. Beide Programme können hier heruntergeladen werden:</p>
 <ul>
 <li>
@@ -960,7 +972,6 @@ code{
 <p>Mehr Information zur Installation von R/RStudio finden sich <a href="https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/discovering-R.html#install-R" target="_blank" rel="noopener">hier</a>.</p>
 <br>
 <h2 id="vorbereitung-des-analysenordners">Vorbereitung des Analysenordners</h2>
-<hr>
 <p>Um die Praxisbeispiele während des Workshops selbst durchlaufen zu können, sollte zuvor bereits ein <strong>Ordner</strong> mit allen wichtigen Materialen zusammengestellt werden. Dieser Ordner sollte an einem gut auffindbaren Ort abgespeichert werden, und einen aussagekräftigen Namen tragen (z.B. <code>rct-workshop</code>).</p>
 <p>Während des Workshops werden neue Daten generiert, die dann ebenfalls in dem erstellten Ordner abgespeichert werden. Zu Beginn sollten jedoch bereits diese Materialen abgespeichert sein:</p>
 <ul>
@@ -975,7 +986,6 @@ code{
 <p>Dieser Ordner kann <a href="/workshop/rct-evaluation-in-r/vorbereitung/rct-workshop.zip">hier</a> im zip-Format heruntergeladen werden. Zudem können alle Datensätze unter dem Reiter <a href="/workshop/rct-evaluation-in-r/material">Material</a> eingesehen und heruntergeladen werden.</p>
 <br>
 <h2 id="bring-your-data">&ldquo;Bring Your Data&rdquo;</h2>
-<hr>
 <p>Der Workshop und alle seine Praxisbeispiele sind auf den o.g. Datensatz zugeschnitten. Besonders R-Anfängern möchten wir ans Herz legen, den Workshop mit diesen bereitgestellten Daten zu durchlaufen.</p>
 <p>Es besteht jedoch auch die Möglichkeit, Übungen und Praxisbeispiele mit einem eigenen RCT-Datensatz auszuprobieren. Dafür sollten jedoch Folgendes beachtet werden:</p>
 <ul>
@@ -988,7 +998,6 @@ code{
 </ul>
 <br>
 <h2 id="checkliste">Checkliste</h2>
-<hr>
 <p>Hier zusammenfassend eine Checkliste der Dinge, die für den Workshop vorbereitet werden müssen:</p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Installation von R</li>
@@ -997,15 +1006,6 @@ code{
 <li><input disabled="" type="checkbox"> Vorbereitung eigener Daten (<em>optional</em>)</li>
 </ul>
 <br>
-<ul class="cta-group">
-  
-  <li>
-    <a href="/workshop/rct-evaluation-in-r/programm/"  class="btn btn-primary px-3 py-3">👉 Los geht&rsquo;s!</a>
-  </li>
-  
-  
-</ul>
-
 
           </div>
 
@@ -1222,7 +1222,9 @@ code{
       
     
     
-    <script src="/de/js/wowchemy.min.9d8922b63a2e50946d0623bbc2261433.js"></script>
+      
+    
+    <script src="/de/js/wowchemy.min.54654f46868ee8112030ea397058d886.js"></script>
 
     
   <script async defer src="https://buttons.github.io/buttons.js"></script>

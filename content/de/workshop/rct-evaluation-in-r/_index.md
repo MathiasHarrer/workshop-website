@@ -2,7 +2,7 @@
 title: Evaluation Randomisiert-Kontrollierter Studien mit R
 type: book  # Do not modify.
 icon_pack: fas
-icon: book
+# icon: book
 toc: true
 linktitle: Evaluation von RCTs mit R
 ---
@@ -24,6 +24,8 @@ Herzlich Willkommen im digitalen Repositorium für den Workshop **"Evaluation Ra
 ## Kursbeschreibung
 
 ---
+
+
 
 {{< spoiler text="Ausklappen" >}}
 
@@ -53,3 +55,9 @@ Ein großer Vorteil der R Infrastruktur liegt in der verbesserten Transparenz un
 <br></br>
 
 {{< cta cta_text="👉 Vorbereitung" cta_link="vorbereitung" >}}
+
+
+
+<style>
+h1 {color: #2a7792;}
+</style>
