@@ -23,4 +23,9 @@ h1 {color: #2a7792;}
 
 ---
 
+
+![](bg.jpg)
+
 <br>
+
+{{< cta cta_text="👉 R & RStudio" cta_link="r-rstudio" >}}

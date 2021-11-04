@@ -9,7 +9,7 @@ linktitle: Evaluation von RCTs mit R
 
 ---
 
-Workshop
+Workshop · [{{< icon name="github" pack="fab" >}}](https://github.com/MathiasHarrer/RCT-Analysis-With-R)
 
 ![](bg-praxis.jpg)
 
@@ -50,6 +50,16 @@ Ein großer Vorteil der R Infrastruktur liegt in der verbesserten Transparenz un
 * [Mathias Harrer, TUM & FAU Erlangen-Nürnberg](/harrer): Vorbereitung & Leitung des Workshops
 * [Janika Thielecke, TUM & FAU Erlangen-Nürnberg](/thielecke): Vorbereitung des Workshops
 * Antonia Sprenger, Humboldt-Universität zu Berlin: Vorbereitung des Workshops
+
+
+<br>
+
+## Kontakt
+
+---
+
+* Für organisatorische Fragen: **Janika Thielecke** (janika.thielecke@tum.de)
+* Für inhaltliche Fragen: **Mathias Harrer** (mathias.harrer@fau.de)
 
 
 <br></br>

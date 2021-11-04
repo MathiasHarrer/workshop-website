@@ -33,7 +33,7 @@
   <meta name="description" content="code{ color: #2a7792; } .hljs{ font-size: 16px } .minih{ font-size: 1px; margin: 0px 0px 0px 0px; } .highlight { position: relative; } .highlight pre { padding: 15px; } .highlight-copy-btn { position: absolute; top: 7px; right: 7px; border: 0; border-radius: 4px; padding: 5px; font-size: 0." />
 
   
-  <link rel="alternate" hreflang="de" href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/" />
+  <link rel="alternate" hreflang="de" href="/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/" />
 
   
 
@@ -279,7 +279,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hua7fc57bd6c63daa14ad6ba507053d01b_19344_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua7fc57bd6c63daa14ad6ba507053d01b_19344_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/" />
+  <link rel="canonical" href="/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/" />
 
   
   
@@ -299,8 +299,8 @@
     <meta property="twitter:creator" content="@DDEbert" />
   
   <meta property="og:site_name" content="Protect Lab" />
-  <meta property="og:url" content="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/" />
-  <meta property="og:title" content="Reliable Veränderung | Protect Lab" />
+  <meta property="og:url" content="/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/" />
+  <meta property="og:title" content="R &amp; RStudio | Protect Lab" />
   <meta property="og:description" content="code{ color: #2a7792; } .hljs{ font-size: 16px } .minih{ font-size: 1px; margin: 0px 0px 0px 0px; } .highlight { position: relative; } .highlight pre { padding: 15px; } .highlight-copy-btn { position: absolute; top: 7px; right: 7px; border: 0; border-radius: 4px; padding: 5px; font-size: 0." /><meta property="og:image" content="/media/logo.svg" />
     <meta property="twitter:image" content="/media/logo.svg" /><meta property="og:locale" content="de" />
   
@@ -357,11 +357,11 @@
 
 
 
-  <title>Reliable Veränderung | Protect Lab</title>
+  <title>R &amp; RStudio | Protect Lab</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4716d4cdd2130978e399264d45fb56bf" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="5a00c62a3195fa7a8da90aba92616977" >
 
   
   
@@ -637,7 +637,7 @@
     <div class="d-flex">
       <span class="d-md-none pl-1 flex-grow-1 text-left overflow-hidden">
         
-          Analysieren & Verstehen
+          R Entdecken
         
       </span>
       <span><i class="fas fa-chevron-down"></i></span>
@@ -756,7 +756,7 @@
       
 
 
-  <li class=""><a href="/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/">R &amp; RStudio</a></li>
+  <li class="active"><a href="/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/">R &amp; RStudio</a></li>
 
       
         </ul>
@@ -846,7 +846,7 @@
 
 
 
-  <li class="active"><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/">Reliable Veränderung</a></li>
+  <li class=""><a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/reliable-veranderung/">Reliable Veränderung</a></li>
 
 
 
@@ -944,13 +944,6 @@
       <nav id="TableOfContents">
   <ul>
     <li><a href="#foliensatz">Foliensatz</a></li>
-    <li><a href="#praxis-teil">Praxis-Teil</a>
-      <ul>
-        <li><a href="#berechung-des-reliable-change-index">Berechung des Reliable Change Index</a></li>
-        <li><a href="#chi2-test">$\chi^2$-Test</a></li>
-        <li><a href="#number-needed-to-treat">Number Needed to Treat</a></li>
-      </ul>
-    </li>
   </ul>
 </nav>
 
@@ -965,7 +958,7 @@
         <div class="docs-article-container">
           
 
-          <h1>Reliable Veränderung</h1>
+          <h1>R &amp; RStudio</h1>
 
           <div class="article-style">
             <style>
@@ -1006,84 +999,6 @@ code{
 </style>
 <hr>
 <h2 class="minih" id="foliensatz">Foliensatz</h2>
-<iframe src="https://drive.google.com/file/d/1vEFbxXIPnLlSLhk3xdHK6ocYVY1q-SNg/preview" width="736" height="552" allow="autoplay"></iframe>
-<p><br></br></p>
-<h2 id="praxis-teil">Praxis-Teil</h2>
-<hr>
-<h3 id="berechung-des-reliable-change-index">Berechung des Reliable Change Index</h3>
-<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e"># Wir nutzen die &#39;rci&#39;-Funktion, um den Reliable Change Index zu berechnen</span>
-<span style="color:#111">rci</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">function</span><span style="color:#111">(</span><span style="color:#111">y0</span><span style="color:#111">,</span> <span style="color:#111">y1</span><span style="color:#111">,</span> <span style="color:#111">ryy</span><span style="color:#111">){</span>
-
-  <span style="color:#111">diff</span> <span style="color:#f92672">=</span> <span style="color:#111">y1</span><span style="color:#f92672">-</span><span style="color:#111">y0</span>
-  <span style="color:#111">sdiff</span> <span style="color:#f92672">=</span> <span style="color:#75af00">sqrt</span><span style="color:#111">(</span><span style="color:#ae81ff">2</span><span style="color:#f92672">*</span><span style="color:#111">((</span><span style="color:#75af00">sd</span><span style="color:#111">(</span><span style="color:#111">y0</span><span style="color:#111">)</span><span style="color:#f92672">*</span><span style="color:#75af00">sqrt</span><span style="color:#111">(</span><span style="color:#ae81ff">1</span><span style="color:#f92672">-</span><span style="color:#111">ryy</span><span style="color:#111">))</span><span style="color:#111">^2</span><span style="color:#111">))</span>
-  <span style="color:#75af00">return</span><span style="color:#111">(</span><span style="color:#111">diff</span><span style="color:#f92672">/</span><span style="color:#111">sdiff</span><span style="color:#111">)</span>
-
-<span style="color:#111">}</span>
-
-<span style="color:#75715e"># Ausprobieren in einem Imputationsset</span>
-<span style="color:#75715e"># Wir nehmen eine Reliabilität von ryy = 0.91 an</span>
-<span style="color:#75af00">with</span><span style="color:#111">(</span><span style="color:#111">implist[[1]]</span><span style="color:#111">,</span> <span style="color:#75af00">rci</span><span style="color:#111">(</span><span style="color:#111">y0</span> <span style="color:#f92672">=</span> <span style="color:#111">pss.0</span><span style="color:#111">,</span> <span style="color:#111">y1</span> <span style="color:#f92672">=</span> <span style="color:#111">pss.1</span><span style="color:#111">,</span> <span style="color:#111">ryy</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.91</span><span style="color:#111">))</span>
-
-<span style="color:#75715e"># Berechnung in allen Imputationssets mit &#39;purrr&#39;</span>
-<span style="color:#111">implist</span> <span style="color:#f92672">%&gt;%</span>
-  <span style="color:#75af00">map</span><span style="color:#111">(</span><span style="color:#75af00">function</span><span style="color:#111">(</span><span style="color:#111">x</span><span style="color:#111">){</span>
-
-    <span style="color:#75715e"># Berechne RCI für jede Person</span>
-    <span style="color:#111">x</span><span style="color:#f92672">$</span><span style="color:#111">rci</span> <span style="color:#f92672">=</span> <span style="color:#75af00">with</span><span style="color:#111">(</span><span style="color:#111">x</span><span style="color:#111">,</span> <span style="color:#75af00">rci</span><span style="color:#111">(</span><span style="color:#111">y0</span> <span style="color:#f92672">=</span> <span style="color:#111">pss.0</span><span style="color:#111">,</span> <span style="color:#111">y1</span> <span style="color:#f92672">=</span> <span style="color:#111">pss.1</span><span style="color:#111">,</span> <span style="color:#111">ryy</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.91</span><span style="color:#111">))</span>
-
-    <span style="color:#75715e"># Berechne Reliable Improvement (RCI &lt;= -1.96)</span>
-    <span style="color:#111">x</span><span style="color:#f92672">$</span><span style="color:#111">ri</span> <span style="color:#f92672">=</span> <span style="color:#75af00">ifelse</span><span style="color:#111">(</span><span style="color:#111">x</span><span style="color:#f92672">$</span><span style="color:#111">rci</span> <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">-1.96</span><span style="color:#111">,</span> <span style="color:#ae81ff">1</span><span style="color:#111">,</span> <span style="color:#ae81ff">0</span><span style="color:#111">)</span>
-
-    <span style="color:#75715e"># Berechne Reliable Deterioriation (RCI &gt;= 1.96)</span>
-    <span style="color:#111">x</span><span style="color:#f92672">$</span><span style="color:#111">rd</span> <span style="color:#f92672">=</span> <span style="color:#75af00">ifelse</span><span style="color:#111">(</span><span style="color:#111">x</span><span style="color:#f92672">$</span><span style="color:#111">rci</span> <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">1.96</span><span style="color:#111">,</span> <span style="color:#ae81ff">1</span><span style="color:#111">,</span> <span style="color:#ae81ff">0</span><span style="color:#111">)</span>
-
-    <span style="color:#75715e"># Return x</span>
-    <span style="color:#111">x</span>
-
-  <span style="color:#111">})</span> <span style="color:#f92672">-&gt;</span> <span style="color:#111">implist</span>
-
-
-<span style="color:#75715e"># Berechnung der Anzahl/Raten von Reliable Improvement</span>
-<span style="color:#75715e"># Dies kann über die &#39;table&#39; Funktion erreicht werden</span>
-<span style="color:#75af00">with</span><span style="color:#111">(</span><span style="color:#111">implist[[1]]</span><span style="color:#111">,</span> <span style="color:#75af00">table</span><span style="color:#111">(</span><span style="color:#111">group</span><span style="color:#111">,</span> <span style="color:#111">ri</span><span style="color:#111">))</span>
-
-<span style="color:#75715e"># Berechnung in allen Imputationssets</span>
-<span style="color:#75715e"># Wir runden die Fallzahlen am Ende. Dies dient nur dazu,</span>
-<span style="color:#75715e"># diese später zu berichten.</span>
-<span style="color:#111">implist</span> <span style="color:#f92672">%&gt;%</span>
-  <span style="color:#75af00">map</span><span style="color:#111">(</span><span style="color:#f92672">~</span> <span style="color:#75af00">with</span><span style="color:#111">(</span><span style="color:#111">.,</span> <span style="color:#75af00">table</span><span style="color:#111">(</span><span style="color:#111">group</span><span style="color:#111">,</span> <span style="color:#111">ri</span><span style="color:#111">)))</span> <span style="color:#f92672">%&gt;%</span>
-  <span style="color:#111">{</span><span style="color:#75af00">Reduce</span><span style="color:#111">(</span><span style="color:#111">`+`</span><span style="color:#111">,</span> <span style="color:#111">.)</span><span style="color:#f92672">/</span><span style="color:#ae81ff">25</span><span style="color:#111">}</span> <span style="color:#f92672">%&gt;%</span>
-  <span style="color:#75af00">as.matrix</span><span style="color:#111">()</span> <span style="color:#f92672">%&gt;%</span>
-  <span style="color:#75af00">round</span><span style="color:#111">()</span> <span style="color:#f92672">-&gt;</span> <span style="color:#111">table.ri</span></code></pre></div>
-<br>
-<h3 id="chi2-test">$\chi^2$-Test</h3>
-<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e"># Rechne zuerst mit gepooleten Ergebnissen, um sich mit der</span>
-<span style="color:#75715e"># Funktion vertraut zu machen:</span>
-<span style="color:#75af00">chisq.test</span><span style="color:#111">(</span><span style="color:#111">table.ri</span><span style="color:#111">)</span>
-
-<span style="color:#75715e"># Berechne Chi-Quadrat-Werte in allen Sets</span>
-<span style="color:#111">implist</span> <span style="color:#f92672">%&gt;%</span>
-  <span style="color:#75af00">map_dbl</span><span style="color:#111">(</span><span style="color:#75af00">function</span><span style="color:#111">(</span><span style="color:#111">x</span><span style="color:#111">){</span>
-
-    <span style="color:#111">table</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">with</span><span style="color:#111">(</span><span style="color:#111">x</span><span style="color:#111">,</span> <span style="color:#75af00">table</span><span style="color:#111">(</span><span style="color:#111">group</span><span style="color:#111">,</span> <span style="color:#111">ri</span><span style="color:#111">))</span>
-    <span style="color:#111">chisq</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">chisq.test</span><span style="color:#111">(</span><span style="color:#111">table</span><span style="color:#111">)</span><span style="color:#f92672">$</span><span style="color:#111">statistic</span><span style="color:#111">;</span> <span style="color:#111">chisq</span>
-
-  <span style="color:#111">})</span> <span style="color:#f92672">-&gt;</span> <span style="color:#111">chisq</span>
-
-<span style="color:#75715e"># Aggregiere die Werte</span>
-<span style="color:#75af00">micombine.chisquare</span><span style="color:#111">(</span><span style="color:#111">dk</span> <span style="color:#f92672">=</span> <span style="color:#111">chisq</span><span style="color:#111">,</span> <span style="color:#111">df</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span><span style="color:#111">)</span></code></pre></div>
-<br>
-<h3 id="number-needed-to-treat">Number Needed to Treat</h3>
-<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e"># Berechne n in Interventions- und Kontrollgruppe</span>
-<span style="color:#111">n.ig</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">sum</span><span style="color:#111">(</span><span style="color:#111">table.ri[2</span><span style="color:#111">,</span><span style="color:#111">]</span><span style="color:#111">)</span>
-<span style="color:#111">n.cg</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">sum</span><span style="color:#111">(</span><span style="color:#111">table.ri[1</span><span style="color:#111">,</span><span style="color:#111">]</span><span style="color:#111">)</span>
-
-<span style="color:#75715e"># Berechne Anteil von reliable Improvement</span>
-<span style="color:#111">p.ig</span> <span style="color:#f92672">&lt;-</span> <span style="color:#111">table.ri[2</span><span style="color:#111">,</span><span style="color:#ae81ff">2</span><span style="color:#111">]</span><span style="color:#f92672">/</span><span style="color:#111">n.ig</span>
-<span style="color:#111">p.cg</span> <span style="color:#f92672">&lt;-</span> <span style="color:#111">table.ri[1</span><span style="color:#111">,</span><span style="color:#ae81ff">2</span><span style="color:#111">]</span><span style="color:#f92672">/</span><span style="color:#111">n.cg</span>
-
-<span style="color:#75715e"># Berechne NNT als inverse Risikodifferenz</span>
-<span style="color:#111">nnt</span> <span style="color:#f92672">&lt;-</span> <span style="color:#111">(</span><span style="color:#111">p.ig</span> <span style="color:#f92672">-</span> <span style="color:#111">p.cg</span><span style="color:#111">)</span><span style="color:#111">^</span><span style="color:#ae81ff">-1</span></code></pre></div>
 <style>
 h1 {color: #2a7792;}
 </style>
@@ -1100,19 +1015,6 @@ h1 {color: #2a7792;}
             
 <div class="post-nav">
   
-  
-  
-  <div class="post-nav-item">
-    <div class="meta-nav">Zurück</div>
-    <a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/primaere-wirksamkeitsanalyse/" rel="next">Primäre Wirksamkeitsanalyse</a>
-  </div>
-  
-  
-  
-  <div class="post-nav-item">
-    <div class="meta-nav">Weiter</div>
-    <a href="/workshop/rct-evaluation-in-r/analysieren-verstehen/glm/" rel="prev">Generalisierte Lineare Modelle</a>
-  </div>
   
 </div>
 

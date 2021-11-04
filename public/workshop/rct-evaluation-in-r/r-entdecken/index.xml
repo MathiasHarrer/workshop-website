@@ -12,5 +12,54 @@
       <link>/workshop/rct-evaluation-in-r/r-entdecken/</link>
     </image>
     
+    <item>
+      <title>R &amp; RStudio</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

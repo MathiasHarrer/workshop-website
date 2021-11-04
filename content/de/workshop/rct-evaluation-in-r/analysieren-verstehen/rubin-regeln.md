@@ -54,8 +54,7 @@ code{
 ## Foliensatz {.minih}
 
 
-
-<iframe src="https://drive.google.com/file/d/117bRqbY9wjSy8M7jakcYDjBxtYTMldmF/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1PxXfFsJq1uND15IazdHGY3SREbA9TWY4/preview" width="736" height="552" allow="autoplay"></iframe>
 
 
 <style>

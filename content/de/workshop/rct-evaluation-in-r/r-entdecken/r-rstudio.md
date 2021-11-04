@@ -1,12 +1,12 @@
 ---
 # Title, summary, and page position.
-linktitle: "Reporting & Reproduzierbarkeit"
-weight: 9
+linktitle: "R & RStudio"
+weight: 3
 icon_pack: fas
 date: "2021-01-25"
 
 # Page metadata.
-title: "Reporting & Reproduzierbarkeit"
+title: "R & RStudio"
 type: book  # Do not modify.
 ---
 
@@ -52,6 +52,8 @@ code{
 
 
 ## Foliensatz {.minih}
+
+
 
 
 <style>
