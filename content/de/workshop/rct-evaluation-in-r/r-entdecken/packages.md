@@ -53,7 +53,29 @@ code{
 
 ## Foliensatz {.minih}
 
-<iframe src="https://drive.google.com/file/d/1g5IPU0NoDjHzcQwk8vpZ_yXtYTLBJaBM/preview" width="736" height="552" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1hcpzHXweyPLRDLIRPj13-0_ePBPf2eTB/preview" width="736" height="552" allow="autoplay"></iframe>
+
+
+<br></br>
+
+## Praxis-Teil
+
+---
+
+
+### Installation des {tidyverse}
+
+{{< highlight R >}}
+install.packages("tidyverse")
+{{< / highlight >}}
+
+
+
+
+
+<style>
+h1 {color: #2a7792;}
+</style>
 
 
 

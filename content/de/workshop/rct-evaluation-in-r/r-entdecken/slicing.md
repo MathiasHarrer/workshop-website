@@ -53,8 +53,26 @@ code{
 
 ## Foliensatz {.minih}
 
-<iframe src="https://drive.google.com/file/d/1g5IPU0NoDjHzcQwk8vpZ_yXtYTLBJaBM/preview" width="736" height="552" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1l0zw3xVi92drtC4YrP8ceI60inpuqLhY/preview" width="736" height="552" allow="autoplay"></iframe>
 
+
+<br></br>
+
+## Praxis-Teil
+
+---
+
+
+### Übungsaufgaben
+
+{{< highlight R >}}
+[...]
+{{< / highlight >}}
+
+
+<br>
+
+### Lösung
 
 
 <style>

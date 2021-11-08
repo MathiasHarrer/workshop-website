@@ -77,9 +77,6 @@ Austin, Peter C, Andrea Manca, Merrick Zwarenstein, David N Juurlink, and Matthe
 <div id="ref-backmann2017s" class="csl-entry">
 Backmann, Marius. 2017. <span>“What’s in a Gold Standard? In Defence of Randomised Controlled Trials.”</span> <em>Medicine, Health Care and Philosophy</em> 20 (4): 513–23.
 </div>
-<div id="ref-andersson2009internet" class="csl-entry">
-Bandersson, Gerhard, and Pim Cuijpers. 2009. <span>“Internet-Based and Other Computerized Psychological Treatments for Adult Depression: A Meta-Analysis.”</span> <em>Cognitive Behaviour Therapy</em> 38 (4): 196–205.
-</div>
 <div id="ref-barnard1999miscellanea" class="csl-entry">
 Barnard, John, and Donald B Rubin. 1999. <span>“Miscellanea. Small-Sample Degrees of Freedom with Multiple Imputation.”</span> <em>Biometrika</em> 86 (4): 948–55.
 </div>

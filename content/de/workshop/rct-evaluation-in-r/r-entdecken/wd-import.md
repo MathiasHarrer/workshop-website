@@ -53,7 +53,21 @@ code{
 
 ## Foliensatz {.minih}
 
-<iframe src="https://drive.google.com/file/d/1g5IPU0NoDjHzcQwk8vpZ_yXtYTLBJaBM/preview" width="736" height="552" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1v_M05SP--D4-V2kx--d7137JmcG70RnG/preview" width="736" height="552" allow="autoplay"></iframe>
+
+
+<br></br>
+
+## Praxis-Teil
+
+---
+
+
+### Import des Datensatzes (.csv)
+
+{{< highlight R >}}
+data <- read.csv("data/data.csv")
+{{< / highlight >}}
 
 
 
