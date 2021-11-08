@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Programm
 weight: 2
-# icon: list
+icon: list
 icon_pack: fas
 
 # Page metadata.

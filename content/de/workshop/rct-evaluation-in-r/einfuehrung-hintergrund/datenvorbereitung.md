@@ -1,12 +1,12 @@
 ---
 # Title, summary, and page position.
-linktitle: "Missing Data-Mechanismen"
-weight: 94
+linktitle: "Datenvorbereitung"
+weight: 4
 icon_pack: fas
 date: "2021-01-25"
 
 # Page metadata.
-title: "Missing Data-Mechanismen"
+title: "Datenvorbereitung"
 type: book  # Do not modify.
 ---
 
@@ -46,14 +46,17 @@ code{
     background-color: #666;
 }
 </style>
-
 ---
 
 
 
 ## Foliensatz {.minih}
 
-<iframe src="https://drive.google.com/file/d/1nyjRJY65ywJRf0ZtYZGokZ9dlFx6r5H8/preview" width="736" height="552" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1uzd14jDOWisxW88HUc6urVVUW-o2z3U8/preview" width="736" height="552" allow="autoplay"></iframe>
+
+
+<br>
 
 
 <style>

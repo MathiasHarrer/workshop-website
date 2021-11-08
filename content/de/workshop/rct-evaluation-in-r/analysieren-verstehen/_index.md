@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: "Analysieren & Verstehen"
 weight: 5
-# icon: microscope
+icon: microscope
 icon_pack: fas
 date: "2021-01-25"
 

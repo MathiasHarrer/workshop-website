@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: R Entdecken
 weight: 3
-# icon: r-project
+icon: r-project
 icon_pack: fab
 
 # Page metadata.

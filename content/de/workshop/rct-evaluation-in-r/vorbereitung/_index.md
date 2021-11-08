@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Vorbereitung
 weight: 1
-# icon: book
+icon: book
 icon_pack: fas
 
 # Page metadata.
@@ -35,7 +35,7 @@ Für den Workshop ist eine aktuelle Installation von R (Version 4.0.0 oder grö�
 
 Nachdem beide Programme installiert wurden, sollte kurz geprüft werden, ob RStudio "startbereit" ist. Dazu muss einfach RStudio geöffnet werden; wird in der Console (unten links) die heruntergeladene R Version angezeigt (zusammen mit Lizenz- und anderen Basisinformationen), kann R auf dem Computer genutzt werden.
 
-Mehr Information zur Installation von R/RStudio finden sich [hier](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/discovering-R.html#install-R).
+Weitere Informationen zur Installation von R/RStudio finden sich [hier](Installation_R_RStudio.pdf) (deutsch) und [hier](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/discovering-R.html#install-R) (englisch).
 
 <br>
 

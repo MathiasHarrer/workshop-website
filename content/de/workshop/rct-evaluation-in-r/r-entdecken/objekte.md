@@ -1,12 +1,12 @@
 ---
 # Title, summary, and page position.
-linktitle: "Missing Data-Mechanismen"
-weight: 94
+linktitle: "Objekte"
+weight: 5
 icon_pack: fas
 date: "2021-01-25"
 
 # Page metadata.
-title: "Missing Data-Mechanismen"
+title: "Objekte"
 type: book  # Do not modify.
 ---
 
@@ -53,7 +53,8 @@ code{
 
 ## Foliensatz {.minih}
 
-<iframe src="https://drive.google.com/file/d/1nyjRJY65ywJRf0ZtYZGokZ9dlFx6r5H8/preview" width="736" height="552" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1g5IPU0NoDjHzcQwk8vpZ_yXtYTLBJaBM/preview" width="736" height="552" allow="autoplay"></iframe>
+
 
 
 <style>

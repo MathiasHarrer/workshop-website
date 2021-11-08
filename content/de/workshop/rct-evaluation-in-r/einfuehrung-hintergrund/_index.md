@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: "Einführung & Hintergrund"
 weight: 4
-# icon: lightbulb
+icon: lightbulb
 icon_pack: fas
 date: "2021-01-25"
 

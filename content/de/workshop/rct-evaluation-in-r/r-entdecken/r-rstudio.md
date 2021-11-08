@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: "R & RStudio"
-weight: 3
+weight: 1
 icon_pack: fas
 date: "2021-01-25"
 
@@ -53,6 +53,7 @@ code{
 
 ## Foliensatz {.minih}
 
+<iframe src="https://drive.google.com/file/d/1g5IPU0NoDjHzcQwk8vpZ_yXtYTLBJaBM/preview" width="736" height="552" allow="autoplay"></iframe>
 
 
 

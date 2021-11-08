@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: "Multiple Imputation"
-weight: 5
+weight: 95
 icon_pack: fas
 date: "2021-01-25"
 

@@ -59,7 +59,7 @@ Ein großer Vorteil der R Infrastruktur liegt in der verbesserten Transparenz un
 ---
 
 * Für organisatorische Fragen: **Janika Thielecke** (janika.thielecke@tum.de)
-* Für inhaltliche Fragen: **Mathias Harrer** (mathias.harrer@fau.de)
+* Für inhaltliche Fragen: **Mathias Harrer** (mathias.harrer@tum.de)
 
 
 <br></br>

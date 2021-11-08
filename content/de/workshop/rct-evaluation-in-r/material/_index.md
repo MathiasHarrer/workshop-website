@@ -29,9 +29,9 @@ h1 {color: #2a7792;}
 ## Daten
 
 
-- `data.csv`: Ausgewählte Daten einer randomisiert-kontrollierten Studie, mit fehlenden Werten.
-- `imp.rda`: Element der Klasse `mids` mit $m$=25 (multipel) imputierten Datensätzen.
-- `implist.rda`: Liste der Klasse `mitml.list` mit $m$=25 (multipel) imputierten Datensätzen.
+- [**`data.csv`**](data.csv): Ausgewählte Daten einer randomisiert-kontrollierten Studie, mit fehlenden Werten.
+- [**`imp.rda`**](imp.rda): Element der Klasse `mids` mit $m$=25 (multipel) imputierten Datensätzen.
+- [**`implist.rda`**](implist.rda): Liste der Klasse `mitml.list` mit $m$=25 (multipel) imputierten Datensätzen.
 
 
 <br>
