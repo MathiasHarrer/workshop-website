@@ -113,6 +113,19 @@ plot.data.prepost %>%
 
 plot.data %>%
   filter(time == 2) -> plot.data.fu
+
+
+# Generiere Dataframe 'plot.data.means". Dieses Datenset
+# beinhaltet die Mittelwerte und Konfidenzintervalle des
+# primären Outcomes (siehe "Functional Programming" für
+# Möglichkeiten zur Berechnung bei MI).
+
+plot.data.means <- data.frame(
+  time = c(0, 0, 1, 1, 2, 2),
+  group = as.factor(c(0, 1, 0, 1, 0, 1)),
+  pss = c(25.15152, 25.88636, 22.92182, 17.51364, 22.07970, 15.91242),
+  lower = c(21.192788, 22.038795, 16.730593, 11.059493, 16.078554, 9.577042),
+  upper = c(29.11024, 29.73393, 29.11304, 23.96778, 28.08085, 22.24780))
 {{< / highlight >}}
 
 
