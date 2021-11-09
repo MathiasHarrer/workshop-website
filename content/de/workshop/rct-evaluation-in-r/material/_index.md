@@ -40,4 +40,4 @@ h1 {color: #2a7792;}
 ## Slides
 
 
-- Gesammelte Foliensätze des Workshops.
+- [**Gesammelte Foliensätze**](slides.pdf) des Workshops.

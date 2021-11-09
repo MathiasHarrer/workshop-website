@@ -70,6 +70,23 @@ install.packages("tidyverse")
 {{< / highlight >}}
 
 
+<br>
+
+### Installation weiterer Packages
+
+{{< highlight R >}}
+install.packages("tidyverse")
+install.packages("skimr")
+install.packages("mice")
+install.packages("miceadds")
+install.packages("plot.matrix")
+install.packages("mitml")
+install.packages("magrittr")
+install.packages("writexl")
+install.packages("purrr")
+install.packages("see")
+{{< / highlight >}}
+
 
 
 
