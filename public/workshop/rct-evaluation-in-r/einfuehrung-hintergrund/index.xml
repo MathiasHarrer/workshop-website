@@ -283,7 +283,7 @@ code{
 &lt;/style&gt;
 &lt;hr&gt;
 &lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
-&lt;iframe src=&#34;https://drive.google.com/file/d/1uzd14jDOWisxW88HUc6urVVUW-o2z3U8/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1RgSV98UYO1aF9iaI8tifYrGVFL3S4qeC/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
 &lt;br&gt;
 &lt;style&gt;
 h1 {color: #2a7792;}
@@ -334,8 +334,70 @@ code{
 &lt;/style&gt;
 &lt;hr&gt;
 &lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
-&lt;iframe src=&#34;https://drive.google.com/file/d/1uzd14jDOWisxW88HUc6urVVUW-o2z3U8/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1W12AjmHIs1lWHp8vfJhikx8ZOoGnwB7E/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
+&lt;h3 id=&#34;eyeballing-mit-skim&#34;&gt;&amp;ldquo;Eyeballing&amp;rdquo; mit &lt;code&gt;skim&lt;/code&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;psych&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;tidyverse&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;skimr&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;## Alle Daten:&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;skim&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;## Interventionsgruppe:&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;filter&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;skim&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;()&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;## Kontrollgruppe:&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;filter&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;skim&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;()&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;## Histogramm des primären Outcomes (PSS-Stress)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;multi.hist&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;select&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;),&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;ncol&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;br&gt;
+&lt;h3 id=&#34;dropout-analyse&#34;&gt;Dropout-Analyse&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Gesamte Daten&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;with&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;{&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)),&lt;/span&gt;
+    &lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)),&lt;/span&gt;
+    &lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)))&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;})&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.all&lt;/span&gt;
+
+&lt;span style=&#34;color:#111&#34;&gt;na.all.p&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.all&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;nrow&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;## Interventionsgruppe&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;filter&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;with&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;({&lt;/span&gt;
+    &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)),&lt;/span&gt;
+      &lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)),&lt;/span&gt;
+      &lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)))&lt;/span&gt;
+  &lt;span style=&#34;color:#111&#34;&gt;})&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.ig&lt;/span&gt;
+
+&lt;span style=&#34;color:#111&#34;&gt;na.ig.p&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.ig&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;nrow&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;filter&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;## Kontrollgruppe&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;filter&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;with&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;({&lt;/span&gt;
+    &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)),&lt;/span&gt;
+      &lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)),&lt;/span&gt;
+      &lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;is.na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pss.2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)))&lt;/span&gt;
+  &lt;span style=&#34;color:#111&#34;&gt;})&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.cg&lt;/span&gt;
+
+&lt;span style=&#34;color:#111&#34;&gt;na.cg.p&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.cg&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;nrow&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;filter&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;## Sammeln in Dataframe&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;na&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;data.frame&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;na.all&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.all.p&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.all.p&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+                 &lt;span style=&#34;color:#111&#34;&gt;na.ig&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.ig.p&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.ig.p&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+                 &lt;span style=&#34;color:#111&#34;&gt;na.cg&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.cg.p&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;na.cg.p&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;## Zeilennamen des Dataframe ändern&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;rownames&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;na&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;t0&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;t1&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;t2&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;na&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;style&gt;
 h1 {color: #2a7792;}
 &lt;/style&gt;

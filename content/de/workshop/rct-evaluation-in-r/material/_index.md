@@ -30,6 +30,7 @@ h1 {color: #2a7792;}
 
 
 - [**`data.csv`**](data.csv): Ausgewählte Daten einer randomisiert-kontrollierten Studie, mit fehlenden Werten.
+- [**`data.xlsx`**](data.xlsx): Ausgewählte Daten einer randomisiert-kontrollierten Studie, mit fehlenden Werten (Excel-Format).
 - [**`imp.rda`**](imp.rda): Element der Klasse `mids` mit $m$=25 (multipel) imputierten Datensätzen.
 - [**`implist.rda`**](implist.rda): Liste der Klasse `mitml.list` mit $m$=25 (multipel) imputierten Datensätzen.
 
