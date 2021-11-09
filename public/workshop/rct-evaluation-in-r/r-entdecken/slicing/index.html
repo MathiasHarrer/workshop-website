@@ -310,7 +310,7 @@
         content="2021-01-25T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-11-08T22:29:16&#43;01:00">
+    <meta property="article:modified_time" content="2021-11-09T12:14:46&#43;01:00">
   
 
   
@@ -978,7 +978,7 @@
     <li><a href="#foliensatz">Foliensatz</a></li>
     <li><a href="#praxis-teil">Praxis-Teil</a>
       <ul>
-        <li><a href="#übungsaufgaben">Übungsaufgaben</a></li>
+        <li><a href="#uebung">Übungsaufgaben</a></li>
         <li><a href="#lösung">Lösung</a></li>
       </ul>
     </li>
@@ -1034,6 +1034,7 @@ code{
 .highlight-copy-btn:hover {
     background-color: #666;
 }
+
 </style>
 <hr>
 <h2 class="minih" id="foliensatz">Foliensatz</h2>
@@ -1041,14 +1042,119 @@ code{
 <p><br></br></p>
 <h2 id="praxis-teil">Praxis-Teil</h2>
 <hr>
-<h3 id="übungsaufgaben">Übungsaufgaben</h3>
+<h3 id="uebung">Übungsaufgaben</h3>
 <p>Für die Übungsaufgaben muss der Übungsdatensatz <code>data</code> geladen sein, sowie das {tidyverse} package.</p>
 <div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75af00">library</span><span style="color:#111">(</span><span style="color:#111">tidyverse</span><span style="color:#111">)</span>
 <span style="color:#111">data</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">read.csv</span><span style="color:#111">(</span><span style="color:#d88200">&#34;data/data.csv&#34;</span><span style="color:#111">)</span></code></pre></div>
-<h4 id="1-log-transformiere-die-variable-age-in-data-und-speichere-das-ergebnis-unter-dem-namen-agelog">1. Log-Transformiere die Variable <code>age</code> in <code>data</code> und speichere das Ergebnis unter dem Namen <code>age.log</code>.</h4>
+<p><strong>Anmerkung</strong>: Die Übungsaufgaben werden zunehmend schwieriger. Vor allem für Anfänger ist es vollig normal, nicht alle Aufgaben auf Anhieb lösen zu können!</p>
+<br>
+<ol>
+<li>Log-transformiere die Variable <code>age</code> in <code>data</code> und speichere das Ergebnis unter dem Namen <code>age.log</code>.</li>
+</ol>
+<p>
+<ol start="2">
+<li>Quadriere die Werte in <code>pss.1</code> und speichere das Ergebnis unter dem Namen <code>pss.1.squared</code>.</li>
+</ol>
+<p>
+<ol start="3">
+<li>Berechne den Mittelwert und die Standardabweichung ($SD$) der Variable <code>cesd.2</code>. Nutze bei Bedarf das Internet um herauszufinden, welche Funktion in R die Standardabweichung berechnet.</li>
+</ol>
+<p>
+<ol start="4">
+<li>Packe den Mittelwert und die Standardabweichung von <code>cesd.2</code> in eine Liste.</li>
+</ol>
+<p>
+<ol start="5">
+<li>Hat die Variable <code>mbi.0</code> die passende Objektklasse <code>numeric</code>? Überprüfe dies mit R Code.</li>
+</ol>
+<p>
+<ol start="6">
+<li>Lege im Dataframe <code>data</code> zwei neue Variablen an:
+<ul>
+<li><code>age.50plus</code>, eine <code>logical</code>-Variable die mit <code>TRUE</code> und <code>FALSE</code> angibt, ob das Alter <code>age</code> einer Person $\geq$ 50 ist.</li>
+<li><code>pss.diff</code>, eine Variable die den Unterschied zwischen <code>pss.0</code> und <code>pss.1</code> für jede Person angibt.</li>
+</ul>
+</li>
+</ol>
+<p>
+<ol start="7">
+<li>Baue eine Pipe, die (1) alle männlichen Personen in der Interventionsgruppe herausfiltert; (2) die Variable <code>age</code> aus dem Dataframe herauszieht; und (3) den Mittelwert des ausgewählten Daten berechnet. Im Datensatz befindet sich die Gruppenzuordnung in <code>group</code>, wobei <code>1</code> für die Interventionsgruppe steht. Die Variable <code>sex</code> kodiert das Alter, wobei <code>1</code> für männlich steht.</li>
+</ol>
+<p>
+<ol start="8">
+<li>Ändere den Wert von <code>ft.helps</code> in der dritten und vierten Zeile zu <code>NA</code>.</li>
+</ol>
+<p>
+<ol start="9">
+<li>Zuletzt eine &ldquo;harte Nuss&rdquo;: mit der <code>order</code> Funktion kann für Variablen ein Index gebildet werden. Dieser Index zeigt an, in welcher Reihenfolge die Elemente korrekt geordnet wären. Nutze die R Documentation (<code>?order</code>), um mehr über die Funktion zu erfahren. Nutze dann diese Funktion in einer eckigen Klammer, um <code>data</code> dem Alter <code>age</code> nach zu ordnen!</li>
+</ol>
 <br>
 <h3 id="lösung">Lösung</h3>
-<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">[...]</span></code></pre></div>
+<br>
+<ol>
+<li>Log-transformiere die Variable <code>age</code> in <code>data</code> und speichere das Ergebnis unter dem Namen <code>age.log</code>.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">age.log</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">log</span><span style="color:#111">(</span><span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">age</span><span style="color:#111">)</span></code></pre></div>
+<hr>
+<p> </p>
+<ol start="2">
+<li>Quadriere die Werte in <code>pss.1</code> und speichere das Ergebnis unter dem Namen <code>pss.1.squared</code>.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">pss.1.squared</span> <span style="color:#f92672">&lt;-</span> <span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">pss.1^2</span></code></pre></div>
+<hr>
+<p> </p>
+<ol start="3">
+<li>Berechne den Mittelwert und die Standardabweichung ($SD$) der Variable <code>cesd.2</code>. Nutze bei Bedarf das Internet um herauszufinden, welche Funktion in R die Standardabweichung berechnet.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75af00">mean</span><span style="color:#111">(</span><span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">cesd.2</span><span style="color:#111">,</span> <span style="color:#111">na.rm</span> <span style="color:#f92672">=</span> <span style="color:#00a8c8">TRUE</span><span style="color:#111">)</span>
+<span style="color:#75af00">sd</span><span style="color:#111">(</span><span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">cesd.2</span><span style="color:#111">,</span> <span style="color:#111">na.rm</span> <span style="color:#f92672">=</span> <span style="color:#00a8c8">TRUE</span><span style="color:#111">)</span></code></pre></div>
+<hr>
+<p> </p>
+<ol start="4">
+<li>Packe den Mittelwert und die Standardabweichung von <code>cesd.2</code> in eine Liste.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75af00">list</span><span style="color:#111">(</span><span style="color:#75af00">mean</span><span style="color:#111">(</span><span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">cesd.2</span><span style="color:#111">,</span> <span style="color:#111">na.rm</span> <span style="color:#f92672">=</span> <span style="color:#00a8c8">TRUE</span><span style="color:#111">),</span>
+     <span style="color:#75af00">sd</span><span style="color:#111">(</span><span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">cesd.2</span><span style="color:#111">,</span> <span style="color:#111">na.rm</span> <span style="color:#f92672">=</span> <span style="color:#00a8c8">TRUE</span><span style="color:#111">))</span></code></pre></div>
+<hr>
+<p> </p>
+<ol start="5">
+<li>Hat die Variable <code>mbi.0</code> die passende Objektklasse <code>numeric</code>? Überprüfe dies mit R Code.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75af00">class</span><span style="color:#111">(</span><span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">mbi.0</span><span style="color:#111">)</span></code></pre></div>
+<hr>
+<p> </p>
+<ol start="6">
+<li>Lege im Dataframe <code>data</code> zwei neue Variablen an:
+<ul>
+<li><code>age.50plus</code>, eine <code>logical</code>-Variable die mit <code>TRUE</code> und <code>FALSE</code> angibt, ob das Alter <code>age</code> einer Person $\geq$ 50 ist.</li>
+<li><code>pss.diff</code>, eine Variable die den Unterschied zwischen <code>pss.0</code> und <code>pss.1</code> für jede Person angibt.</li>
+</ul>
+</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">age.50plus</span> <span style="color:#f92672">&lt;-</span> <span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">age</span> <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">50</span>
+<span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">pss.diff</span> <span style="color:#f92672">&lt;-</span> <span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">pss.0</span> <span style="color:#f92672">-</span> <span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">pss.1</span></code></pre></div>
+<hr>
+<p> </p>
+<ol start="7">
+<li>Baue eine Pipe, die (1) alle männlichen Personen in der Interventionsgruppe herausfiltert; (2) die Variable <code>age</code> aus dem Dataframe herauszieht; und (3) den Mittelwert des ausgewählten Daten berechnet. Im Datensatz befindet sich die Gruppenzuordnung in <code>group</code>, wobei <code>1</code> für die Interventionsgruppe steht. Die Variable <code>sex</code> kodiert das Alter, wobei <code>1</code> für männlich steht.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">data</span> <span style="color:#f92672">%&gt;%</span>
+  <span style="color:#75af00">filter</span><span style="color:#111">(</span><span style="color:#111">group</span> <span style="color:#f92672">==</span> <span style="color:#ae81ff">1</span><span style="color:#111">,</span> <span style="color:#111">sex</span> <span style="color:#f92672">==</span> <span style="color:#ae81ff">1</span><span style="color:#111">)</span> <span style="color:#f92672">%&gt;%</span>
+  <span style="color:#75af00">pull</span><span style="color:#111">(</span><span style="color:#111">age</span><span style="color:#111">)</span> <span style="color:#f92672">%&gt;%</span>
+  <span style="color:#75af00">mean</span><span style="color:#111">()</span></code></pre></div>
+<hr>
+<p> </p>
+<ol start="8">
+<li>Ändere den Wert von <code>ft.helps</code> in der dritten und vierten Zeile zu <code>NA</code>.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">data[3</span><span style="color:#f92672">:</span><span style="color:#ae81ff">4</span><span style="color:#111">,</span> <span style="color:#d88200">&#34;ft.helps&#34;</span><span style="color:#111">]</span> <span style="color:#f92672">&lt;-</span> <span style="color:#75af00">c</span><span style="color:#111">(</span><span style="color:#00a8c8">NA</span><span style="color:#111">,</span> <span style="color:#00a8c8">NA</span><span style="color:#111">)</span></code></pre></div>
+<hr>
+<p> </p>
+<ol start="9">
+<li>Zuletzt eine &ldquo;harte Nuss&rdquo;: mit der <code>order</code> Funktion kann für Variablen ein Index gebildet werden. Dieser Index zeigt an, in welcher Reihenfolge die Elemente korrekt geordnet wären. Nutze die R Documentation (<code>?order</code>), um mehr über die Funktion zu erfahren. Nutze dann diese Funktion in einer eckigen Klammer, um <code>data</code> dem Alter <code>age</code> nach zu ordnen!</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#111">data</span><span style="color:#75af00">[order</span><span style="color:#111">(</span><span style="color:#111">data</span><span style="color:#f92672">$</span><span style="color:#111">age</span><span style="color:#111">),</span><span style="color:#111">]</span></code></pre></div>
+<hr>
 <style>
 h1 {color: #2a7792;}
 </style>
@@ -1080,7 +1186,7 @@ h1 {color: #2a7792;}
         </div>
 
         <div class="body-footer">
-          <p>Zuletzt aktualisiert am 8. Januar 2021</p>
+          <p>Zuletzt aktualisiert am 9. Januar 2021</p>
 
           
 
