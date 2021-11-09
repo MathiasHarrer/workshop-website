@@ -241,6 +241,108 @@ h1 {color: #2a7792;}
     </item>
     
     <item>
+      <title>Datenvorbereitung</title>
+      <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/datenvorbereitung/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/datenvorbereitung/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1uzd14jDOWisxW88HUc6urVVUW-o2z3U8/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deskriptive Analyse &amp; Dropout</title>
+      <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/descriptives-dropout/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/descriptives-dropout/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1uzd14jDOWisxW88HUc6urVVUW-o2z3U8/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Missing Data-Mechanismen</title>
       <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/missing-data/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>

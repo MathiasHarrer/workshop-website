@@ -55,6 +55,331 @@ code{
 &lt;/style&gt;
 &lt;hr&gt;
 &lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1g5IPU0NoDjHzcQwk8vpZ_yXtYTLBJaBM/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/packages/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/packages/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1hcpzHXweyPLRDLIRPj13-0_ePBPf2eTB/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;installation-des-tidyverse&#34;&gt;Installation des {tidyverse}&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;install.packages&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;tidyverse&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working Directory &amp; Import</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/wd-import/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/wd-import/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1v_M05SP--D4-V2kx--d7137JmcG70RnG/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;import-des-datensatzes-csv&#34;&gt;Import des Datensatzes (.csv)&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;read.csv&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;data/data.csv&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Funktionen</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/funktionen/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/funktionen/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/15Ogp8LG0FzaDHzKKJqnaMuNbEFWVnKax/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Objekte</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/objekte/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/objekte/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1ZMFvldRSkspZc5wUZPNgQ33-uUa1IvGa/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Operatoren</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/operatoren/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/operatoren/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1iE8YtiJdIwweyj7naHWM5T0jtlHIsYWR/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slicing &amp; Indexing</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/slicing/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/slicing/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1l0zw3xVi92drtC4YrP8ceI60inpuqLhY/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;übungsaufgaben&#34;&gt;Übungsaufgaben&lt;/h3&gt;
+&lt;p&gt;Für die Übungsaufgaben muss der Übungsdatensatz &lt;code&gt;data&lt;/code&gt; geladen sein, sowie das {tidyverse} package.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;tidyverse&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;read.csv&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;data/data.csv&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&#34;1-log-transformiere-die-variable-age-in-data-und-speichere-das-ergebnis-unter-dem-namen-agelog&#34;&gt;1. Log-Transformiere die Variable &lt;code&gt;age&lt;/code&gt; in &lt;code&gt;data&lt;/code&gt; und speichere das Ergebnis unter dem Namen &lt;code&gt;age.log&lt;/code&gt;.&lt;/h4&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;lösung&#34;&gt;Lösung&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#111&#34;&gt;[...]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;style&gt;
 h1 {color: #2a7792;}
 &lt;/style&gt;

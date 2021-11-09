@@ -114,6 +114,56 @@ h1 {color: #2a7792;}
     </item>
     
     <item>
+      <title>R &amp; RStudio</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1g5IPU0NoDjHzcQwk8vpZ_yXtYTLBJaBM/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Functional Programming</title>
       <link>/workshop/rct-evaluation-in-r/analysieren-verstehen/functional-programming/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -414,6 +464,64 @@ h1 {color: #2a7792;}
     </item>
     
     <item>
+      <title>Packages</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/packages/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/packages/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1hcpzHXweyPLRDLIRPj13-0_ePBPf2eTB/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;installation-des-tidyverse&#34;&gt;Installation des {tidyverse}&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;install.packages&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;tidyverse&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Primäre Wirksamkeitsanalyse</title>
       <link>/workshop/rct-evaluation-in-r/analysieren-verstehen/primaere-wirksamkeitsanalyse/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -544,55 +652,6 @@ h1 {color: #2a7792;}
     </item>
     
     <item>
-      <title>R &amp; RStudio</title>
-      <link>/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/</guid>
-      <description>&lt;style&gt;
-code{
-  color: #2a7792;
-}
-.hljs{
-  font-size: 16px
-}
-.minih{
-  font-size: 1px;
-  margin: 0px 0px 0px 0px;
-}
-
-.highlight {
-    position: relative;
-}
-.highlight pre {
-    padding: 15px;
-}
-.highlight-copy-btn {
-    position: absolute;
-    top: 7px;
-    right: 7px;
-    border: 0;
-    border-radius: 4px;
-    padding: 5px;
-    font-size: 0.7em;
-    line-height: 1.8;
-    color: #fff;
-    background-color: #777;
-    min-width: 55px;
-    text-align: center;
-}
-.highlight-copy-btn:hover {
-    background-color: #666;
-}
-&lt;/style&gt;
-&lt;hr&gt;
-&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
-&lt;style&gt;
-h1 {color: #2a7792;}
-&lt;/style&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Studienhypothesen</title>
       <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/hypothesen/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -643,10 +702,10 @@ h1 {color: #2a7792;}
     </item>
     
     <item>
-      <title>Missing Data-Mechanismen</title>
-      <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/missing-data/</link>
+      <title>Working Directory &amp; Import</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/wd-import/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/missing-data/</guid>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/wd-import/</guid>
       <description>&lt;style&gt;
 code{
   color: #2a7792;
@@ -685,7 +744,12 @@ code{
 &lt;/style&gt;
 &lt;hr&gt;
 &lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
-&lt;iframe src=&#34;https://drive.google.com/file/d/1nyjRJY65ywJRf0ZtYZGokZ9dlFx6r5H8/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1v_M05SP--D4-V2kx--d7137JmcG70RnG/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;import-des-datensatzes-csv&#34;&gt;Import des Datensatzes (.csv)&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;read.csv&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;data/data.csv&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;style&gt;
 h1 {color: #2a7792;}
 &lt;/style&gt;
@@ -693,10 +757,10 @@ h1 {color: #2a7792;}
     </item>
     
     <item>
-      <title>Multiple Imputation</title>
-      <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/multiple-imputation/</link>
+      <title>Datenvorbereitung</title>
+      <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/datenvorbereitung/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/multiple-imputation/</guid>
+      <guid>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/datenvorbereitung/</guid>
       <description>&lt;style&gt;
 code{
   color: #2a7792;
@@ -735,102 +799,159 @@ code{
 &lt;/style&gt;
 &lt;hr&gt;
 &lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
-&lt;iframe src=&#34;https://drive.google.com/file/d/1GkEjXt17_Ot0ihwrNSB4WFuyqZkLkZSl/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
-&lt;h3 id=&#34;missing-data-pattern&#34;&gt;Missing Data Pattern&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;md.pattern&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;rotate.names&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#00a8c8&#34;&gt;TRUE&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-
-&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;mice&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;miceadds&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;tidyverse&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;plot.matrix&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;mitml&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1uzd14jDOWisxW88HUc6urVVUW-o2z3U8/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
 &lt;br&gt;
-&lt;h3 id=&#34;influx-outflux-plot&#34;&gt;Influx-Outflux-Plot&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;flux&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;fluxplot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Funktionen</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/funktionen/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/funktionen/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/15Ogp8LG0FzaDHzKKJqnaMuNbEFWVnKax/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deskriptive Analyse &amp; Dropout</title>
+      <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/descriptives-dropout/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/descriptives-dropout/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1uzd14jDOWisxW88HUc6urVVUW-o2z3U8/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
 &lt;br&gt;
-&lt;h3 id=&#34;ausschluss-von-variablen&#34;&gt;Ausschluss von Variablen&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;mice&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;maxit&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;loggedEvents&lt;/span&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Objekte</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/objekte/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/objekte/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
 
-&lt;span style=&#34;color:#111&#34;&gt;outlist&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;loggedEvents&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;sess&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;zuf.1&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-
-&lt;span style=&#34;color:#111&#34;&gt;imp.data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;select&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;all_of&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;outlist&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;br&gt;
-&lt;h3 id=&#34;imputationsmatrix&#34;&gt;Imputationsmatrix&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Definiere eine &amp;#34;Inlist&amp;#34; (zwingend einzuschließende Variablen)&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;inlist&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;sex&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;age&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;ethn&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;child&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;prevpyschoth&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;ft.helps&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-            &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;prevtraining&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;rel&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;degree&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;inc&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;pss.0&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# - mincor (Minimale Interkorrelation) = 0.01&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# - minpuc (Proportion of Usable Cases) = 0.1&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;quickpred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-                  &lt;span style=&#34;color:#111&#34;&gt;mincor&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0.05&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-                  &lt;span style=&#34;color:#111&#34;&gt;minpuc&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0.1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-                  &lt;span style=&#34;color:#111&#34;&gt;inc&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;inlist&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Mittlere Anzahl an Prädiktoren&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;rowsums&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;table&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;rowSums&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;rowsums&lt;/span&gt;
-
-&lt;span style=&#34;color:#111&#34;&gt;rowsums[&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;-1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#111&#34;&gt;{&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;as.numeric&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;names&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;.)&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%*%&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;. &lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;.)&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;}&lt;/span&gt;
-
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Setze Prädiktor &amp;#34;group&amp;#34; auf 0&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;pred[&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;group&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;
-
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Visualisiere die Prädiktormatrix&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;plot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;main&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;Imputation Matrix&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;col&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;grey&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;blue&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;),&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;xlab&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;predicts&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;ylab&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;is predicted&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;las&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;cex.axis&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0.5&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Nochmalige Nullimputation; zeige gewählte Methode&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;mice&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;maxit&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-            &lt;span style=&#34;color:#111&#34;&gt;predictorMatrix&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;method&lt;/span&gt;
-
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Finde Variablen ohne Missings&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;no.missings&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;method&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Setze Imputationsmethode auf &amp;#34;bygroup&amp;#34;&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;method&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#75af00&#34;&gt;replace&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;.,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;. &lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;bygroup&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.method&lt;/span&gt;
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Definiere Imputationsfunktion für &amp;#34;bygroup&amp;#34; variablen&lt;/span&gt;
-&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;method[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;no.missings]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;as.list&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;()&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.function&lt;/span&gt;
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Definiere Liste mit Gruppenvariable&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;rep&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;group&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;length&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.method[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;no.missings]&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#75af00&#34;&gt;set_names&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;names&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.method[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;no.missings]&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#75af00&#34;&gt;as.list&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;()&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.group.variable&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;br&gt;
-&lt;h3 id=&#34;imputation&#34;&gt;Imputation&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;set.seed&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;123&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;mice&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;predictorMatrix&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;method&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.method&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;imputationFunction&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.function&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.group.variable&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;m&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;maxit&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;
-
-&lt;span style=&#34;color:#75af00&#34;&gt;save&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;file&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;data/imp.rda&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;br&gt;
-&lt;h3 id=&#34;diagnostik&#34;&gt;Diagnostik&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Trace plots&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;plot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
-     &lt;span style=&#34;color:#111&#34;&gt;layout&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;ceiling&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;no.missings&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)))&lt;/span&gt;
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# Kernel densities&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;densityplot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#75af00&#34;&gt;densityplot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;as.factor&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1ZMFvldRSkspZc5wUZPNgQ33-uUa1IvGa/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
 &lt;style&gt;
 h1 {color: #2a7792;}
 &lt;/style&gt;
@@ -1025,6 +1146,56 @@ code{
 &lt;span style=&#34;color:#75af00&#34;&gt;with&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;implist&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;glm&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;ri&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;binomial&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;logit&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)))&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
   &lt;span style=&#34;color:#75af00&#34;&gt;testEstimates&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;()&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;mi.logreg&lt;/span&gt;
 &lt;span style=&#34;color:#111&#34;&gt;mi.logreg&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Operatoren</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/operatoren/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/operatoren/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1iE8YtiJdIwweyj7naHWM5T0jtlHIsYWR/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
 &lt;style&gt;
 h1 {color: #2a7792;}
 &lt;/style&gt;
@@ -1238,6 +1409,67 @@ h1 {color: #2a7792;}
     </item>
     
     <item>
+      <title>Slicing &amp; Indexing</title>
+      <link>/workshop/rct-evaluation-in-r/r-entdecken/slicing/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/r-entdecken/slicing/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1l0zw3xVi92drtC4YrP8ceI60inpuqLhY/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;übungsaufgaben&#34;&gt;Übungsaufgaben&lt;/h3&gt;
+&lt;p&gt;Für die Übungsaufgaben muss der Übungsdatensatz &lt;code&gt;data&lt;/code&gt; geladen sein, sowie das {tidyverse} package.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;tidyverse&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;read.csv&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;data/data.csv&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&#34;1-log-transformiere-die-variable-age-in-data-und-speichere-das-ergebnis-unter-dem-namen-agelog&#34;&gt;1. Log-Transformiere die Variable &lt;code&gt;age&lt;/code&gt; in &lt;code&gt;data&lt;/code&gt; und speichere das Ergebnis unter dem Namen &lt;code&gt;age.log&lt;/code&gt;.&lt;/h4&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;lösung&#34;&gt;Lösung&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#111&#34;&gt;[...]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Effektstärken</title>
       <link>/workshop/rct-evaluation-in-r/analysieren-verstehen/effektstaerken/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -1416,6 +1648,201 @@ code{
 &lt;hr&gt;
 &lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
 &lt;iframe src=&#34;https://drive.google.com/file/d/1pwc5QZ0ktVVNEosP2C3RSs0FRrRWZROT/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Missing Data-Mechanismen</title>
+      <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/missing-data/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/missing-data/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1nyjRJY65ywJRf0ZtYZGokZ9dlFx6r5H8/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;style&gt;
+h1 {color: #2a7792;}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple Imputation</title>
+      <link>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/multiple-imputation/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/workshop/rct-evaluation-in-r/einfuehrung-hintergrund/multiple-imputation/</guid>
+      <description>&lt;style&gt;
+code{
+  color: #2a7792;
+}
+.hljs{
+  font-size: 16px
+}
+.minih{
+  font-size: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.highlight {
+    position: relative;
+}
+.highlight pre {
+    padding: 15px;
+}
+.highlight-copy-btn {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 0.7em;
+    line-height: 1.8;
+    color: #fff;
+    background-color: #777;
+    min-width: 55px;
+    text-align: center;
+}
+.highlight-copy-btn:hover {
+    background-color: #666;
+}
+&lt;/style&gt;
+&lt;hr&gt;
+&lt;h2 class=&#34;minih&#34; id=&#34;foliensatz&#34;&gt;Foliensatz&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1GkEjXt17_Ot0ihwrNSB4WFuyqZkLkZSl/preview&#34; width=&#34;736&#34; height=&#34;552&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;praxis-teil&#34;&gt;Praxis-Teil&lt;/h2&gt;
+&lt;h3 id=&#34;missing-data-pattern&#34;&gt;Missing Data Pattern&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;md.pattern&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;rotate.names&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#00a8c8&#34;&gt;TRUE&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;mice&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;miceadds&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;tidyverse&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;plot.matrix&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;library&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;mitml&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;influx-outflux-plot&#34;&gt;Influx-Outflux-Plot&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;flux&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;fluxplot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;ausschluss-von-variablen&#34;&gt;Ausschluss von Variablen&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;mice&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;maxit&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;loggedEvents&lt;/span&gt;
+
+&lt;span style=&#34;color:#111&#34;&gt;outlist&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;loggedEvents&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;sess&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;zuf.1&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+&lt;span style=&#34;color:#111&#34;&gt;imp.data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;data&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;select&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;all_of&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;outlist&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;imputationsmatrix&#34;&gt;Imputationsmatrix&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Definiere eine &amp;#34;Inlist&amp;#34; (zwingend einzuschließende Variablen)&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;inlist&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;sex&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;age&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;ethn&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;child&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;prevpyschoth&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;ft.helps&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+            &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;prevtraining&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;rel&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;degree&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;inc&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;pss.0&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# - mincor (Minimale Interkorrelation) = 0.01&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;# - minpuc (Proportion of Usable Cases) = 0.1&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;quickpred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+                  &lt;span style=&#34;color:#111&#34;&gt;mincor&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0.05&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+                  &lt;span style=&#34;color:#111&#34;&gt;minpuc&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0.1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+                  &lt;span style=&#34;color:#111&#34;&gt;inc&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;inlist&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Mittlere Anzahl an Prädiktoren&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;rowsums&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;table&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;rowSums&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;rowsums&lt;/span&gt;
+
+&lt;span style=&#34;color:#111&#34;&gt;rowsums[&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;-1&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#111&#34;&gt;{&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;as.numeric&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;names&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;.)&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%*%&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;. &lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;.)&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;}&lt;/span&gt;
+
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Setze Prädiktor &amp;#34;group&amp;#34; auf 0&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;pred[&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;group&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;
+
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Visualisiere die Prädiktormatrix&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;plot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;main&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;Imputation Matrix&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;col&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;grey&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;blue&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;),&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;xlab&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;predicts&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;ylab&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;is predicted&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;las&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;cex.axis&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0.5&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Nochmalige Nullimputation; zeige gewählte Methode&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;mice&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;maxit&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+            &lt;span style=&#34;color:#111&#34;&gt;predictorMatrix&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;method&lt;/span&gt;
+
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Finde Variablen ohne Missings&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;no.missings&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;method&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Setze Imputationsmethode auf &amp;#34;bygroup&amp;#34;&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;method&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;replace&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;.,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;. &lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;bygroup&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.method&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Definiere Imputationsfunktion für &amp;#34;bygroup&amp;#34; variablen&lt;/span&gt;
+&lt;span style=&#34;color:#111&#34;&gt;imp0&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;method[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;no.missings]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;as.list&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;()&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.function&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Definiere Liste mit Gruppenvariable&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;rep&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;group&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;length&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.method[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;no.missings]&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;set_names&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;names&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.method[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;no.missings]&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#75af00&#34;&gt;as.list&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;()&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.group.variable&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;imputation&#34;&gt;Imputation&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75af00&#34;&gt;set.seed&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;123&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;mice&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp.data&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;predictorMatrix&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pred&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;method&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.method&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;imputationFunction&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.function&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp.group.variable&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;m&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;maxit&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;
+
+&lt;span style=&#34;color:#75af00&#34;&gt;save&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;file&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#d88200&#34;&gt;&amp;#34;data/imp.rda&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;diagnostik&#34;&gt;Diagnostik&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Trace plots&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;plot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt;
+     &lt;span style=&#34;color:#111&#34;&gt;layout&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;c&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;ceiling&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#75af00&#34;&gt;sum&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;no.missings&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)))&lt;/span&gt;
+
+&lt;span style=&#34;color:#75715e&#34;&gt;# Kernel densities&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;densityplot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.2&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75af00&#34;&gt;densityplot&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;imp&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#111&#34;&gt;pss.2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#75af00&#34;&gt;as.factor&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;group&lt;/span&gt;&lt;span style=&#34;color:#111&#34;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;style&gt;
 h1 {color: #2a7792;}
 &lt;/style&gt;

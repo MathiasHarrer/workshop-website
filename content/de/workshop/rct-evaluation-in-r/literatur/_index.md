@@ -65,9 +65,6 @@ Altman, Douglas G. 1985. <span>“Comparability of Randomised Groups.”</span> 
 <div id="ref-altman1998confidence" class="csl-entry">
 ———. 1998. <span>“Confidence Intervals for the Number Needed to Treat.”</span> <em>Bmj</em> 317 (7168): 1309–12.
 </div>
-<div id="ref-arendt1989leben" class="csl-entry">
-Arendt, Hannah. 1989. <em>Vom Leben Des Geistes, Band 2, Das Wollen. Aus Dem Amerikanischen von Hermann Vetter</em>. Piper.
-</div>
 <div id="ref-assmann2000subgroup" class="csl-entry">
 Assmann, Susan F, Stuart J Pocock, Laura E Enos, and Linda E Kasten. 2000. <span>“Subgroup Analysis and Other (Mis) Uses of Baseline Data in Clinical Trials.”</span> <em>The Lancet</em> 355 (9209): 1064–69.
 </div>
