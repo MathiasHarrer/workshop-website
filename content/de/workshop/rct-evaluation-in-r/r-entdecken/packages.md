@@ -75,7 +75,6 @@ install.packages("tidyverse")
 ### Installation weiterer Packages
 
 {{< highlight R >}}
-install.packages("tidyverse")
 install.packages("skimr")
 install.packages("mice")
 install.packages("miceadds")

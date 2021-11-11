@@ -112,7 +112,7 @@ imp.data <- data %>% select(-all_of(outlist))
 inlist <- c("sex", "age", "ethn", "child", "prevpyschoth", "ft.helps",
             "prevtraining", "rel", "degree", "inc", "pss.0")
 
-# - mincor (Minimale Interkorrelation) = 0.01
+# - mincor (Minimale Interkorrelation) = 0.05
 # - minpuc (Proportion of Usable Cases) = 0.1
 pred <- quickpred(imp.data,
                   mincor = 0.05,
