@@ -168,7 +168,7 @@
     <lastmod>2021-11-09T18:03:20+01:00</lastmod>
   </url><url>
     <loc>/workshop/rct-evaluation-in-r/literatur/</loc>
-    <lastmod>2021-11-09T12:14:46+01:00</lastmod>
+    <lastmod>2021-11-13T23:08:13+01:00</lastmod>
   </url><url>
     <loc>/datasets/</loc>
     <lastmod>2021-10-28T11:28:37+02:00</lastmod>
@@ -184,7 +184,7 @@
                 />
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-11-11T11:30:22+01:00</lastmod>
+    <lastmod>2021-11-13T23:08:13+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -333,7 +333,7 @@
                 />
   </url><url>
     <loc>/workshop/</loc>
-    <lastmod>2021-11-11T11:30:22+01:00</lastmod>
+    <lastmod>2021-11-13T23:08:13+01:00</lastmod>
   </url><url>
     <loc>/author/a-diaz-garcia/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
@@ -11872,6 +11872,18 @@
                 rel="alternate"
                 hreflang="de"
                 href="/author/janika-thielecke-msc/"
+                />
+  </url><url>
+    <loc>/author/jennifer-kulke-msc/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/jennifer-kulke-msc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/jennifer-kulke-msc/"
                 />
   </url><url>
     <loc>/author/jh-lawton/</loc>
