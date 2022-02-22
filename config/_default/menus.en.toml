@@ -53,6 +53,12 @@
   weight = 32
 
 [[main]]
+  name = "Talks"
+  url = "event/"
+  parent = "research"
+  weight = 34
+
+[[main]]
   name = "Publications"
   url = "en/publication/"
   weight = 40

@@ -11,19 +11,6 @@
     <loc>/workshop/rct-evaluation-in-r/r-entdecken/r-rstudio/</loc>
     <lastmod>2021-11-08T19:32:02+01:00</lastmod>
   </url><url>
-    <loc>/courses/example/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/courses/example/"
-                />
-  </url><url>
     <loc>/author/prof.-dr.-david-daniel-ebert/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -170,6 +157,25 @@
     <loc>/workshop/rct-evaluation-in-r/literatur/</loc>
     <lastmod>2021-11-13T23:08:13+01:00</lastmod>
   </url><url>
+    <loc>/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/"
+                />
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>/datasets/</loc>
     <lastmod>2021-10-28T11:28:37+02:00</lastmod>
     <xhtml:link
@@ -181,19 +187,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="/datasets/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-11-13T23:08:13+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/"
                 />
   </url><url>
     <loc>/datasets/suicide-prevention/</loc>
@@ -223,7 +216,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-10-08T10:18:08+02:00</lastmod>
+    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -236,7 +229,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-10-08T10:18:08+02:00</lastmod>
+    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11676,19 +11669,6 @@
                 href="/publication/cost-effective-personalised-treatment-recommendations-an-example-of-depression-treatments/"
                 />
   </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/courses/"
-                />
-  </url><url>
     <loc>/author/curriculum-vitae/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -11875,6 +11855,7 @@
                 />
   </url><url>
     <loc>/author/jennifer-kulke-msc/</loc>
+    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

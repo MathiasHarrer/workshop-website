@@ -2,22 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/courses/example/example1/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-  </url><url>
-    <loc>/en/courses/example/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/example/"
-                />
-  </url><url>
     <loc>/en/author/prof.-dr.-david-daniel-ebert/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -43,9 +27,6 @@
                 hreflang="en"
                 href="/en/author/prof.-dr.-david-daniel-ebert/"
                 />
-  </url><url>
-    <loc>/en/courses/example/example2/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
   </url><url>
     <loc>/en/author/dr.-claudia-buntrock/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
@@ -113,7 +94,7 @@
                 />
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2021-10-28T11:28:37+02:00</lastmod>
+    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -139,7 +120,7 @@
                 />
   </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2021-10-08T10:18:08+02:00</lastmod>
+    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -152,7 +133,7 @@
                 />
   </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2021-10-08T10:18:08+02:00</lastmod>
+    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -11577,19 +11558,6 @@
                 href="/en/publication/cost-effective-personalised-treatment-recommendations-an-example-of-depression-treatments/"
                 />
   </url><url>
-    <loc>/en/courses/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/"
-                />
-  </url><url>
     <loc>/en/author/curriculum-vitae/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -11760,6 +11728,7 @@
                 />
   </url><url>
     <loc>/en/author/jennifer-kulke-msc/</loc>
+    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"

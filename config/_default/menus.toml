@@ -53,6 +53,18 @@
   weight = 32
 
 [[main]]
+  name = "Workshops"
+  url = "workshop/"
+  parent = "research"
+  weight = 33
+
+[[main]]
+  name = "Vorträge & Präsentationen"
+  url = "event/"
+  parent = "research"
+  weight = 34
+
+[[main]]
   name = "Publikationen"
   url = "publication/"
   weight = 40
