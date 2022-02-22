@@ -157,11 +157,60 @@
     <loc>/workshop/rct-evaluation-in-r/literatur/</loc>
     <lastmod>2021-11-13T23:08:13+01:00</lastmod>
   </url><url>
-    <loc>/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+  </url><url>
+    <loc>/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/"
+                />
+  </url><url>
+    <loc>/tag/meta-analysis/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/meta-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tag/meta-analysis/"
+                />
   </url><url>
     <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -173,8 +222,31 @@
                 href="/"
                 />
   </url><url>
-    <loc>/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/tag/r/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tag/r/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/"
+                />
   </url><url>
     <loc>/datasets/</loc>
     <lastmod>2021-10-28T11:28:37+02:00</lastmod>
@@ -215,32 +287,6 @@
                 href="/data-warehouse/"
                 />
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/authors/"
-                />
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/authors/"
-                />
-  </url><url>
     <loc>/tag/laufend/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -278,19 +324,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="/project/star/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/"
                 />
   </url><url>
     <loc>/job/praktikum/</loc>
@@ -12241,6 +12274,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="/author/v-bremer/"
+                />
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/event/"
                 />
   </url><url>
     <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>

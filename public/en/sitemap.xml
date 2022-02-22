@@ -80,6 +80,97 @@
                 href="/en/author/prof.-dr.-johannes-a.c.-laferton/"
                 />
   </url><url>
+    <loc>/en/authors/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+  </url><url>
+    <loc>/en/authors/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+  </url><url>
+    <loc>/en/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/"
+                />
+  </url><url>
+    <loc>/en/tag/meta-analysis/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tag/meta-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/meta-analysis/"
+                />
+  </url><url>
+    <loc>/en/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url><url>
+    <loc>/en/tag/r/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tag/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/r/"
+                />
+  </url><url>
+    <loc>/en/tags/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url><url>
     <loc>/en/datasets/</loc>
     <lastmod>2021-10-28T11:28:37+02:00</lastmod>
     <xhtml:link
@@ -93,19 +184,6 @@
                 href="/en/datasets/"
                 />
   </url><url>
-    <loc>/en/</loc>
-    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url><url>
     <loc>/en/datasets/suicide-prevention/</loc>
     <lastmod>2021-10-28T11:28:37+02:00</lastmod>
     <xhtml:link
@@ -117,32 +195,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/datasets/suicide-prevention/"
-                />
-  </url><url>
-    <loc>/en/authors/</loc>
-    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-  </url><url>
-    <loc>/en/authors/</loc>
-    <lastmod>2022-01-16T15:31:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
                 />
   </url><url>
     <loc>/en/tag/laufend/</loc>
@@ -182,19 +234,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/project/star/"
-                />
-  </url><url>
-    <loc>/en/tags/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
                 />
   </url><url>
     <loc>/en/vignettes/reshape-gemtc/</loc>
@@ -12062,6 +12101,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/t-pfeiffer/"
+                />
+  </url><url>
+    <loc>/en/event/</loc>
+    <lastmod>2022-02-22T12:31:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/event/"
                 />
   </url><url>
     <loc>/en/team/</loc>

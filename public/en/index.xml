@@ -5,7 +5,7 @@
     <link>/en/</link>
       <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Protect Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Mon, 21 Feb 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo.svg</url>
       <title>Protect Lab</title>
@@ -98,6 +98,18 @@
 &lt;li&gt;Evaluation einer online-basierten Transferförderung nach stationärer Depressionstherapie, Bundesministerium für Bildung und Forschung. Chronische Krankheiten und Patientenorientierung (01GX1002), 2011–2014. 419.170€  (Co-PI, PI: M. Berking).&lt;/li&gt;
 &lt;li&gt;Evaluation einer online-basierten transdiagnostischen Nachsorge zur Förderung der Stabilität der Effekte einer stationär-psychosomatischen Rehabilitationsmaßnahme“ von der Fachklinik für Psychotherapie und Psychosomatik – Vogelsbergklinik, 2007-2009. 100.000€ (PI)&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Doing Meta-Analysis with R: Motivation, Concept and Features of an Open-Source Guide for Beginners</title>
+      <link>/en/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/</link>
+      <pubDate>Mon, 21 Feb 2022 13:00:00 +0000</pubDate>
+      <guid>/en/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/</guid>
+      <description>&lt;h3&gt;Slides&lt;/h3&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://drive.google.com/file/d/1hgsEvbcnHA4ZG4TizzZSV1arojeKON8C/preview&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
