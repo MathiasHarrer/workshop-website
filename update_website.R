@@ -1,10 +1,12 @@
 library(blogdown)
+library(rmarkdown)
 library(scholar)
 library(plyr)
 library(dplyr)
 library(stringr)
 library(rorcid)
 library(utils)
+library(purrr)
 
 # # # # # # # # # # # # # # # # # # # # # # # #
 #                                             #
@@ -333,5 +335,20 @@ sink()
 #                             #
 # # # # # # # # # # # # # # # #
 
-blogdown::build_site()}
+blogdown::build_site()
+
+list(de = list.files("content/de/authors"),
+     en = list.files("content/en/authors")) %>% 
+  map(function(x){
+    map(x, function(y){
+      stem = "content/de/authors/"
+      if ("_index.Rmarkdown" %in% 
+          list.files(paste0(stem, y))){
+        rmarkdown::render(paste0(stem, y, "/_index.Rmarkdown"))}
+    })})
+
+
+
+
+}
 

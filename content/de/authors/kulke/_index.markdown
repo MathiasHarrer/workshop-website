@@ -4,13 +4,13 @@ authors:
 bio:
 education:
   courses:
-  - course: "M.Sc. Psychologie: Cognitive-Affective Neuroscience"
+  - course: "Master Psychologie: Cognitive-Affective Neuroscience"
     institution: Technische Universität Dresden
     year: 2021
-  - course: B.Sc. Psychologie
+  - course: "Bachelor Psychologie"
     institution: Technische Universität Chemnitz
     year: 2018
-  - course: B.Sc. Sensorik und kognitive Psychologie
+  - course: "Bachelor Sensorik und kognitive Psychologie"
     institution: Technische Universität Chemnitz
     year: 2017
 email: "jennifer.kulke@tum.de"

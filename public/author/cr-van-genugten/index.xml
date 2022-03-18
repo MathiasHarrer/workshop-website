@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CR Van Genugten | Protect Lab</title>
+    <link>/author/cr-van-genugten/</link>
+      <atom:link href="/author/cr-van-genugten/index.xml" rel="self" type="application/rss+xml" />
+    <description>CR Van Genugten</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>CR Van Genugten</title>
+      <link>/author/cr-van-genugten/</link>
+    </image>
+    
+    <item>
+      <title>Examining the Theoretical Framework of Behavioral Activation for Major Depressive Disorder- Smartphone-Based Ecological Momentary Assessment Study</title>
+      <link>/publication/examining-the-theoretical-framework-of-behavioral-activation-for-major-depressive-disorder-smartphone-based-ecological-momentary-assessment-study/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/examining-the-theoretical-framework-of-behavioral-activation-for-major-depressive-disorder-smartphone-based-ecological-momentary-assessment-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A data-driven clustering method for discovering profiles in the dynamics of major depressive disorder using a smartphone-based ecological momentary assessment of mood</title>
+      <link>/publication/a-data-driven-clustering-method-for-discovering-profiles-in-the-dynamics-of-major-depressive-disorder-using-a-smartphone-based-ecological-momentary-assessment-of-mood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/a-data-driven-clustering-method-for-discovering-profiles-in-the-dynamics-of-major-depressive-disorder-using-a-smartphone-based-ecological-momentary-assessment-of-mood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

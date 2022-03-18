@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Kircher | Protect Lab</title>
+    <link>/author/t-kircher/</link>
+      <atom:link href="/author/t-kircher/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Kircher</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>T Kircher</title>
+      <link>/author/t-kircher/</link>
+    </image>
+    
+    <item>
+      <title>Implementing Internet-Based Cognitive Behavioral Therapy in Routine Care- Healthcare Practitioners’ Attitude and Perceived Level of Normalization After a Single Information Event</title>
+      <link>/publication/implementing-internet-based-cognitive-behavioral-therapy-in-routine-care-healthcare-practitioners-attitude-and-perceived-level-of-normalization-after-a-single-information-event/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/implementing-internet-based-cognitive-behavioral-therapy-in-routine-care-healthcare-practitioners-attitude-and-perceived-level-of-normalization-after-a-single-information-event/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

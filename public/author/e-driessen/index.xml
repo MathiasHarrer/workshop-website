@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Driessen | Protect Lab</title>
+    <link>/author/e-driessen/</link>
+      <atom:link href="/author/e-driessen/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Driessen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>E Driessen</title>
+      <link>/author/e-driessen/</link>
+    </image>
+    
+    <item>
+      <title>The Contribution of “Individual Participant Data” Meta-Analyses of Psychotherapies for Depression to the Development of Personalized Treatments- A Systematic Review</title>
+      <link>/publication/the-contribution-of-individual-participant-data-meta-analyses-of-psychotherapies-for-depression-to-the-development-of-personalized-treatments-a-systematic-review/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/the-contribution-of-individual-participant-data-meta-analyses-of-psychotherapies-for-depression-to-the-development-of-personalized-treatments-a-systematic-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -69,4 +69,4 @@ sowie die Entwicklung statistischer Software.
 
 ### Forschungsmetriken
 
-<img src="/de/authors/harrer/_index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+<img src="/de/authors/harrer/_index_files/figure-html/metric-1.png" width="672" />

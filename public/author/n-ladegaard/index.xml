@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Ladegaard | Protect Lab</title>
+    <link>/author/n-ladegaard/</link>
+      <atom:link href="/author/n-ladegaard/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Ladegaard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>N Ladegaard</title>
+      <link>/author/n-ladegaard/</link>
+    </image>
+    
+    <item>
+      <title>Effect of sleep disturbance symptoms on treatment outcome in blended CBT for depression- A secondary analysis of the E-COMPARED study.(Preprint)</title>
+      <link>/publication/effect-of-sleep-disturbance-symptoms-on-treatment-outcome-in-blended-cbt-for-depression-a-secondary-analysis-of-the-e-compared-study-preprint-/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/effect-of-sleep-disturbance-symptoms-on-treatment-outcome-in-blended-cbt-for-depression-a-secondary-analysis-of-the-e-compared-study-preprint-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

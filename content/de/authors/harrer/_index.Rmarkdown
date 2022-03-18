@@ -69,7 +69,7 @@ sowie die Entwicklung statistischer Software.
 
 ### Forschungsmetriken
 
-```{r, echo=F, message=FALSE, warning=FALSE, fig.height=2}
+```{r metric, echo=F, message=FALSE, warning=FALSE, fig.height=2}
 id = "BgSmYnUAAAAJ"
 
 {library(scholar)

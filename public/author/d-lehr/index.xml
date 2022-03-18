@@ -5,12 +5,20 @@
     <link>/author/d-lehr/</link>
       <atom:link href="/author/d-lehr/index.xml" rel="self" type="application/rss+xml" />
     <description>D Lehr</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo.svg</url>
       <title>D Lehr</title>
       <link>/author/d-lehr/</link>
     </image>
+    
+    <item>
+      <title>Reducing problematic alcohol use in employees- economic evaluation of guided and unguided web‐based interventions alongside a three‐arm randomized controlled trial</title>
+      <link>/publication/reducing-problematic-alcohol-use-in-employees-economic-evaluation-of-guided-and-unguided-web-based-interventions-alongside-a-three-arm-randomized-controlled-trial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/reducing-problematic-alcohol-use-in-employees-economic-evaluation-of-guided-and-unguided-web-based-interventions-alongside-a-three-arm-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A three-armed randomised controlled trial investigating the comparative impact of guidance on the efficacy of a web-based stress management intervention and health impairing </title>
@@ -271,6 +279,14 @@
       <link>/publication/occupational-e-mental-health-current-approaches-and-promising-perspectives-for-promoting-mental-health-in-workers/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/occupational-e-mental-health-current-approaches-and-promising-perspectives-for-promoting-mental-health-in-workers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupational eMental Health and teachers health. A meta-analytic review on the efficacy of internet-based intervention for promoting mental health in teachers</title>
+      <link>/publication/occupational-emental-health-and-teachers-health-a-meta-analytic-review-on-the-efficacy-of-internet-based-intervention-for-promoting-mental-health-in-teachers/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/occupational-emental-health-and-teachers-health-a-meta-analytic-review-on-the-efficacy-of-internet-based-intervention-for-promoting-mental-health-in-teachers/</guid>
       <description></description>
     </item>
     

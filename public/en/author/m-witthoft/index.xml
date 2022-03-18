@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Witthöft | Protect Lab</title>
+    <link>/en/author/m-witthoft/</link>
+      <atom:link href="/en/author/m-witthoft/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Witthöft</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>M Witthöft</title>
+      <link>/en/author/m-witthoft/</link>
+    </image>
+    
+    <item>
+      <title>Somatosensory amplification moderates the efficacy of internet-delivered CBT for somatic symptom distress in emerging adults- Exploratory analysis of a randomized controlled trial</title>
+      <link>/en/publication/somatosensory-amplification-moderates-the-efficacy-of-internet-delivered-cbt-for-somatic-symptom-distress-in-emerging-adults-exploratory-analysis-of-a-randomized-controlled-trial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/somatosensory-amplification-moderates-the-efficacy-of-internet-delivered-cbt-for-somatic-symptom-distress-in-emerging-adults-exploratory-analysis-of-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

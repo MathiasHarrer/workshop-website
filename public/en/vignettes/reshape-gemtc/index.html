@@ -309,7 +309,7 @@
     <meta property="twitter:image" content="/media/logo.svg" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2021-06-07T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2022-03-18T00:00:00&#43;00:00" />
     
   
 
@@ -676,6 +676,7 @@
 <div class="universal-wrapper">
   
     <div class="article-style">
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
 <style type="text/css">
@@ -731,19 +732,19 @@ TherapyFormats %&gt;%
                  &quot;std.err&quot;, &quot;treatment&quot;)) -&gt; data</code></pre>
 <p>Now, let us have a look at the new data format.</p>
 <pre class="r"><code>head(data, 10)</code></pre>
-<pre><code>## # A tibble: 10 x 4
-##    study            diff std.err treatment
-##    &lt;chr&gt;           &lt;dbl&gt;   &lt;dbl&gt; &lt;chr&gt;    
-##  1 Ausbun, 1997   0.092    0.195 ind      
-##  2 Ausbun, 1997  NA       NA     grp      
-##  3 Crable, 1986  -0.675    0.35  ind      
-##  4 Crable, 1986  NA       NA     grp      
-##  5 Thiede, 2011  -0.107    0.198 ind      
-##  6 Thiede, 2011  NA       NA     grp      
-##  7 Bonertz, 2015 -0.0900   0.324 ind      
-##  8 Bonertz, 2015 NA       NA     grp      
-##  9 Joy, 2002     -0.135    0.453 ind      
-## 10 Joy, 2002     NA       NA     grp</code></pre>
+<pre><code>## # A tibble: 10 × 4
+##    study           diff std.err treatment
+##    &lt;chr&gt;          &lt;dbl&gt;   &lt;dbl&gt; &lt;chr&gt;    
+##  1 Ausbun, 1997   0.092   0.195 ind      
+##  2 Ausbun, 1997  NA      NA     grp      
+##  3 Crable, 1986  -0.675   0.35  ind      
+##  4 Crable, 1986  NA      NA     grp      
+##  5 Thiede, 2011  -0.107   0.198 ind      
+##  6 Thiede, 2011  NA      NA     grp      
+##  7 Bonertz, 2015 -0.09    0.324 ind      
+##  8 Bonertz, 2015 NA      NA     grp      
+##  9 Joy, 2002     -0.135   0.453 ind      
+## 10 Joy, 2002     NA      NA     grp</code></pre>
 <p>We see that the data now has the desired “longer” format, where the reference group values for <code>diff</code> and <code>std.err</code> are <code>NA</code> in each trial.</p>
 <p>It is also useful to create another data frame in which the full name of the treatments in our network is stored. This information can be added to the <code>treatments</code> argument in <code>mtc.network</code>, and makes it easier to create network plots further down the line, among other things. There are certainly more elegant approaches, but this is one way to create such a table:</p>
 <pre class="r"><code>library(tibble)
@@ -796,7 +797,7 @@ TherapyFormatsGeMTC$data %&gt;%
 <pre class="r"><code># Select Breiman, 2001 study
 TherapyFormatsGeMTC$data %&gt;% 
   filter(study == &quot;Breiman, 2001&quot;)</code></pre>
-<pre><code>## # A tibble: 6 x 4
+<pre><code>## # A tibble: 6 × 4
 ##   study           diff std.err treatment
 ##   &lt;chr&gt;          &lt;dbl&gt;   &lt;dbl&gt; &lt;chr&gt;    
 ## 1 Breiman, 2001 -0.085   0.516 ind      
@@ -818,7 +819,7 @@ TherapyFormatsGeMTC$data[365, &quot;std.err&quot;] &lt;- se.base</code></pre>
 <p>Let us check how the final data structure looks like for our multi-arm trial:</p>
 <pre class="r"><code>TherapyFormatsGeMTC$data %&gt;% 
   filter(study == &quot;Breiman, 2001&quot;)</code></pre>
-<pre><code>## # A tibble: 3 x 4
+<pre><code>## # A tibble: 3 × 4
 ##   study           diff std.err treatment
 ##   &lt;chr&gt;          &lt;dbl&gt;   &lt;dbl&gt; &lt;chr&gt;    
 ## 1 Breiman, 2001 -0.75    0.513 ind      
