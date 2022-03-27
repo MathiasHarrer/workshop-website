@@ -5,12 +5,33 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo.svg</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>PSYCHOnlineTHERAPIE</title>
+      <link>/project/psychonlinetherapie/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/project/psychonlinetherapie/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;projektbeschreibung&#34;&gt;Projektbeschreibung&lt;/h2&gt;
+&lt;p&gt;PSYCHOnlineTHERAPIE untersucht die Integration von Online-Interventionen in die psychotherapeutische ambulante Routineversorgung von Patient:innen mit depressiven Störungen und Angststörungen. Die sogenannte verzahnte Psychotherapie (auch Blended Therapy), die eine Kombination aus Online-Behandlungselementen und Psychotherapiesitzungen mit Psychotherapeut:innen im Rahmen der Routineversorgung darstellt, wird als neue Versorgungsform mit dem Ziel einer Verbesserung der psychotherapeutischen Versorgung im Zuge des Modellprojekts implementiert und evaluiert. Verzahnte Psychotherapie besitzt das Potential die psychotherapeutische Versorgung zu verbessern, da durch die Kombination von ambulanter Psychotherapie mit Online-Elementen eine flexiblere Gestaltung der Therapie ermöglicht wird. Weitere Vorteile sind die Ermöglichung eines verbesserten Transfers von Therapieinhalten in den Alltag der Patient:innen und eine Erweiterung der Kapazitäten von Psychotherapeut:innen.&lt;/p&gt;
+&lt;p&gt;Im Rahmen des Projekts PSYCHOnlineTHERAPIE wird verzahnte Psychotherapie anhand einer drei-armigen cluster-randomisierten non-inferiority Studie in zwei Varianten untersucht und mit einer Standard-Psychotherapie gemäß Routineversorgung verglichen. Die gemeinsamen Therapiesitzungen in allen drei Studienbedingungen beinhalten kognitive Verhaltenstherapie mit niedergelassenen Psychotherapeut:innen. Die zwei Varianten verzahnter Psychotherapie enthalten zwischen den gemeinsamen Therapiesitzungen zusätzlich die selbstständige Bearbeitung von Online-Lektionen durch die Patient:innen und unterscheiden sich dabei in der Flexibilität der Abfolge und der Anzahl von gemeinsamen Sitzungen und Online-Lektionen. Behandelnde Therapeut:innen können die Zuweisung von verschiedenen Online-Lektionen individuell nach den Bedürfnissen der teilnehmenden Patient:innen vornehmen.&lt;/p&gt;
+&lt;p&gt;Die wissenschaftliche Evaluation des Projekts umfasst sowohl quantitative als auch qualitative Erhebungsmethoden zu mehreren Messzeitpunkten. Die beiden Varianten verzahnter Psychotherapie werden dabei auf deren Wirksamkeit, Kosten-Effektivität, Akzeptanz und Durchführbarkeit untersucht.&lt;/p&gt;
+&lt;h3 id=&#34;förderung&#34;&gt;Förderung&lt;/h3&gt;
+&lt;p&gt;Innovationsfonds des Gemeinsamen Bundesausschusses zu neuen Versorgungsformen.&lt;/p&gt;
+&lt;h3 id=&#34;projektleitung&#34;&gt;Projektleitung&lt;/h3&gt;
+&lt;p&gt;Prof. Dr. Harald Baumeister (Universität Ulm, Abteilung für Klinische Psychologie und Psychotherapie)&lt;/p&gt;
+&lt;h3 id=&#34;projektleitung-evaluation&#34;&gt;Projektleitung Evaluation&lt;/h3&gt;
+&lt;p&gt;Prof. Dr. David D. Ebert&lt;/p&gt;
+&lt;h3 id=&#34;projektkoordination-evaluation&#34;&gt;Projektkoordination Evaluation&lt;/h3&gt;
+&lt;p&gt;Dr. Anna-Carlotta Zarski&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>StAR</title>

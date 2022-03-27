@@ -17,7 +17,7 @@ interests:
 - Internetbasierte Interventionen für PTBS
 - Kinder und Jugendpsychotherapie (bei PTBS)
 organizations:
-- name: Friedrich-Alexander-Universität Erlangen-Nürnberg
+- name: Technische Universität München
   url: ""
 role: Wissenschaftliche Mitarbeiterin
 social:
@@ -41,11 +41,9 @@ user_groups:
 # Information
 
 <font size="3">
+<p>Christina Schulte ist MSc Psychologin und promoviert derzeit an der Technischen Universität München. Sie studierte von 2015 bis 2018 Psychologie (BSc) an der Friedrich-Schiller-Universität Jena und durchlief den Masterstudiengang Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie an der Technischen Universität Dresden (MSc). Diesen schloss sie im Juni 2020 mit ihrer Masterarbeit zum Einfluss dissoziativer Phänomene auf die psychische Belastung von Patient:innen mit Posttraumatischer Belastungsstörung (PTBS) ab.</p>
 
-Christina Schulte ist MSc Psychologin und promoviert derzeit an der Friedrich-Alexander-Universität Erlangen-Nürnberg. Sie studierte von 2015 bis 2018 Psychologie (BSc) an der Friedrich-Schiller-Universität Jena und durchlief den Masterstudiengang Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie an der Technischen Universität Dresden. Diesen schloss sie im Juni 2020 mit ihrer Masterarbeit zum Einfluss dissoziativer Phänomene auf die psychische Belastung von Patient:innen mit Posttraumatischer Belastungsstörung (PTBS) ab.
-
-Seitdem ist Christina Schulte am Lehrstuhl für Klinische Psychologie und Psychotherapie der Universität Erlangen-Nürnberg in der Arbeitsgruppe E-Mental Health angestellt. Dort arbeitet sie in einem Projekt, dass die Entwicklung, Evaluation und Implementation eines Online-Trainings für Jugendliche und junge Erwachsene mit PTBS zum Ziel hat. Das Projekt stellt die Grundlage für ihr Promotionsvorhaben.
-
+<p>Aktuell ist Christina Schulte wissenschaftliche Mitarbeiterin und Doktorandin an der Professur Psychology & Digital Mental Health Care der TUM. Sie arbeitet in einem Projekt, das die Entwicklung, Evaluation und Implementation eines Online-Trainings für Jugendliche und junge Erwachsene mit PTBS zum Ziel hat. Das Projekt stellt die Grundlage für ihr Promotionsvorhaben.</p>
 </font>
 
 

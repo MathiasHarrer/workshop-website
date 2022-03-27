@@ -17,7 +17,7 @@ interests:
 - Internet-based Interventions for PTSD
 - Child and youth psychotherapy
 organizations:
-- name: Friedrich-Alexander-University Erlangen-Nuremberg
+- name: Technical University Munich
   url: ""
 role: Research Associate
 social:
@@ -42,9 +42,9 @@ user_groups:
 
 <font size="3">
 
-Christina Schulte is an MSc psychologist and is doing her doctorate at the Friedrich-Alexander-University Erlangen-Nuremberg. She studied Psychology (BSc) at the Friedrich-Schiller-University Jena from 2015 to 2018. From 2018 onwards, she completed the degree program Psychology with Focus on Clinical Psychology and Psychotherapy (MSc) at the TU Dresden. With her master’s thesis - impact of dissociative symptoms on psychological stress within patients with posttraumatic stress disorder – she finished her studies in psychology in June 2020.
+Christina Schulte is an MSc psychologist and is doing her doctorate at the Technical University Munich. She studied Psychology (BSc) at the Friedrich-Schiller-University Jena from 2015 to 2018. From 2018 onwards, she completed the degree program Psychology with Focus on Clinical Psychology and Psychotherapy (MSc) at the TU Dresden. With her master’s thesis - impact of dissociative symptoms on psychological stress within patients with posttraumatic stress disorder – she finished her studies in psychology in June 2020.
 
-Since then she has been working at the Chair of Clinical Psychology and Psychotherapy at the University of Erlangen-Nuremberg in the E-Mental Health group. There she is working on a project that aims to develop, evaluate and implement an online training for adolescents and young adults with PTSD. The project is the basis for her PhD project.
+Since then she has been working at the Professorship Psychology and Digital Mental Health Care at the Technical University Munich. There she is working on a project that aims to develop, evaluate and implement an online training for adolescents and young adults with PTSD. The project is the basis for her PhD project.
 
 </font>
 
