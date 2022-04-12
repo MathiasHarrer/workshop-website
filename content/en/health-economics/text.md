@@ -26,7 +26,7 @@ To answer these questions, we primarily apply economic analyses that are conduct
 
 Health economics provides opportunities for comparative assessment of diagnostic, preventive or therapeutic procedures in terms of their effectiveness and costs.
 
-The aim is to use existing resources in such a way that the supply is effectively improved, taking into account the costs occuring thereby. Thus, health care decisions can be made on an evidence-based basis and considerations of advantages and disadvantages of alternatives can be made.Here, the perspectives relevant stakeholders, patients, health insurance companies as well as the service providers can be taken into account. Overall, when interpreting the results of empirical studies, medical as well as economic and ethical aspects must be considered.
+The aim is to use existing resources in such a way that the supply is effectively improved, considering occurring thereby. Thus, health care decisions can be made on an evidence-based basis and considerations of advantages and disadvantages of alternatives are possible. Here, the perspectives of relevant stakeholders, patients, health insurance companies as well as the service providers can be taken into account. Overall, when interpreting the results of empirical studies, medical as well as economic and ethical aspects must be considered.
 
 
 

@@ -12,7 +12,7 @@ weight = 120
 
 At the PROTECT Lab, we develop and evaluate Behavioral Health Technology interventions, with a focus on Internet and mobile (App) -based health interventions. The short-term and long-term efficacy of all interventions is evaluated extensively in randomized controlled trials.
 
-In addition, we deal with indication issues, e.g. for which affected persons, under which conditions and on the basis of which theoretical mechanisms of action the interventions are effective, and how the usage of such interventions can be increase, in particular for previously underserved target groups.
+In addition, we deal with indication issues, e.g. for which affected persons, under which conditions and on the basis of which theoretical mechanisms of action the interventions are effective, and how the usage of such interventions can be increased, in particular for previously underserved target groups.
 
 Further research questions relate to the cost-effectiveness of such interventions.
 
@@ -20,7 +20,7 @@ Further research questions relate to the cost-effectiveness of such intervention
 
 ## Target Groups
 
-The bandwith of areas covered by interventions developed and evaluated by the PROTECT Lab in cooperation with national and international expertise includes:
+The bandwidth of areas covered by interventions developed and evaluated by the PROTECT Lab in cooperation with national and international expertise includes:
 
 * **Prevention of Depression**
 * **Stress Management**

@@ -31,7 +31,7 @@ Over the past decades, a large number of interventions for the treatment of ment
 
 &nbsp;
 
-## What is prevention ?
+## What is prevention?
 
 Most researchers define prevention as those interventions that are carried out before individuals meet the formal criteria of a mental disorder according to DSM-5. There are three types: universal, selective, and indicated prevention.
 

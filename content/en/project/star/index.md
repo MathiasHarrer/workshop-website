@@ -22,7 +22,7 @@ authors:
 
 **Development and Evaluation of an online- and mobile based Intervention for adolescents and young adults with PTSD.**
 
-PTSD is a mental disorder, which can occur after witnessing a traumatic event. The disorder can affect  emotional, physical, social as well as academic development. It's concequences can, especially for children, adolescents, and young adults, extend into adulthood. The elevated distress, the possible psychological implications, educational difficulties as well as possible long-term suffering within the disorder can result in a high burden on an individual as well as on a societal level.
+PTSD is a mental disorder, which can occur after witnessing a traumatic event. The disorder can affect  emotional, physical, social as well as academic development. It's consequences can, especially for children, adolescents, and young adults, extend into adulthood. The elevated distress, the possible psychological implications, educational difficulties as well as possible long-term suffering within the disorder can result in a high burden on an individual as well as on a societal level.
 
 Although there are effective treatments for PTSD in adolescents and young adults, not every person affected receives treatment offering due to structural as well as attitudinal barriers. Internet- and mobile-based interventions can help fill this health care gap. But they do not yet exist for adolescents and young adults so far.
 
