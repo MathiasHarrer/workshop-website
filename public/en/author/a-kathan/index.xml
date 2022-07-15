@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Kathan | Protect Lab</title>
+    <link>/en/author/a-kathan/</link>
+      <atom:link href="/en/author/a-kathan/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Kathan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>A Kathan</title>
+      <link>/en/author/a-kathan/</link>
+    </image>
+    
+    <item>
+      <title>Depression Diagnosis and Forecast based on Mobile Phone Sensor Data</title>
+      <link>/en/publication/depression-diagnosis-and-forecast-based-on-mobile-phone-sensor-data/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/depression-diagnosis-and-forecast-based-on-mobile-phone-sensor-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journaling Data for Daily PHQ-2 Depression Prediction and Forecasting</title>
+      <link>/en/publication/journaling-data-for-daily-phq-2-depression-prediction-and-forecasting/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/journaling-data-for-daily-phq-2-depression-prediction-and-forecasting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

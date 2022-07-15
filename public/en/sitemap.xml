@@ -94,7 +94,7 @@
                 />
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2022-03-27T17:08:24+02:00</lastmod>
+    <lastmod>2022-04-12T15:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -159,7 +159,7 @@
                 />
   </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2022-03-27T17:08:24+02:00</lastmod>
+    <lastmod>2022-04-12T15:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -172,7 +172,7 @@
                 />
   </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2022-03-27T17:08:24+02:00</lastmod>
+    <lastmod>2022-04-12T15:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -224,7 +224,7 @@
                 />
   </url><url>
     <loc>/en/tags/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <lastmod>2022-04-12T15:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -237,7 +237,7 @@
                 />
   </url><url>
     <loc>/en/tag/laufend/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <lastmod>2022-04-12T15:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -250,7 +250,7 @@
                 />
   </url><url>
     <loc>/en/project/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <lastmod>2022-04-12T15:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -299,6 +299,84 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/a-halaj/"
+                />
+  </url><url>
+    <loc>/en/author/a-kathan/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/a-kathan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/a-kathan/"
+                />
+  </url><url>
+    <loc>/en/author/a-rentsch/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/a-rentsch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/a-rentsch/"
+                />
+  </url><url>
+    <loc>/en/author/a-triantafyllopoulos/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/a-triantafyllopoulos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/a-triantafyllopoulos/"
+                />
+  </url><url>
+    <loc>/en/author/a-wenger/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/a-wenger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/a-wenger/"
+                />
+  </url><url>
+    <loc>/en/author/ai-mellentin/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/ai-mellentin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/ai-mellentin/"
+                />
+  </url><url>
+    <loc>/en/publication/akzeptanz-und-nutzung-von-e-mental-health-angeboten-unter-studierenden/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/akzeptanz-und-nutzung-von-e-mental-health-angeboten-unter-studierenden/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/akzeptanz-und-nutzung-von-e-mental-health-angeboten-unter-studierenden/"
                 />
   </url><url>
     <loc>/en/author/al-netter/</loc>
@@ -366,6 +444,32 @@
                 href="/en/author/ba-katz/"
                 />
   </url><url>
+    <loc>/en/author/c-baumgartner/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/c-baumgartner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/c-baumgartner/"
+                />
+  </url><url>
+    <loc>/en/author/c-bertin/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/c-bertin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/c-bertin/"
+                />
+  </url><url>
     <loc>/en/author/c-miguel/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -390,6 +494,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/c-mueller-weinitschke/"
+                />
+  </url><url>
+    <loc>/en/author/c-ruckes/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/c-ruckes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/c-ruckes/"
+                />
+  </url><url>
+    <loc>/en/author/c-salewski/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/c-salewski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/c-salewski/"
+                />
+  </url><url>
+    <loc>/en/publication/cannabis-use-in-adults-who-screen-positive-for-attention-deficit-hyperactivity-disorder-canreduce-2-0-randomized-controlled-trial-subgroup-analysis/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/cannabis-use-in-adults-who-screen-positive-for-attention-deficit-hyperactivity-disorder-canreduce-2-0-randomized-controlled-trial-subgroup-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/cannabis-use-in-adults-who-screen-positive-for-attention-deficit-hyperactivity-disorder-canreduce-2-0-randomized-controlled-trial-subgroup-analysis/"
                 />
   </url><url>
     <loc>/en/publication/childhood-adversities-and-mental-disorders-in-first-year-college-students-results-from-the-world-mental-health-international-college-student-initiative/</loc>
@@ -418,6 +561,19 @@
                 href="/en/author/d-lehr/"
                 />
   </url><url>
+    <loc>/en/author/d-malischnig/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/d-malischnig/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/d-malischnig/"
+                />
+  </url><url>
     <loc>/en/author/d-zalaznik/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -444,6 +600,32 @@
                 href="/en/publication/depressieve-stoornis-bij-belgische-eerstejaarsstudenten/"
                 />
   </url><url>
+    <loc>/en/publication/depression-bei-diabetes/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/depression-bei-diabetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/depression-bei-diabetes/"
+                />
+  </url><url>
+    <loc>/en/publication/depression-diagnosis-and-forecast-based-on-mobile-phone-sensor-data/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/depression-diagnosis-and-forecast-based-on-mobile-phone-sensor-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/depression-diagnosis-and-forecast-based-on-mobile-phone-sensor-data/"
+                />
+  </url><url>
     <loc>/en/author/e-bootsma/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -468,6 +650,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/e-driessen/"
+                />
+  </url><url>
+    <loc>/en/author/e-heber/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/e-heber/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/e-heber/"
                 />
   </url><url>
     <loc>/en/author/e-karyotaki/</loc>
@@ -509,6 +704,19 @@
                 href="/en/author/e-zlotnick/"
                 />
   </url><url>
+    <loc>/en/publication/effect-of-sleep-disturbance-symptoms-on-treatment-outcome-in-blended-cognitive-behavioral-therapy-for-depression-e-compared-study-secondary-analysis/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/effect-of-sleep-disturbance-symptoms-on-treatment-outcome-in-blended-cognitive-behavioral-therapy-for-depression-e-compared-study-secondary-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/effect-of-sleep-disturbance-symptoms-on-treatment-outcome-in-blended-cognitive-behavioral-therapy-for-depression-e-compared-study-secondary-analysis/"
+                />
+  </url><url>
     <loc>/en/publication/effectiveness-of-a-web-based-behavioural-activation-intervention-for-individuals-with-depression-based-on-the-health-action-process-approach-protocol-for-a-randomised-/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -546,6 +754,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/el-brakemeier/"
+                />
+  </url><url>
+    <loc>/en/author/es-jensen/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/es-jensen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/es-jensen/"
+                />
+  </url><url>
+    <loc>/en/publication/examining-differential-responses-to-the-take-care-of-me-trial-a-latent-class-and-moderation-analysis/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/examining-differential-responses-to-the-take-care-of-me-trial-a-latent-class-and-moderation-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/examining-differential-responses-to-the-take-care-of-me-trial-a-latent-class-and-moderation-analysis/"
                 />
   </url><url>
     <loc>/en/author/f-bolinski/</loc>
@@ -613,6 +847,19 @@
                 href="/en/author/h-baumeister/"
                 />
   </url><url>
+    <loc>/en/author/h-horvath/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/h-horvath/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/h-horvath/"
+                />
+  </url><url>
     <loc>/en/author/h-riper/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -665,6 +912,19 @@
                 href="/en/publication/internet-delivered-guided-cognitive-behavioral-self-help-for-panic-disorder-an-open-trial-and-benchmarking-study/"
                 />
   </url><url>
+    <loc>/en/publication/internet-and-mobile-based-intervention-for-depression-in-adults-with-chronic-back-pain-a-health-economic-evaluation/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/internet-and-mobile-based-intervention-for-depression-in-adults-with-chronic-back-pain-a-health-economic-evaluation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/internet-and-mobile-based-intervention-for-depression-in-adults-with-chronic-back-pain-a-health-economic-evaluation/"
+                />
+  </url><url>
     <loc>/en/publication/internet-based-cbt-for-somatic-symptom-distress-isoma-in-emerging-adults-a-randomized-controlled-trial-/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -676,6 +936,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/internet-based-cbt-for-somatic-symptom-distress-isoma-in-emerging-adults-a-randomized-controlled-trial-/"
+                />
+  </url><url>
+    <loc>/en/publication/is-therapist-support-needed-comparing-therapist-and-self-guided-internet-based-cbt-for-somatic-symptom-distress-isoma-in-emerging-adults/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/is-therapist-support-needed-comparing-therapist-and-self-guided-internet-based-cbt-for-somatic-symptom-distress-isoma-in-emerging-adults/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/is-therapist-support-needed-comparing-therapist-and-self-guided-internet-based-cbt-for-somatic-symptom-distress-isoma-in-emerging-adults/"
+                />
+  </url><url>
+    <loc>/en/author/j-ahlers/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/j-ahlers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/j-ahlers/"
                 />
   </url><url>
     <loc>/en/author/j-alonso/</loc>
@@ -691,6 +977,19 @@
                 href="/en/author/j-alonso/"
                 />
   </url><url>
+    <loc>/en/author/j-apolinario-hagen/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/j-apolinario-hagen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/j-apolinario-hagen/"
+                />
+  </url><url>
     <loc>/en/author/j-bantjes/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -702,6 +1001,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/j-bantjes/"
+                />
+  </url><url>
+    <loc>/en/author/j-lin/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/j-lin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/j-lin/"
+                />
+  </url><url>
+    <loc>/en/publication/journaling-data-for-daily-phq-2-depression-prediction-and-forecasting/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/journaling-data-for-daily-phq-2-depression-prediction-and-forecasting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/journaling-data-for-daily-phq-2-depression-prediction-and-forecasting/"
+                />
+  </url><url>
+    <loc>/en/author/jr-frohlich/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/jr-frohlich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/jr-frohlich/"
                 />
   </url><url>
     <loc>/en/author/k-bohme/</loc>
@@ -717,6 +1055,19 @@
                 href="/en/author/k-bohme/"
                 />
   </url><url>
+    <loc>/en/author/kk-rapinda/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/kk-rapinda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/kk-rapinda/"
+                />
+  </url><url>
     <loc>/en/author/l-bo%C3%9F/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -728,6 +1079,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/l-bo%C3%9F/"
+                />
+  </url><url>
+    <loc>/en/author/l-braun/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/l-braun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/l-braun/"
                 />
   </url><url>
     <loc>/en/author/l-de-koning/</loc>
@@ -756,6 +1120,19 @@
                 href="/en/author/l-krijnen/"
                 />
   </url><url>
+    <loc>/en/author/lb-sander/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/lb-sander/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/lb-sander/"
+                />
+  </url><url>
     <loc>/en/author/lm-de-wit/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -780,6 +1157,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/lv-kramer/"
+                />
+  </url><url>
+    <loc>/en/author/m-augsburger/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/m-augsburger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/m-augsburger/"
                 />
   </url><url>
     <loc>/en/author/m-berking/</loc>
@@ -821,6 +1211,19 @@
                 href="/en/author/m-kleinstauber/"
                 />
   </url><url>
+    <loc>/en/author/m-milling/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/m-milling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/m-milling/"
+                />
+  </url><url>
     <loc>/en/author/m-witthoft/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -847,6 +1250,45 @@
                 href="/en/author/mm-husky/"
                 />
   </url><url>
+    <loc>/en/author/mp-schaub/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/mp-schaub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/mp-schaub/"
+                />
+  </url><url>
+    <loc>/en/author/n-ladegaard/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/n-ladegaard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/n-ladegaard/"
+                />
+  </url><url>
+    <loc>/en/publication/nutzen-von-digitalen-akzeptanz-und-commitment-therapien/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/nutzen-von-digitalen-akzeptanz-und-commitment-therapien/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/nutzen-von-digitalen-akzeptanz-und-commitment-therapien/"
+                />
+  </url><url>
     <loc>/en/author/p-cuijpers/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -860,6 +1302,19 @@
                 href="/en/author/p-cuijpers/"
                 />
   </url><url>
+    <loc>/en/author/p-lemoine/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/p-lemoine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/p-lemoine/"
+                />
+  </url><url>
     <loc>/en/publication/protocol-effectiveness-of-a-web-based-behavioural-activation-intervention-for-individuals-with-depression-based-on-the-health-action-process-approach-protocol-for-a-/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -871,6 +1326,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/protocol-effectiveness-of-a-web-based-behavioural-activation-intervention-for-individuals-with-depression-based-on-the-health-action-process-approach-protocol-for-a-/"
+                />
+  </url><url>
+    <loc>/en/publication/public-interest-and-awareness-regarding-general-health-sleep-quality-and-mental-wellbeing-during-the-early-covid-19-pandemic-period-an-exploration-using-google-trends/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/public-interest-and-awareness-regarding-general-health-sleep-quality-and-mental-wellbeing-during-the-early-covid-19-pandemic-period-an-exploration-using-google-trends/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/public-interest-and-awareness-regarding-general-health-sleep-quality-and-mental-wellbeing-during-the-early-covid-19-pandemic-period-an-exploration-using-google-trends/"
+                />
+  </url><url>
+    <loc>/en/author/r-araya/</loc>
+    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/r-araya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/r-araya/"
                 />
   </url><url>
     <loc>/en/author/r-zhao/</loc>
@@ -964,6 +1445,19 @@
                 href="/en/author/s-lee/"
                 />
   </url><url>
+    <loc>/en/author/s-paganini/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/s-paganini/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/s-paganini/"
+                />
+  </url><url>
     <loc>/en/author/s-quero/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -988,6 +1482,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/somatosensory-amplification-moderates-the-efficacy-of-internet-delivered-cbt-for-somatic-symptom-distress-in-emerging-adults-exploratory-analysis-of-a-randomized-controlled-trial/"
+                />
+  </url><url>
+    <loc>/en/author/st-rajamani/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/st-rajamani/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/st-rajamani/"
                 />
   </url><url>
     <loc>/en/author/t-kircher/</loc>
@@ -1016,6 +1523,19 @@
                 href="/en/author/t-rapley/"
                 />
   </url><url>
+    <loc>/en/author/t-yan/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/t-yan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/t-yan/"
+                />
+  </url><url>
     <loc>/en/author/t-zeiss/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -1027,6 +1547,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/t-zeiss/"
+                />
+  </url><url>
+    <loc>/en/publication/telephone-coaching-for-the-prevention-of-depression-in-depression-in-farmers-results-from-a-pragmatic-from-a-pragmatic-randomized-controlled-trial/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/telephone-coaching-for-the-prevention-of-depression-in-depression-in-farmers-results-from-a-pragmatic-from-a-pragmatic-randomized-controlled-trial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/telephone-coaching-for-the-prevention-of-depression-in-depression-in-farmers-results-from-a-pragmatic-from-a-pragmatic-randomized-controlled-trial/"
                 />
   </url><url>
     <loc>/en/publication/the-contribution-of-individual-participant-data-meta-analyses-of-psychotherapies-for-depression-to-the-development-of-personalized-treatments-a-systematic-review/</loc>
@@ -1042,6 +1575,19 @@
                 href="/en/publication/the-contribution-of-individual-participant-data-meta-analyses-of-psychotherapies-for-depression-to-the-development-of-personalized-treatments-a-systematic-review/"
                 />
   </url><url>
+    <loc>/en/author/x-he/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/x-he/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/x-he/"
+                />
+  </url><url>
     <loc>/en/author/y-amanvermez/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -1055,8 +1601,34 @@
                 href="/en/author/y-amanvermez/"
                 />
   </url><url>
+    <loc>/en/author/y-koga/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/y-koga/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/y-koga/"
+                />
+  </url><url>
+    <loc>/en/author/y-terhorst/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/y-terhorst/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/y-terhorst/"
+                />
+  </url><url>
     <loc>/en/project/star/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
+    <lastmod>2022-04-12T15:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -1159,19 +1731,6 @@
                 href="/en/publication/a-three-armed-randomised-controlled-trial-investigating-the-comparative-impact-of-guidance-on-the-efficacy-of-a-web-based-stress-management-intervention-and-health-impairing-/"
                 />
   </url><url>
-    <loc>/en/author/a-wenger/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/a-wenger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/a-wenger/"
-                />
-  </url><url>
     <loc>/en/publication/acceptance-towards-digital-health-interventions-model-validation-and-further-development-of-the-unified-theory-of-acceptance-and-use-of-technology/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -1222,19 +1781,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/adressen/"
-                />
-  </url><url>
-    <loc>/en/author/ai-mellentin/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/ai-mellentin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/ai-mellentin/"
                 />
   </url><url>
     <loc>/en/author/am-kuechler/</loc>
@@ -1341,19 +1887,6 @@
                 href="/en/author/b-strau%C3%9F/"
                 />
   </url><url>
-    <loc>/en/author/c-baumgartner/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/c-baumgartner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/c-baumgartner/"
-                />
-  </url><url>
     <loc>/en/author/c-benjet/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -1404,19 +1937,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/c-kroger/"
-                />
-  </url><url>
-    <loc>/en/author/c-salewski/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/c-salewski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/c-salewski/"
                 />
   </url><url>
     <loc>/en/publication/canreduce-2-0-adherence-focused-guidance-for-internet-self-help-among-cannabis-users-three-arm-randomized-controlled-trial/</loc>
@@ -1497,19 +2017,6 @@
                 href="/en/author/cr-van-genugten/"
                 />
   </url><url>
-    <loc>/en/author/d-malischnig/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/d-malischnig/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/d-malischnig/"
-                />
-  </url><url>
     <loc>/en/author/d-mei%C3%9Fner/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -1573,19 +2080,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/e-breet/"
-                />
-  </url><url>
-    <loc>/en/author/e-heber/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/e-heber/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/e-heber/"
                 />
   </url><url>
     <loc>/en/author/e-kaal/</loc>
@@ -1744,19 +2238,6 @@
                 href="/en/author/eg-ostinelli/"
                 />
   </url><url>
-    <loc>/en/author/es-jensen/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/es-jensen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/es-jensen/"
-                />
-  </url><url>
     <loc>/en/publication/evaluating-a-hybrid-web-based-training-program-for-panic-disorder-and-agoraphobia-randomized-controlled-trial/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -1887,19 +2368,6 @@
                 href="/en/author/h-hori/"
                 />
   </url><url>
-    <loc>/en/author/h-horvath/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/h-horvath/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/h-horvath/"
-                />
-  </url><url>
     <loc>/en/publication/how-can-we-estimate-qalys-based-on-phq-9-scores-equipercentile-linking-analysis-of-phq-9-and-eq-5d/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -1952,6 +2420,19 @@
                 href="/en/publication/increasing-the-clinical-interpretability-of-phq-9-through-equipercentile-linking-with-health-utility-values-by-eq-5d-3l/"
                 />
   </url><url>
+    <loc>/en/publication/individual-case-coaching-through-telephone-as-a-prevention-offer-for-farmers-foresters-and-horticulturists-results-of-a-randomized-controlled-efficacy-trial-tec-a-/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/individual-case-coaching-through-telephone-as-a-prevention-offer-for-farmers-foresters-and-horticulturists-results-of-a-randomized-controlled-efficacy-trial-tec-a-/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/individual-case-coaching-through-telephone-as-a-prevention-offer-for-farmers-foresters-and-horticulturists-results-of-a-randomized-controlled-efficacy-trial-tec-a-/"
+                />
+  </url><url>
     <loc>/en/publication/internet-based-cbt-for-somatic-symptom-distress-isoma-in-emerging-adults-results-of-a-randomized-controlled-trial/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -1976,19 +2457,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/internet-based-cognitive-behavioral-therapy-for-depression-a-systematic-review-and-individual-patient-data-network-meta-analysis/"
-                />
-  </url><url>
-    <loc>/en/author/j-apolinario-hagen/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/j-apolinario-hagen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/j-apolinario-hagen/"
                 />
   </url><url>
     <loc>/en/author/j-bengel/</loc>
@@ -2056,19 +2524,6 @@
                 href="/en/author/jjm-dekker/"
                 />
   </url><url>
-    <loc>/en/author/jr-frohlich/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/jr-frohlich/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/jr-frohlich/"
-                />
-  </url><url>
     <loc>/en/author/k-boehme/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -2108,19 +2563,6 @@
                 href="/en/author/k-spiegelhalder/"
                 />
   </url><url>
-    <loc>/en/author/kk-rapinda/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/kk-rapinda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/kk-rapinda/"
-                />
-  </url><url>
     <loc>/en/author/l-auszra/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -2132,19 +2574,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/l-auszra/"
-                />
-  </url><url>
-    <loc>/en/author/l-braun/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/l-braun/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/l-braun/"
                 />
   </url><url>
     <loc>/en/author/l-de-wit/</loc>
@@ -2223,19 +2652,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/lm-koomen/"
-                />
-  </url><url>
-    <loc>/en/author/m-augsburger/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/m-augsburger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/m-augsburger/"
                 />
   </url><url>
     <loc>/en/author/m-backenstrass/</loc>
@@ -2485,19 +2901,6 @@
                 href="/en/publication/more-light-opportunities-and-pitfalls-in-digitalized-psychotherapy-process-research/"
                 />
   </url><url>
-    <loc>/en/author/mp-schaub/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/mp-schaub/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/mp-schaub/"
-                />
-  </url><url>
     <loc>/en/author/n-batelaan/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
     <xhtml:link
@@ -2548,19 +2951,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/n-dragano/"
-                />
-  </url><url>
-    <loc>/en/author/n-ladegaard/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/n-ladegaard/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/n-ladegaard/"
                 />
   </url><url>
     <loc>/en/author/na-sampson/</loc>
@@ -2795,19 +3185,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/psychological-treatment-of-depression-in-institutional-settings-a-meta-analytic-review/"
-                />
-  </url><url>
-    <loc>/en/author/r-araya/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/r-araya/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/r-araya/"
                 />
   </url><url>
     <loc>/en/author/r-bachem/</loc>
@@ -3239,6 +3616,19 @@
                 href="/en/author/v-kollner/"
                 />
   </url><url>
+    <loc>/en/publication/von-ebscohost-com-sfx-anxious-attachment-improves-and-is-predicted-by-anxiety-sensitivity-in-internet-based-guided-self-help-cognitive-behavioral-treatment-for-panic-disorder-/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/von-ebscohost-com-sfx-anxious-attachment-improves-and-is-predicted-by-anxiety-sensitivity-in-internet-based-guided-self-help-cognitive-behavioral-treatment-for-panic-disorder-/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/von-ebscohost-com-sfx-anxious-attachment-improves-and-is-predicted-by-anxiety-sensitivity-in-internet-based-guided-self-help-cognitive-behavioral-treatment-for-panic-disorder-/"
+                />
+  </url><url>
     <loc>/en/author/w-rief/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -3263,19 +3653,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/y-albor/"
-                />
-  </url><url>
-    <loc>/en/author/y-terhorst/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/y-terhorst/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/y-terhorst/"
                 />
   </url><url>
     <loc>/en/publication/-take-care-of-you-efficacy-of-integrated-minimal-guidance-internet-based-self-help-for-reducing-co-occurring-alcohol-misuse-and-depression-symptoms-in-adults-results-of-a-/</loc>
@@ -3954,6 +4331,19 @@
                 href="/en/publication/implementing-internet-and-tele-based-interventions-to-prevent-mental-health-disorders-in-farmers-foresters-and-gardeners-implementit-study-protocol-for-the-multi-level-/"
                 />
   </url><url>
+    <loc>/en/publication/insomnie-et-ses-symptomes-revue-systematique-derivee-d-une-analyse-globale-de-recherche-en-ligne/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/insomnie-et-ses-symptomes-revue-systematique-derivee-d-une-analyse-globale-de-recherche-en-ligne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/insomnie-et-ses-symptomes-revue-systematique-derivee-d-une-analyse-globale-de-recherche-en-ligne/"
+                />
+  </url><url>
     <loc>/en/publication/internet-based-cognitive-behavioral-therapy-for-depression-an-individual-patient-data-network-meta-analysis/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -4017,19 +4407,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/j-breedvelt/"
-                />
-  </url><url>
-    <loc>/en/author/j-lin/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/j-lin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/j-lin/"
                 />
   </url><url>
     <loc>/en/author/j-ruwaard/</loc>
@@ -4264,19 +4641,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/l-thorpe/"
-                />
-  </url><url>
-    <loc>/en/author/lb-sander/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/lb-sander/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/lb-sander/"
                 />
   </url><url>
     <loc>/en/author/m-fleuren/</loc>
@@ -4656,19 +5020,6 @@
                 href="/en/author/s-fischer/"
                 />
   </url><url>
-    <loc>/en/author/s-paganini/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/s-paganini/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/s-paganini/"
-                />
-  </url><url>
     <loc>/en/author/s-schroder/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -4943,7 +5294,7 @@
                 />
   </url><url>
     <loc>/en/project/dried-blood-spots/</loc>
-    <lastmod>2021-10-01T09:49:29+02:00</lastmod>
+    <lastmod>2022-04-12T15:32:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -5213,6 +5564,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/best-practices-and-recommendations-for-digital-interventions-to-improve-engagement-and-adherence-in-chronic-illness-sufferers/"
+                />
+  </url><url>
+    <loc>/en/publication/best-practices-and-recommendations-for-digital-interventions-to-improve-engagement-and-adherence-in-chronic-illness-sufferers-/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/best-practices-and-recommendations-for-digital-interventions-to-improve-engagement-and-adherence-in-chronic-illness-sufferers-/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/best-practices-and-recommendations-for-digital-interventions-to-improve-engagement-and-adherence-in-chronic-illness-sufferers-/"
                 />
   </url><url>
     <loc>/en/publication/blended-psychotherapy-treatment-concept-and-case-report-for-the-integration-of-internet-and-mobile-based-interventions-into-brief-psychotherapy-of-depressive-disorders/</loc>
@@ -7620,6 +7984,19 @@
                 href="/en/publication/internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health/"
                 />
   </url><url>
+    <loc>/en/publication/internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health-a-report-of-the-efpa-e-health-taskforce-/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health-a-report-of-the-efpa-e-health-taskforce-/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health-a-report-of-the-efpa-e-health-taskforce-/"
+                />
+  </url><url>
     <loc>/en/publication/internet-based-interventions-in-chronic-somatic-disease/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -8450,6 +8827,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/effectiveness-and-cost-effectiveness-of-a-guided-internet-and-mobile-based-intervention-for-the-indicated-prevention-of-major-depression-in-patients-with-chronic-back-pain-/"
+                />
+  </url><url>
+    <loc>/en/publication/effectiveness-of-a-web-based-intervention-in-treating-subthreshold-depression-and-in-preventing-major-depression/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/effectiveness-of-a-web-based-intervention-in-treating-subthreshold-depression-and-in-preventing-major-depression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/effectiveness-of-a-web-based-intervention-in-treating-subthreshold-depression-and-in-preventing-major-depression/"
                 />
   </url><url>
     <loc>/en/publication/emotion-regulation-protects-against-recurrence-of-depressive-symptoms-following-inpatient-care-for-major-depressive-disorder/</loc>
@@ -11026,6 +11416,19 @@
                 href="/en/publication/successful-application-of-adaptive-emotion-regulation-skills-predicts-the-subsequent-reduction-of-depressive-symptom-severity-but-neither-the-reduction-of-anxiety-nor-the-/"
                 />
   </url><url>
+    <loc>/en/publication/vu-research-portal/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/vu-research-portal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/vu-research-portal/"
+                />
+  </url><url>
     <loc>/en/author/zd-matesich/</loc>
     <lastmod>2021-10-01T09:49:29+02:00</lastmod>
     <xhtml:link
@@ -12868,6 +13271,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/theresa-sextl-msc/"
+                />
+  </url><url>
+    <loc>/en/thesis-supervision/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/thesis-supervision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/thesis-supervision/"
                 />
   </url><url>
     <loc>/en/data-warehouse/codebook/</loc>

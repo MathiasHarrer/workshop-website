@@ -27,12 +27,18 @@
   url = "en/job/"
   parent = "lab"
   weight = 22
+  
+[[main]]
+  name = "Thesis Supervision"
+  url = "en/thesis-supervision/"
+  parent = "lab"
+  weight = 23
 
 [[main]]
   name = "Contact"
   url = "#contact"
   parent = "lab"
-  weight = 23
+  weight = 24
 
 [[main]]
   name = "Research"

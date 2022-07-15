@@ -41,9 +41,9 @@ user_groups:
 # Information
 
 <font size="3">
-<p>Christina Schulte ist MSc Psychologin und promoviert derzeit an der Technischen Universität München. Sie studierte von 2015 bis 2018 Psychologie (BSc) an der Friedrich-Schiller-Universität Jena und durchlief den Masterstudiengang Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie an der Technischen Universität Dresden (MSc). Diesen schloss sie im Juni 2020 mit ihrer Masterarbeit zum Einfluss dissoziativer Phänomene auf die psychische Belastung von Patient:innen mit Posttraumatischer Belastungsstörung (PTBS) ab.</p>
+Christina Schulte ist MSc Psychologin und promoviert derzeit an der Technischen Universität München. Sie studierte von 2015 bis 2018 Psychologie (BSc) an der Friedrich-Schiller-Universität Jena und durchlief den Masterstudiengang Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie an der Technischen Universität Dresden (MSc). Diesen schloss sie im Juni 2020 mit ihrer Masterarbeit zum Einfluss dissoziativer Phänomene auf die psychische Belastung von Patient:innen mit Posttraumatischer Belastungsstörung (PTBS) ab.
 
-<p>Aktuell ist Christina Schulte wissenschaftliche Mitarbeiterin und Doktorandin an der Professur Psychology & Digital Mental Health Care der TUM. Sie arbeitet in einem Projekt, das die Entwicklung, Evaluation und Implementation eines Online-Trainings für Jugendliche und junge Erwachsene mit PTBS zum Ziel hat. Das Projekt stellt die Grundlage für ihr Promotionsvorhaben.</p>
+Aktuell ist Christina Schulte wissenschaftliche Mitarbeiterin und Doktorandin an der Professur Psychology & Digital Mental Health Care der TUM. Sie arbeitet in einem Projekt, das die Entwicklung, Evaluation und Implementation eines Online-Trainings für Jugendliche und junge Erwachsene mit PTBS zum Ziel hat. Das Projekt stellt die Grundlage für ihr Promotionsvorhaben.
 </font>
 
 

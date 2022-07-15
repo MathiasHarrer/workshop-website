@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Bertin | Protect Lab</title>
+    <link>/en/author/c-bertin/</link>
+      <atom:link href="/en/author/c-bertin/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Bertin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>C Bertin</title>
+      <link>/en/author/c-bertin/</link>
+    </image>
+    
+    <item>
+      <title>Public interest and awareness regarding general health  sleep quality and mental wellbeing during the early COVID-19 pandemic period- An exploration using Google trends</title>
+      <link>/en/publication/public-interest-and-awareness-regarding-general-health-sleep-quality-and-mental-wellbeing-during-the-early-covid-19-pandemic-period-an-exploration-using-google-trends/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/public-interest-and-awareness-regarding-general-health-sleep-quality-and-mental-wellbeing-during-the-early-covid-19-pandemic-period-an-exploration-using-google-trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insomnie et ses symptômes- revue systématique dérivée d’une analyse globale de recherche en ligne</title>
+      <link>/en/publication/insomnie-et-ses-symptomes-revue-systematique-derivee-d-une-analyse-globale-de-recherche-en-ligne/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/insomnie-et-ses-symptomes-revue-systematique-derivee-d-une-analyse-globale-de-recherche-en-ligne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -29,10 +29,16 @@
   weight = 22
 
 [[main]]
+  name = "Abschlussarbeiten"
+  url = "thesis-supervision/"
+  parent = "lab"
+  weight = 23
+
+[[main]]
   name = "Kontakt"
   url = "#contact"
   parent = "lab"
-  weight = 23
+  weight = 24
 
 [[main]]
   name = "Forschung"
