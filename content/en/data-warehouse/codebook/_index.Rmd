@@ -3,34 +3,11 @@ title: "Trial Data Warehouse"
 subtitle: "Codebook"
 ---
 
-[&#8599; Trial Warehouse Introduction](/en/data-warehouse) | [&#8599; Coding Guide](/en/data-warehouse/coding-guide)
+[&#8599; Trial Warehouse Introduction](/data-warehouse) | [&#8599; Coding Guide](/data-warehouse/coding-guide)
 
-```{r, echo=F, message=F}
-library(DT)
-library(protectr)
-db = suppressMessages(get.db())
-df = data.frame(Shorthand = db$Outcomes$Shorthand,
-                Questionnaire = db$Outcomes$Questionnaire,
-                Levels = db$Outcomes$FactorLevels)
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrSoG457xk70Qrhm?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-DT::datatable(df,
-              extensions = 'Buttons',
-              options = list(scrollX=TRUE, scrollCollapse=TRUE, dom = 'ftBp',
-                             buttons = c("excel", "csv"),
-                             initComplete = JS("function(settings, json) {$(this.api().table().header()).css({'font-family' : 'sans-serif'});}"))) %>% 
-  formatStyle(1:3, fontFamily = "sans-serif") -> dt
 
-```
-
-```{r, message=FALSE, warning=FALSE, include=FALSE}
-library(htmlwidgets)
-library(htmltools)
-
-htmlwidgets::saveWidget(dt, file = "dt.html", selfcontained = TRUE)
-
-```
-
-<iframe seamless src="../codebook/dt.html" width="110%" height="800" frameBorder="0"></iframe>
 
 
 
