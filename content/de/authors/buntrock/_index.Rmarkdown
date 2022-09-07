@@ -1,6 +1,6 @@
 ---
 authors:
-- Dr. Claudia Buntrock
+- Prof. Dr. Claudia Buntrock
 bio:
 education:
   courses:
@@ -13,18 +13,18 @@ education:
   - course: BSc European Public Health
     institution: Universität Maastricht
     year: 2009
-email: "claudia.buntrock@fau.de"
+email: "claudia.buntrock@med.ovgu.de"
 interests:
 - Prävention von Depression
 - Gesundheitsökonomische Analysen
 organizations:
-- name: Friedrich-Alexander-Universität Erlangen-Nürnberg
-  url: ""
-role: Postdoktorale Mitarbeiterin
+- name: Otto-von-Guericke Universität Magdeburg
+  url: "http://www.ismg.ovgu.de/Unser+Institut.html"
+role: Junior-Professorin für Public Health
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:claudia.buntrock@fau.de
+  link: mailto:claudia.buntrock@med.ovgu.de
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-i6EN7kAAAAJ&hl=de&oi=ao
@@ -35,7 +35,7 @@ social:
   icon_pack: fas
   link: /author/dr.-claudia-buntrock/buntrock.pdf
 superuser: false
-title: Dr. Claudia Buntrock
+title: Prof. Dr. Claudia Buntrock
 weight: 2
 aliases:
 - /buntrock
@@ -53,7 +53,7 @@ Neben der gesundheitsökonomischen Evaluation von Interventionsansätzen liegen 
 
 Dr. Buntrock hat ihre Forschungsarbeiten in hochrangigen Journals wie JAMA (impact factor: 47.7) und Psychotherapy & Psychosomatics (impact factor: 13.2) veröffentlicht und ihre Arbeit auf internationalen Fachtagungen vorgestellt (ISRII Berlin, ESRII Dublin, GCDP Bergen).
 
-Die Deutsche Gesellschaft für Sozialmedizin und Prävention (DGSMP) hat Frau Dr. Buntrock 2018 mit ihrem mit 1,000€ dotierten Dissertationspreis ausgezeichnet. Die Fachgruppe für Klinische Psychologie und Psychotherapie der Deutschen Gesellschaft für Psychologie (DGPs) hat 2017 Dr. Buntrock mit ihrem renommierten Förderpreis für den wissenschaftlichen Nachwuchs ausgezeichnet. Dr. Buntrock ist zudem Associate Editor des Journals Trials und ist derzeit als Post-Doc-Forscherin des Proctect Lab und wissenschaftliche Mitarbeiterin an der FAU Erlangen-Nürnberg tätig.
+Die Deutsche Gesellschaft für Sozialmedizin und Prävention (DGSMP) hat Frau Dr. Buntrock 2018 mit ihrem mit 1,000€ dotierten Dissertationspreis ausgezeichnet. Die Fachgruppe für Klinische Psychologie und Psychotherapie der Deutschen Gesellschaft für Psychologie (DGPs) hat 2017 Dr. Buntrock mit ihrem renommierten Förderpreis für den wissenschaftlichen Nachwuchs ausgezeichnet. Dr. Buntrock ist zudem Associate Editor des Journals Trials.
 
 
 </font>

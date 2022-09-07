@@ -1,6 +1,6 @@
 ---
 authors:
-- Dr. Claudia Buntrock
+- Prof. Dr. Claudia Buntrock
 bio:
 education:
   courses:
@@ -13,18 +13,18 @@ education:
   - course: BSc European Public Health
     institution: University of Maastricht
     year: 2009
-email: "claudia.buntrock@fau.de"
+email: "claudia.buntrock@med.ovgu.de"
 interests:
 - Prevention of Depression
 - Health Economic Analyses
 organizations:
-- name: Friedrich-Alexander-University Erlangen-Nuremberg
-  url: ""
-role: Postdoctoral Researcher
+- name: University of Magdeburg
+  url: "http://www.ismg.ovgu.de/en/Institute.html"
+role: Assistant Professor of Public Health
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:claudia.buntrock@fau.de
+  link: mailto:claudia.buntrock@med.ovgu.de
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-i6EN7kAAAAJ&hl=de&oi=ao
@@ -35,7 +35,7 @@ social:
   icon_pack: fas
   link: en/authors/dr.-claudia-buntrock/buntrock.pdf
 superuser: false
-title: Dr. Claudia Buntrock
+title: Prof. Dr. Claudia Buntrock
 weight: 2
 aliases:
 - /buntrock-en
@@ -53,7 +53,7 @@ Apart from health economic intervention evaluation, Dr. Buntrock's research focu
 
 Dr. Buntrock's scientific work has been published in some of the highest-ranking journals of her field, e.g. *JAMA* (impact factor 47.7), or *Psychotherapy & Psychosomatics* (impact factor 13.2). Dr. Buntrock has presented her work at several international Conferences (ISRII Berlin, ESRII Dublin, GCDP Bergen).
 
-The German Society for Social Medicine and Prevention (DGSMP) awarded its dissertation prize to Dr. Buntrock in 2018 (prize money: 1.000€). The German Psychological Society's (DGPS) Clinical Psychology and Psychotherapy Group awarded its young researcher award to Dr. Buntrock in 2017. Dr. Buntrock is Associate Editor of the peer-review journal Trials, and currently functions as Post-Doc at the ProtectLab of the Friedrich-Alexander-University Erlangen-Nuremberg.
+The German Society for Social Medicine and Prevention (DGSMP) awarded its dissertation prize to Dr. Buntrock in 2018 (prize money: 1.000€). The German Psychological Society's (DGPS) Clinical Psychology and Psychotherapy Group awarded its young researcher award to Dr. Buntrock in 2017. Dr. Buntrock is Associate Editor of the peer-review journal Trials.
 
 
 </font>
