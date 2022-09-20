@@ -41,6 +41,80 @@
     </item>
     
     <item>
+      <title>From Meta-Analysis to Meta-Analytic Research Domains</title>
+      <link>/en/post/metapsy/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/en/post/metapsy/</guid>
+      <description>&lt;p&gt;Recent decades have seen an &lt;strong&gt;unprecedented increase in the amount of research articles&lt;/strong&gt; published each year. Evidence in the form of scientific publications has been increasing almost exponentially, with petabytes of research findings produced on a daily basis. In biomedicine alone, more than one million peer-reviewed articles are published each year.&lt;/p&gt;
+&lt;p&gt;In a recent &lt;strong&gt;viewpoint&lt;/strong&gt; published in &lt;a href=&#34;https://ebmh.bmj.com/content/early/2022/07/19/ebmental-2022-300509&#34; target=&#34;_blank&#34;&gt;BMJ Evidence-based Mental Health↗&lt;/a&gt;, Cuijpers and colleagues argue that meta-analysis, a common statistical method to synthesize the results of multiple studies, requires an upgrade to keep pace with the breakneck speed of scientific production in the 21st century. They propose the concept of a meta-analytic research domain (MARDs).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MARDs are living databases of an entire research domain, which are curated in a way that allows for fast, comprehensive and high-quality evidence synthesis. In contrast to conventional systematic reviews and meta-analyses, MARDs do not focus on one specific population, intervention, comparison, or outcome (PICO), but on an entire research field that is too broad to be covered by one meta-analysis.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;While MARDs are resource-intensive and take time to implement, they come with &lt;strong&gt;considerable advantages&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Reduction of research waste&lt;/strong&gt;. In the biomedical field, a great amount of redundant, misleading, and biased research is produced on a regular basis (&lt;a href=&#34;https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736%2813%2962329-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MacLeod et al., 2014&lt;/a&gt;). This is also the case in psychotherapy research (&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0005796719301652&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cristea &amp;amp; Naudet, 2019&lt;/a&gt;). By centralizing all available evidence, unnecessary work can be avoided. Transparent and consistent standards can lead to more trustworthy findings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Evidence Mapping&lt;/strong&gt;. MARDs provide an overview of limitations and gaps in knowledge and make it possible to see emerging trends in the field.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Meta-Research (“Research on Research”)&lt;/strong&gt;. MARDs allow examining the methods and research practices of an entire field, and how they changed over time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Stakeholders outside the scientific community&lt;/strong&gt;. MARDs can enable just-in-time evidence generation for specific research questions. This can be used by e.g. treatment guideline developers or clinicians, to get an overview of the current evidence.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Open Science&lt;/strong&gt;. MARDs provide data in a transparent, accessible, and interoperable way. This allows other members of the scientific community to re-use or repurpose the provided information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Metapsy&#34; srcset=&#34;
+               /en/post/metapsy/mard_hu3c609ce197a6e1feae329423c8afd9b0_565537_ce8600e767ba46c5e7764f6c5f1c3e5e.png 400w,
+               /en/post/metapsy/mard_hu3c609ce197a6e1feae329423c8afd9b0_565537_b7a178bc3af8809cf9ae03125d697cf4.png 760w,
+               /en/post/metapsy/mard_hu3c609ce197a6e1feae329423c8afd9b0_565537_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/en/post/metapsy/mard_hu3c609ce197a6e1feae329423c8afd9b0_565537_ce8600e767ba46c5e7764f6c5f1c3e5e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Core features of a meta-analytic research domain (MARD).&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;metapsy-a-centralized-hub-of-mards-on-psychological-interventions-for-mental-disorders&#34;&gt;Metapsy: A Centralized Hub of MARDs on Psychological Interventions for Mental Disorders&lt;/h2&gt;
+&lt;br&gt;
+&lt;p&gt;One example of a research project developing MARDs is &lt;a href=&#34;https://www.metapsy.org&#34;&gt;Metapsy↗&lt;/a&gt;. The goal of this project is to provide access to meta-analytic databases of clinical trials investigating the effect of psychological interventions (e.g. psychotherapy, preventive interventions, psychoeducation) on various mental disorders or mental health problems.&lt;/p&gt;
+&lt;p&gt;Metapsy creates a &lt;strong&gt;unified framework&lt;/strong&gt; for all available meta-analytic data across different indications and settings. All databases are (1) created by university-based research teams using state-of-the-art methodology; (2) updated regularly, at least once each year; (3) formatted using an identical and transparent coding scheme; (4) receive extensive documentation and metadata, including versioning and persistent data identifiers (DOIs), following the &lt;a href=&#34;https://www.go-fair.org/fair-principles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAIR principles&lt;/a&gt;; and (5) are made publicly available via data repositories.&lt;/p&gt;
+&lt;p&gt;Researchers can also easily access the databases using the designated R package &lt;a href=&#34;https://data.metapsy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;metapsyData&lt;/a&gt;, and data can be analyzed using state-of-the-art meta-analytic methods; either using the &lt;a href=&#34;https://data.metapsy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;metapsyTools&lt;/a&gt; R package or using an Online Meta-Analysis Tool.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More information can be found on the &lt;a href=&#34;https://www.metapsy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metapsy website↗&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Cristea, I. A.&lt;/strong&gt; &amp;amp; Naudet, F. (2019). Increase value and reduce waste in research on psychological therapies. &lt;em&gt;Behaviour Research and Therapy, 123&lt;/em&gt;, 103479.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cuijpers, P.&lt;/strong&gt;, Miguel, C., Papola, D., Harrer, M., and Karyotaki, E. (2022) From living systematic reviews to meta-analytical research domains. &lt;em&gt;Evidence-Based Mental Health&lt;/em&gt; doi: 10.1136/ebmental-2022-300509.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MacLeod, M. R.&lt;/strong&gt;, Michie, S., Roberts, I., Dirnagl, U., Chalmers, I., Ioannidis, J. P., &amp;hellip; &amp;amp; Glasziou, P. (2014). Biomedical research: increasing value, reducing waste. &lt;em&gt;The Lancet&lt;/em&gt;, 383(9912), 101-104.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Effect of an internet-and app-based stress intervention compared to online psychoeducation in university students with depressive symptoms- Results of a randomized controlled trial</title>
       <link>/en/publication/effect-of-an-internet-and-app-based-stress-intervention-compared-to-online-psychoeducation-in-university-students-with-depressive-symptoms-results-of-a-randomized-controlled-trial/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>

@@ -94,7 +94,7 @@
                 />
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2022-09-07T11:57:25+02:00</lastmod>
+    <lastmod>2022-09-07T12:30:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -159,7 +159,7 @@
                 />
   </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2022-09-07T11:57:25+02:00</lastmod>
+    <lastmod>2022-09-07T12:30:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -172,7 +172,7 @@
                 />
   </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2022-09-07T11:57:25+02:00</lastmod>
+    <lastmod>2022-09-07T12:30:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -1625,6 +1625,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/y-terhorst/"
+                />
+  </url><url>
+    <loc>/en/post/metapsy/</loc>
+    <lastmod>2022-09-07T12:30:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/post/metapsy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/metapsy/"
                 />
   </url><url>
     <loc>/en/project/star/</loc>

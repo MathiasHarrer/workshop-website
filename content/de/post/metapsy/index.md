@@ -14,10 +14,10 @@ title: 'Von Meta-Analysen zu "Meta-Analytic Research Domains"'
 subtitle: 'Das Metapsy-Projekt'
 ---
 
-**In den letzten Dekaden wurde ein noch nie dagewesener Anstieg jährlich veröffentlichter Forschungsartikel verzeichnet. Evidenz in Form von wissenschaftlichen Veröffentlichungen wächst nahezu exponentiell, wobei täglich Petabytes an Forschungsergebnissen produziert werden. Allein in der Biomedizin werden jedes Jahr mehr als eine Million peer-review Artikel veröffentlicht.**
+**In den letzten Dekaden wurde ein noch nie dagewesener Anstieg in der Anzahl jährlich veröffentlichter Forschungsartikel verzeichnet. Evidenz in Form von wissenschaftlichen Veröffentlichungen wächst nahezu exponentiell an, wobei täglich Petabytes an Forschungsergebnissen produziert werden. Allein in der Biomedizin werden jedes Jahr mehr als eine Million peer-review Artikel veröffentlicht.**
 
 
-In einem jüngst erschienenen **Viewpoint** in <a href="https://ebmh.bmj.com/content/early/2022/07/19/ebmental-2022-300509" target="_blank">BMJ Evidence-based Mental Health↗</a> argumentieren Cuijpers, Miguel, Papola, Harrer und Karyotaki dass die Meta-Analyse, ein weit verbreitetes statistisches Verfahren zur Synthese der Ergebnisse vieler Studien, ein "Upgrade" benötigt, um mit der halsbrecherischen Geschwindigkeit wissenschaftlicher Produktion Schritt zu halten. Sie schlagen das Konzept der "Meta-Analytic Research Domain" (MARD) vor.
+In einem jüngst erschienenen **Viewpoint** in <a href="https://ebmh.bmj.com/content/early/2022/07/19/ebmental-2022-300509" target="_blank">BMJ Evidence-based Mental Health↗</a> argumentieren Cuijpers, Miguel, Papola, Harrer und Karyotaki dass die Meta-Analyse, ein weit verbreitetes statistisches Verfahren zur Synthese der Ergebnisse vieler Studien, ein "Upgrade" benötigt, um mit der Geschwindigkeit wissenschaftlicher Produktion Schritt zu halten. Sie schlagen das Konzept der "Meta-Analytic Research Domain" (MARD) vor.
 
 
 > MARDs sind lebendige Datenbanken für einen gesamten Forschungsbereich. MARDs sind so kuratiert, dass eine schnelle, umfassende und hochwertige Evidenzsynthese ermöglicht wird. Im Gegensatz zu herkömmlichen systematischen Übersichtsarbeiten und Meta-Analysen konzentrieren sich MARDs nicht auf eine bestimmte Population, Intervention, einen Komparator oder Outcome (PICO), sondern auf ein ganzes Forschungsgebiet, das zu breit ist, um von einer einzigen Meta-Analyse abgedeckt zu werden.
