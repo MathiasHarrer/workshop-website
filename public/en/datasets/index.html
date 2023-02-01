@@ -309,7 +309,7 @@
     <meta property="twitter:image" content="/media/logo.svg" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-08-04T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2023-02-01T00:00:00&#43;00:00" />
     
   
 
@@ -700,6 +700,92 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/en/datasets/rct-tutorial/" >RCT Tutorial Dataset</a>
+    </div>
+
+    
+    <a href="/en/datasets/rct-tutorial/"  class="summary-link">
+      <div class="article-style">
+        body, td { font-size: 18px; } code.r{ font-size: 16px; } pre { font-size: 16px }  ↓ Download Data
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    1. Januar 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/en/datasets/suicide-prevention/" >Suicide Prevention Dataset</a>
     </div>
 
@@ -788,7 +874,7 @@
 
   
   <p class="powered-by">
-    © Protect Lab 2022
+    © Protect Lab 2023
   </p>
   
 
@@ -952,8 +1038,19 @@
       people[i].style.paddingBottom = "25px";
       people[i].style.paddingTop = "25px";
     }
-    var navIcons = documents.getElementsByClassName('nav-icons');
-    console.log(navIcons);
+    if (window.innerWidth >= 991) {
+      var navIcons = document.getElementsByClassName('nav-icons');
+      var li = document.createElement("li");
+      li.classList.add('nav-item');
+      var innerLink = document.createElement('a');
+      innerLink.href = "https://www.tum.de/en/";
+      innerLink.target = "_blank";
+      innerLink.style = "color: white !important;";
+      innerLink.setAttribute('id', 'gh-logo');
+      innerLink.innerHTML = '<img src="/media/tum.png" style="height: 20px !important;">';
+      li.appendChild(innerLink);
+      navIcons[0].appendChild(li); 
+    }
 </script>
 
 

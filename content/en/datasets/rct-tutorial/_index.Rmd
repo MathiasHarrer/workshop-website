@@ -1,0 +1,27 @@
+---
+title: "RCT Tutorial Dataset"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    css: "style.css"
+---
+
+<style type="text/css">
+body, td {
+   font-size: 18px;
+}
+code.r{
+  font-size: 16px;
+}
+pre {
+  font-size: 16px
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[&darr; Download Data](https://protectlab.org/en/datasets/rct-tutorial/rct-tutorial.zip) 
+
+![](waves.jpg)

@@ -880,7 +880,7 @@ Alle Details sind der Stellenausschreibung zu entnehmen.
 
   
   <p class="powered-by">
-    © Protect Lab 2022
+    © Protect Lab 2023
   </p>
   
 
@@ -1044,8 +1044,19 @@ Alle Details sind der Stellenausschreibung zu entnehmen.
       people[i].style.paddingBottom = "25px";
       people[i].style.paddingTop = "25px";
     }
-    var navIcons = documents.getElementsByClassName('nav-icons');
-    console.log(navIcons);
+    if (window.innerWidth >= 991) {
+      var navIcons = document.getElementsByClassName('nav-icons');
+      var li = document.createElement("li");
+      li.classList.add('nav-item');
+      var innerLink = document.createElement('a');
+      innerLink.href = "https://www.tum.de/en/";
+      innerLink.target = "_blank";
+      innerLink.style = "color: white !important;";
+      innerLink.setAttribute('id', 'gh-logo');
+      innerLink.innerHTML = '<img src="/media/tum.png" style="height: 20px !important;">';
+      li.appendChild(innerLink);
+      navIcons[0].appendChild(li); 
+    }
 </script>
 
 

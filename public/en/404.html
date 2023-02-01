@@ -642,6 +642,10 @@
   <h2>Latest</h2>
   <ul>
     
+      <li><a href="/en/datasets/rct-tutorial/">RCT Tutorial Dataset</a></li>
+    
+      <li><a href="/en/datasets/">Datasets</a></li>
+    
       <li><a href="/en/vignettes/">Vignettes</a></li>
     
       <li><a href="/en/data-warehouse/">Trial Data Warehouse</a></li>
@@ -650,8 +654,6 @@
     
       <li><a href="/en/vignettes/reshape-gemtc/">Reshaping Network Meta-Analysis Datasets: netmeta to gemtc</a></li>
     
-      <li><a href="/en/datasets/">Datasets</a></li>
-    
       <li><a href="/en/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/">Doing Meta-Analysis with R: Motivation, Concept and Features of an Open-Source Guide for Beginners</a></li>
     
       <li><a href="/en/authors/">Authors</a></li>
@@ -659,8 +661,6 @@
       <li><a href="/en/project/psychonlinetherapie/">PSYCHOnlineTHERAPIE</a></li>
     
       <li><a href="/en/project/">Projects</a></li>
-    
-      <li><a href="/en/publication/the-contribution-of-individual-participant-data-meta-analyses-of-psychotherapies-for-depression-to-the-development-of-personalized-treatments-a-systematic-review/">The Contribution of “Individual Participant Data” Meta-Analyses of Psychotherapies for Depression to the Development of Personalized Treatments- A Systematic Review</a></li>
     
   </ul>
   
@@ -684,7 +684,7 @@
 
   
   <p class="powered-by">
-    © Protect Lab 2022
+    © Protect Lab 2023
   </p>
   
 
@@ -848,8 +848,19 @@
       people[i].style.paddingBottom = "25px";
       people[i].style.paddingTop = "25px";
     }
-    var navIcons = documents.getElementsByClassName('nav-icons');
-    console.log(navIcons);
+    if (window.innerWidth >= 991) {
+      var navIcons = document.getElementsByClassName('nav-icons');
+      var li = document.createElement("li");
+      li.classList.add('nav-item');
+      var innerLink = document.createElement('a');
+      innerLink.href = "https://www.tum.de/en/";
+      innerLink.target = "_blank";
+      innerLink.style = "color: white !important;";
+      innerLink.setAttribute('id', 'gh-logo');
+      innerLink.innerHTML = '<img src="/media/tum.png" style="height: 20px !important;">';
+      li.appendChild(innerLink);
+      navIcons[0].appendChild(li); 
+    }
 </script>
 
 

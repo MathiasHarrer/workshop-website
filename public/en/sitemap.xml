@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>/en/datasets/</loc>
-    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -94,7 +94,7 @@
                 />
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2022-09-07T12:30:12+02:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -105,6 +105,9 @@
                 hreflang="en"
                 href="/en/"
                 />
+  </url><url>
+    <loc>/en/datasets/rct-tutorial/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/vignettes/reshape-gemtc/</loc>
     <lastmod>2022-08-04T11:08:57+02:00</lastmod>
