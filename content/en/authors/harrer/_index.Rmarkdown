@@ -2,28 +2,20 @@
 authors:
 - Mathias Harrer
 bio:
-education:
-  courses:
-  - course: MSc Psychology
-    institution: Friedrich-Alexander-University Erlangen-Nuremberg
-    year: 2019
-  - course: BSc Psychology
-    institution: Friedrich-Alexander-University Erlangen-Nuremberg
-    year: 2017
-email: "mathias.harrer@fau.de"
+email: "mathias.harrer@tum.de"
 interests:
-- Machine Learning & Predictive Modeling
-- Sensor-based modeling of psychopathology
-- Statistical methods for research synthesis and meta-analysis
-- Internet-based stress management in college students
+- Machine Learning & Predictive Modeling in Psychotherapy Research
+- Sensor-based Modeling of Psychopathology
+- Statistical Tools for Research Synthesis and Meta-analysis
+- Stress Management Interventions
 organizations:
-- name: Friedrich-Alexander-University Erlangen-Nuremberg & HelloBetter
+- name: Technical University of Munich
   url: ""
-role: Research Associate
+role: Psychology & Digital Mental Health Care
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:mathias.harrer@fau.de
+  link: mailto:mathias.harrer@tum.de
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=BgSmYnUAAAAJ&hl=de&oi=ao
@@ -36,12 +28,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MathiasHarrer/
-- icon: r-project
-  icon_pack: fab
-  link: https://dmetar.protectlab.org/
-- icon: file-pdf
-  icon_pack: fas
-  link: /en/author/mathias-harrer-msc/harrer.pdf
 superuser: false
 title: Mathias Harrer, MSc
 aliases:
@@ -54,52 +40,14 @@ user_groups:
 
 <font size="3">
 
-Mathias Harrer is research associate and doctoral student at the Friedrich-Alexander-University of Erlangen-Nuremberg.
-He also works in the Research & AI department of [HelloBetter](https://www.hellobetter.de). Since 2020, Mathias Harrer is Fellow of the
+Mathias Harrer is a researcher at the Technical University of Munich. Since 2020, he is a fellow of the
 [Bavarian Research Institute for Digital Transformation](https://www.bidt.digital/) (BIDT).
 
-The research of Mathias Harrer focuses on the use of biostatistical and technological methods (machine learning, predictive modeling, sensing)
-in the development of intelligent Internet-based intervention systems for the prevention and treatment of mental illness.
+Mathias Harrer's research concentrates on utilizing biostatistical and technological methods (machine learning, predictive modeling, and personalized sensing) to develop intelligent Internet-based intervention systems aimed at preventing and treating mental illnesses.
 
-Another research area of Mathias Harrer are statistical methods for research synthesis and meta-analysis of clinical studies,
-and the development of statistical software.
+Another research area are statistical methods for research synthesis and meta-analysis of clinical trials, and the development of statistical software. He is the developer and maintainer of the R packages [dmetar](https://dmetar.protectlab.org), [metapsyData](https://data.metapsy.org), and [metapsyTools](https://tools.metapsy.org), and author of the book ["Doing Meta-Analysis with R: A Hands-On Guide"](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/).
 
 </font>
 
 
-### Research Metrics
 
-```{r, echo=F, message=FALSE, warning=FALSE, fig.height=2}
-id = "BgSmYnUAAAAJ"
-
-{library(scholar)
-library(ggplot2)
-library(cowplot)
-
-cit.hist = get_citation_history(id)
-cit.stats = data.frame(number = c(get_profile(id)$h_index,
-                                  get_profile(id)$i10_index,
-                                  scholar::get_num_articles(id)),
-                       metric = c("h-Index", "i10-Index", "Publications"))
-
-ggplot(cit.hist, aes(x = as.factor(year), y = cites)) +
-  geom_bar(stat = "identity", fill = "#cdde99") +
-  geom_text(aes(label = cites), vjust = -0.2) +
-  ylim(0, max(cit.hist$cites) + 30) +
-  ylab("Citations") +
-  xlab("") +
-  theme_minimal() -> plot1
-
-ggplot(cit.stats, aes(x = metric, y = number)) +
-  geom_bar(stat = "identity", fill = "#2a7792") +
-  geom_text(aes(label = number, fill = "white"), hjust = -0.2) +
-  ylab("") +
-  xlab("") +
-  ylim(0, max(cit.stats$number) + 5) +
-  theme_minimal() +
-  coord_flip() -> plot2
-
-ggdraw() +
-  draw_plot(plot1, width = 0.5) +
-  draw_plot(plot2, 0.5, 0, width = 0.5)}
-```

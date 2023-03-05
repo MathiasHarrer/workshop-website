@@ -161,7 +161,7 @@
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-09-20T14:39:09+02:00</lastmod>
+    <lastmod>2023-03-04T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -175,6 +175,84 @@
   </url><url>
     <loc>/talk/</loc>
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-03-04T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-03-04T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+  </url><url>
+    <loc>/talk/controlling-for-publication-bias-challenges-future-directions/</loc>
+    <lastmod>2023-03-04T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/controlling-for-publication-bias-challenges-future-directions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/talk/controlling-for-publication-bias-challenges-future-directions/"
+                />
+  </url><url>
+    <loc>/tag/meta-analysis/</loc>
+    <lastmod>2023-03-04T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/meta-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tag/meta-analysis/"
+                />
+  </url><url>
+    <loc>/tag/r/</loc>
+    <lastmod>2023-03-04T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tag/r/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-03-04T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/"
+                />
   </url><url>
     <loc>/datasets/</loc>
     <lastmod>2022-08-04T11:08:57+02:00</lastmod>
@@ -247,32 +325,6 @@
                 href="/vignettes/"
                 />
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-09-20T14:39:09+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/authors/"
-                />
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-09-20T14:39:09+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/authors/"
-                />
-  </url><url>
     <loc>/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/</loc>
     <lastmod>2022-02-22T15:36:38+01:00</lastmod>
     <xhtml:link
@@ -284,45 +336,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/"
-                />
-  </url><url>
-    <loc>/tag/meta-analysis/</loc>
-    <lastmod>2022-02-22T15:36:38+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/meta-analysis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tag/meta-analysis/"
-                />
-  </url><url>
-    <loc>/tag/r/</loc>
-    <lastmod>2022-02-22T15:36:38+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tag/r/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-03-18T19:56:18+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/"
                 />
   </url><url>
     <loc>/tag/laufend/</loc>
@@ -13401,7 +13414,7 @@
                 />
   </url><url>
     <loc>/data-warehouse/codebook/</loc>
-    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
+    <lastmod>2023-02-07T17:45:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
