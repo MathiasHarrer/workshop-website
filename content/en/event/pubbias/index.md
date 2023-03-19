@@ -62,6 +62,8 @@ b {
 
 <b>Mathur, M. B.</b> (2022, June 1). <i>Sensitivity analysis for $p$-hacking in meta-analyses.</i> https://doi.org/10.31219/osf.io/ezjsx
 
+<b>Mathur, M. B.</b> (2022, August 22). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses.  https://doi.org/10.31219/osf.io/ezjsx
+
 Maier, M., VanderWeele, T.J., <b>Mathur, M.B.</b> (2022). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <i>Campbell Systematic Reviews.</i>  https://doi.org/10.1002/cl2.1256
 
 <b>Mathur, M. B.</b>, & VanderWeele, T. J. (2020). Sensitivity analysis for publication bias in meta-analyses. <i>Journal of the Royal Statistical Society. Series C, Applied Statistics, 69</i>(5), 1091. https://doi.org/10.1111/rssc.12440

@@ -62,6 +62,8 @@ b {
 
 <b>Mathur, M. B.</b> (2022, June 1). <i>Sensitivity analysis for $p$-hacking in meta-analyses.</i> https://doi.org/10.31219/osf.io/ezjsx
 
+<b>Mathur, M. B.</b> (2022, August 22). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses.  https://doi.org/10.31219/osf.io/ezjsx
+
 Maier, M., VanderWeele, T.J., <b>Mathur, M.B.</b> (2022). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. <i>Campbell Systematic Reviews.</i>  https://doi.org/10.1002/cl2.1256
 
 <b>Mathur, M. B.</b>, & VanderWeele, T. J. (2020). Sensitivity analysis for publication bias in meta-analyses. <i>Journal of the Royal Statistical Society. Series C, Applied Statistics, 69</i>(5), 1091. https://doi.org/10.1111/rssc.12440
@@ -90,6 +92,8 @@ Maier, M., VanderWeele, T.J., <b>Mathur, M.B.</b> (2022). Using selection models
 
 Braginsky M, <b>Mathur M</b> (2023). phacking: Sensitivity Analysis for p-Hacking in Meta-Analyses. R package version 0.1.0, https://CRAN.R-project.org/package=phacking.
 
+Braginsky M, <b>Mathur M</b> (2023). multibiasmeta: Sensitivity Analysis for Multiple Biases in Meta-Analyses. R package version 0.1.0, https://CRAN.R-project.org/package=multibiasmeta.
+
 Braginsky M, <b>Mathur M</b>, VanderWeele T (2023). PublicationBias: Sensitivity Analysis for Publication Bias in Meta-Analyses. R package version 2.3.0, https://CRAN.R-project.org/package=PublicationBias.
 
 <b>Bartoš F</b>, Maier M (2020). “RoBMA: An R Package for Robust Bayesian Meta-Analyses.” R package version 2.3.1, https://CRAN.R-project.org/package=RoBMA.
@@ -99,5 +103,3 @@ Braginsky M, <b>Mathur M</b>, VanderWeele T (2023). PublicationBias: Sensitivity
 <b>Viechtbauer W</b> (2023). selmodel: Selection Models. https://wviechtb.github.io/metafor/reference/selmodel.html
 
 <br>
-
-
