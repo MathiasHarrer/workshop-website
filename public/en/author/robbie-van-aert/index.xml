@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robbie van Aert | Protect Lab</title>
+    <link>/en/author/robbie-van-aert/</link>
+      <atom:link href="/en/author/robbie-van-aert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robbie van Aert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Protect Lab 2023</copyright><lastBuildDate>Mon, 20 Mar 2023 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo.svg</url>
+      <title>Robbie van Aert</title>
+      <link>/en/author/robbie-van-aert/</link>
+    </image>
+    
+    <item>
+      <title>Controlling for Publication Bias: Challenges &amp; Future Directions</title>
+      <link>/en/talk/controlling-for-publication-bias-challenges-future-directions/</link>
+      <pubDate>Mon, 20 Mar 2023 13:00:00 +0000</pubDate>
+      <guid>/en/talk/controlling-for-publication-bias-challenges-future-directions/</guid>
+      <description>&lt;style&gt;
+b {
+  font-family: Roboto;
+  font-weight: bold;
+}
+&lt;/style&gt;
+&lt;h3&gt;Interview with &lt;a href=&#34;https://www.mayamathur.com/&#34; target=&#34;_blank&#34;&gt;Maya Mathur&lt;/a&gt; (Stanford University)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;style&gt;
+.collapsible {
+  background-color: #f7f7f7;
+  color: #2a7792;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+  color: white;
+}
+
+.collapsible:after {
+  content: &#39;\002B&#39;;
+  color: #2a7792;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: &#34;\2212&#34;;
+  color: white;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+
+.content &gt; p {
+  padding-top: 1rem;
+}
+.column {
+  float: left;
+  width: 50%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 16px; 
+  line-height: 1.25 !important;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: &#34;&#34;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;button class=&#34;collapsible&#34;&gt;Show Pre-Recordings&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+ &lt;p&gt;
+ &lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;b&gt; How is publication bias typically conceptualized? Do some methods differ in how they assume publication bias manifests itself?&lt;/b&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;209px&#34; style=&#39;margin-top: 15px;&#39; src=&#34;https://www.youtube.com/embed/pZlpaGFBf1k&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;b&gt;What methods to adjust for publication bias are there in R? Which approaches can you recommend to (novice and/or experienced) meta-analysts?&lt;/b&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;209px&#34; style=&#39;margin-top: 15px;&#39; src=&#34;https://www.youtube.com/embed/RqqxFHs2hto&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;b&gt; Which of these methods typically performs best, or might be best suited for which specific context?&lt;/b&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;209px&#34; style=&#39;margin-top: 15px;&#39; src=&#34;https://www.youtube.com/embed/cMCpengaj7E&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;b&gt;What limitations do you see with current approaches? Are there open research questions?&lt;/b&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;209px&#34; style=&#39;margin-top: 15px;&#39; src=&#34;https://www.youtube.com/embed/WB88T8qPtI0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;b&gt;How bad do you believe publication bias to be? Do you believe that we have phenomena in science where effect sizes are “simply” inflated?&lt;/b&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;209px&#34; style=&#39;margin-top: 15px;&#39; src=&#34;https://www.youtube.com/embed/gi5VCpNGW6U&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+&lt;script&gt;
+var coll = document.getElementsByClassName(&#34;collapsible&#34;);
+var i;
+
+for (i = 0; i &lt; coll.length; i++) {
+  coll[i].addEventListener(&#34;click&#34;, function() {
+    this.classList.toggle(&#34;active&#34;);
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + &#34;px&#34;;
+    } 
+  });
+}
+&lt;/script&gt;
+&lt;br&gt;
+&lt;h3&gt;Further Reading&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;b&gt;Mathur, M. B.&lt;/b&gt; (2022, June 1). &lt;i&gt;Sensitivity analysis for $p$-hacking in meta-analyses.&lt;/i&gt; &lt;a href=&#34;https://doi.org/10.31219/osf.io/ezjsx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31219/osf.io/ezjsx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Mathur, M. B.&lt;/b&gt; (2022, August 22). Sensitivity analysis for the interactive effects of internal bias and publication bias in meta-analyses.  &lt;a href=&#34;https://doi.org/10.31219/osf.io/ezjsx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31219/osf.io/ezjsx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Maier, M., VanderWeele, T.J., &lt;b&gt;Mathur, M.B.&lt;/b&gt; (2022). Using selection models to assess sensitivity to publication bias: A tutorial and call for more routine use. &lt;i&gt;Campbell Systematic Reviews.&lt;/i&gt;  &lt;a href=&#34;https://doi.org/10.1002/cl2.1256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/cl2.1256&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Mathur, M. B.&lt;/b&gt;, &amp;amp; VanderWeele, T. J. (2020). Sensitivity analysis for publication bias in meta-analyses. &lt;i&gt;Journal of the Royal Statistical Society. Series C, Applied Statistics, 69&lt;/i&gt;(5), 1091. &lt;a href=&#34;https://doi.org/10.1111/rssc.12440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/rssc.12440&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bartoš, F.&lt;/b&gt;, Maier, M., Wagenmakers, E. J., Doucouliagos, H., &amp;amp; Stanley, T. D. (2021). Robust Bayesian meta-analysis: Model-averaging across complementary publication bias adjustment methods. &lt;i&gt;Research Synthesis Methods&lt;/i&gt;. &lt;a href=&#34;https://doi.org/10.1002/jrsm.1594&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/jrsm.1594&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bartoš, F.&lt;/b&gt;, &amp;amp; Schimmack, U. (2022). $Z$-curve 2.0: Estimating replication rates and discovery rates. &lt;i&gt;Meta-Psychology, 6&lt;/i&gt;. &lt;a href=&#34;https://doi.org/10.15626/MP.2021.2720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.15626/MP.2021.2720&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bartoš, F.&lt;/b&gt;, Gronau, Q. F., Timmers, B., Otte, W. M., Ly, A., &amp;amp; Wagenmakers, E. J. (2021). Bayesian model-averaged meta-analysis in medicine. &lt;i&gt;Statistics in Medicine&lt;/i&gt;. &lt;a href=&#34;https://doi.org/10.1002/sim.9170&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/sim.9170&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bartoš, F.&lt;/b&gt;, Maier, M., Wagenmakers, E.-J., Nippold, F., Doucouliagos, H., Ioannidis, J. P. A., Otte, W. M., Sladekova, M., Fanelli, D., &amp;amp; Stanley, T. D. (2022). &lt;i&gt;Footprint of publication selection bias on meta-analyses in medicine, economics, and psychology&lt;/i&gt;. &lt;a href=&#34;https://doi.org/10.48550/arXiv.2208.12334&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.48550/arXiv.2208.12334&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Page, M.J.&lt;/b&gt;, Sterne, J.A.C., Boutron, I., Hróbjartsson, A., &amp;hellip;, Higgins, J.P.T. (2020). &lt;i&gt;Risk Of Bias due to Missing Evidence (ROB-ME): a new tool for assessing risk of non-reporting biases in evidence syntheses&lt;/i&gt; (Version 24 October 2020) &lt;a href=&#34;https://sites.google.com/site/riskofbiastool//welcome/rob-me-tool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/site/riskofbiastool//welcome/rob-me-tool&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Page, M.J.&lt;/b&gt;, Sterne, J.A.C., Higgins, J.P.T., Egger, M. (2021). Investigating and dealing with publication bias and other reporting biases in meta-analyses of health research: a review. &lt;i&gt;Research Synthesis Methods&lt;/i&gt;, 12(2):248-259. &lt;a href=&#34;https://doi.org/10.1002/jrsm.1468&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/jrsm.1468&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;van Aert, R. C. M.&lt;/b&gt; &amp;amp; van Assen, M. A. L. M. (2022). &lt;i&gt;Correcting for publication bias in a meta-analysis with the $p$-uniform* method&lt;/i&gt;. &lt;a href=&#34;https://doi.org/10.31222/osf.io/zqjr9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31222/osf.io/zqjr9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;van Aert, R. C. M.&lt;/b&gt;, Wicherts, J. M., &amp;amp; van Assen, M. A. L. M. (2016). Conducting meta-analyses on $p$-values: Reservations and recommendations for applying $p$-uniform and $p$-curve. &lt;/i&gt;Perspectives on Psychological Science, 11&lt;/i&gt;(5), 713-729. &lt;a href=&#34;https://doi.org/10.1177/1745691616650874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1177/1745691616650874&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h3&gt;Selected Functions &amp; Packages in R&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Braginsky M, &lt;b&gt;Mathur M&lt;/b&gt; (2023). phacking: Sensitivity Analysis for p-Hacking in Meta-Analyses. R package version 0.1.0, &lt;a href=&#34;https://CRAN.R-project.org/package=phacking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://CRAN.R-project.org/package=phacking&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Braginsky M, &lt;b&gt;Mathur M&lt;/b&gt; (2023). multibiasmeta: Sensitivity Analysis for Multiple Biases in Meta-Analyses. R package version 0.1.0, &lt;a href=&#34;https://CRAN.R-project.org/package=multibiasmeta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://CRAN.R-project.org/package=multibiasmeta&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Braginsky M, &lt;b&gt;Mathur M&lt;/b&gt;, VanderWeele T (2023). PublicationBias: Sensitivity Analysis for Publication Bias in Meta-Analyses. R package version 2.3.0, &lt;a href=&#34;https://CRAN.R-project.org/package=PublicationBias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://CRAN.R-project.org/package=PublicationBias&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bartoš F&lt;/b&gt;, Maier M (2020). “RoBMA: An R Package for Robust Bayesian Meta-Analyses.” R package version 2.3.1, &lt;a href=&#34;https://CRAN.R-project.org/package=RoBMA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://CRAN.R-project.org/package=RoBMA&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;van Aert RC&lt;/b&gt; (2022). puniform: Meta-Analysis Methods Correcting for Publication Bias. R package version 0.2.5, &lt;a href=&#34;https://CRAN.R-project.org/package=puniform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://CRAN.R-project.org/package=puniform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Viechtbauer W&lt;/b&gt; (2023). selmodel: Selection Models. &lt;a href=&#34;https://wviechtb.github.io/metafor/reference/selmodel.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wviechtb.github.io/metafor/reference/selmodel.html&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;script&gt;
+var container = document.getElementsByClassName(&#39;article-container&#39;);
+container[0].style.maxWidth = &#39;860px&#39;;
+container[2].style.maxWidth = &#39;860px&#39;;
+// container[3].style.maxWidth = &#39;860px&#39;;
+var dateCol = document.querySelector(&#34;#top &gt; div.page-body &gt; div &gt; div:nth-child(3) &gt; div:nth-child(3) &gt; div.col-md-10 &gt; div &gt; div.col-12.col-md-3.pub-row-heading&#34;);
+dateCol.style.display = &#39;none&#39;;
+var dateContent = document.querySelector(&#34;#top &gt; div.page-body &gt; div &gt; div:nth-child(3) &gt; div:nth-child(3) &gt; div.col-md-10 &gt; div &gt; div.col-12.col-md-9&#34;);
+dateContent.style.display = &#39;none&#39;;
+var abstractTitle = document.querySelector(&#34;#top &gt; div.page-body &gt; div &gt; div:nth-child(3) &gt; h3&#34;);
+abstractTitle.innerHTML = &#39;Summary&#39;;
+var eventTitle = document.querySelector(&#34;#top &gt; div.page-body &gt; div &gt; div:nth-child(3) &gt; div:nth-child(5) &gt; div.col-md-10 &gt; div &gt; div.col-12.col-md-3.pub-row-heading&#34;);
+eventTitle.innerHTML = &#39;Event&#39;;
+&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

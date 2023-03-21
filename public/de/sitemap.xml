@@ -161,7 +161,7 @@
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-03-19T18:30:18+01:00</lastmod>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -177,7 +177,7 @@
     <lastmod>2022-03-18T19:56:18+01:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-03-19T18:30:18+01:00</lastmod>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -190,7 +190,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-03-19T18:30:18+01:00</lastmod>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -202,8 +202,21 @@
                 href="/authors/"
                 />
   </url><url>
+    <loc>/author/c.-yves-plessen/</loc>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/c.-yves-plessen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/c.-yves-plessen/"
+                />
+  </url><url>
     <loc>/talk/controlling-for-publication-bias-challenges-future-directions/</loc>
-    <lastmod>2023-03-19T18:30:18+01:00</lastmod>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -215,8 +228,47 @@
                 href="/talk/controlling-for-publication-bias-challenges-future-directions/"
                 />
   </url><url>
+    <loc>/author/frantisek-bartos/</loc>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/frantisek-bartos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/frantisek-bartos/"
+                />
+  </url><url>
+    <loc>/author/matthew-page/</loc>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/matthew-page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/matthew-page/"
+                />
+  </url><url>
+    <loc>/author/maya-mathur/</loc>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/maya-mathur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/maya-mathur/"
+                />
+  </url><url>
     <loc>/tag/meta-analysis/</loc>
-    <lastmod>2023-03-19T18:30:18+01:00</lastmod>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -229,7 +281,7 @@
                 />
   </url><url>
     <loc>/tag/r/</loc>
-    <lastmod>2023-03-19T18:30:18+01:00</lastmod>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -241,8 +293,21 @@
                 href="/tag/r/"
                 />
   </url><url>
+    <loc>/author/robbie-van-aert/</loc>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/robbie-van-aert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/robbie-van-aert/"
+                />
+  </url><url>
     <loc>/tags/</loc>
-    <lastmod>2023-03-19T18:30:18+01:00</lastmod>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -252,6 +317,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="/tags/"
+                />
+  </url><url>
+    <loc>/author/wolfgang-viechtbauer/</loc>
+    <lastmod>2023-03-21T22:25:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/wolfgang-viechtbauer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/wolfgang-viechtbauer/"
                 />
   </url><url>
     <loc>/datasets/</loc>
