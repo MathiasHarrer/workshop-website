@@ -13,12 +13,9 @@ organizations:
   url: ""
 role: Psychology & Digital Mental Health Care
 social:
-- icon: web
+- icon: info-circle
   icon_pack: fas
-  link: https://mharrer.dev
-- icon: envelope
-  icon_pack: fas
-  link: mailto:mathias.harrer@tum.de
+  link: https://www.mharrer.dev
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=BgSmYnUAAAAJ&hl=de&oi=ao

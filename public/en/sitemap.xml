@@ -80,6 +80,87 @@
                 href="/en/author/prof.-dr.-johannes-a.c.-laferton/"
                 />
   </url><url>
+    <loc>/en/datasets/</loc>
+    <lastmod>2023-02-01T11:40:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/datasets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/datasets/"
+                />
+  </url><url>
+    <loc>/en/</loc>
+    <lastmod>2023-03-26T23:12:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url><url>
+    <loc>/en/datasets/rct-tutorial/</loc>
+    <lastmod>2023-02-01T11:40:36+01:00</lastmod>
+  </url><url>
+    <loc>/en/vignettes/reshape-gemtc/</loc>
+    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/vignettes/reshape-gemtc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/vignettes/reshape-gemtc/"
+                />
+  </url><url>
+    <loc>/en/datasets/suicide-prevention/</loc>
+    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/datasets/suicide-prevention/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/datasets/suicide-prevention/"
+                />
+  </url><url>
+    <loc>/en/data-warehouse/</loc>
+    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/data-warehouse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/data-warehouse/"
+                />
+  </url><url>
+    <loc>/en/vignettes/</loc>
+    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/vignettes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/vignettes/"
+                />
+  </url><url>
     <loc>/en/authors/</loc>
     <lastmod>2023-03-26T23:12:01+02:00</lastmod>
     <xhtml:link
@@ -184,19 +265,6 @@
                 href="/en/tag/meta-analysis/"
                 />
   </url><url>
-    <loc>/en/</loc>
-    <lastmod>2023-03-26T23:12:01+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url><url>
     <loc>/en/tag/r/</loc>
     <lastmod>2023-03-26T23:12:01+02:00</lastmod>
     <xhtml:link
@@ -247,74 +315,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/wolfgang-viechtbauer/"
-                />
-  </url><url>
-    <loc>/en/datasets/</loc>
-    <lastmod>2023-02-01T11:40:36+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/datasets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/datasets/"
-                />
-  </url><url>
-    <loc>/en/datasets/rct-tutorial/</loc>
-    <lastmod>2023-02-01T11:40:36+01:00</lastmod>
-  </url><url>
-    <loc>/en/vignettes/reshape-gemtc/</loc>
-    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/vignettes/reshape-gemtc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/vignettes/reshape-gemtc/"
-                />
-  </url><url>
-    <loc>/en/datasets/suicide-prevention/</loc>
-    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/datasets/suicide-prevention/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/datasets/suicide-prevention/"
-                />
-  </url><url>
-    <loc>/en/data-warehouse/</loc>
-    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/data-warehouse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/data-warehouse/"
-                />
-  </url><url>
-    <loc>/en/vignettes/</loc>
-    <lastmod>2022-08-04T11:08:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/vignettes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/vignettes/"
                 />
   </url><url>
     <loc>/en/talk/doing-meta-analysis-with-r-motivation-concept-and-features-of-an-open-source-guide-for-beginners/</loc>

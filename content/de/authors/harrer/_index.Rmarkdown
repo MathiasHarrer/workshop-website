@@ -21,9 +21,9 @@ organizations:
   url: ""
 role: Wissenschaftlicher Mitarbeiter
 social:
-- icon: envelope
+- icon: info-circle
   icon_pack: fas
-  link: mailto:mathias.harrer@fau.de
+  link: https://www.mharrer.dev
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=BgSmYnUAAAAJ&hl=de&oi=ao
