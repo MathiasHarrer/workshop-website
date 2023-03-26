@@ -25,6 +25,7 @@ featured: false
 
 aliases:
 - /talk-esmarconf23-en
+- /esmarconf23
 
 links:
 - icon: globe
