@@ -8066,7 +8066,7 @@ a.summary-link {
   background: white; }
 
 .dark .modal-content {
-  background: #23252f; }
+  background: #282a36; }
 
 .modal-title {
   margin: 0;
@@ -8701,7 +8701,7 @@ html[dir='rtl'] body {
   z-index: -99; }
 
 .dark .search-modal {
-  background-color: #23252f; }
+  background-color: #282a36; }
 
 .search-modal > .container {
   padding-top: 70px;
@@ -8723,7 +8723,7 @@ html[dir='rtl'] body {
     .search-header {
       padding-top: 0; } }
 .dark .search-header {
-  background-color: #23252f; }
+  background-color: #282a36; }
 
 .search-header h1 {
   margin: 0;
@@ -8754,7 +8754,7 @@ html[dir='rtl'] body {
   overflow-x: hidden; }
 
 .dark #search-query {
-  background-color: #23252f; }
+  background-color: #282a36; }
 
 #search-box #search-query {
   border: 1px solid #dedede;
@@ -8835,7 +8835,7 @@ html[dir='rtl'] body {
   color: #f8f8f2; }
 
 .dark .ais-search-box--input {
-  background-color: #23252f; }
+  background-color: #282a36; }
 
 .searching {
   overflow: hidden; }
@@ -8946,13 +8946,13 @@ html[dir='rtl'] body {
   padding-top: 50px; }
 
 .home-section:nth-of-type(even) {
-  background: #cdde99; }
+  background: #f7f7f7; }
 
 .dark .home-section {
-  background: #272935; }
+  background: white; }
 
 .dark .home-section:nth-of-type(even) {
-  background: #23252f; }
+  background: #cdde99; }
 
 @media screen and (max-width: 768px) {
   .home-section {
@@ -9381,7 +9381,7 @@ body.dark,
 .dark .modal button.close,
 .dark input {
   color: #f8f8f2;
-  background: #23252f; }
+  background: #282a36; }
 
 .dark .form-control {
   color: #f8f8f2;
@@ -9481,7 +9481,7 @@ body.dark,
 
 .dark .docs-sidebar .nav > li:not(.active) > a {
   color: #f8f8f2;
-  background: #23252f; }
+  background: #282a36; }
 
 div.mermaid {
   width: 100%;
