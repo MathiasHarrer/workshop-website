@@ -297,5 +297,7 @@
   {{ partial "cookie_consent" . }}
   {{ partial "custom_head" . }}
 
+  <link rel="stylesheet" href="/css/core.css">
+
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
 </head>

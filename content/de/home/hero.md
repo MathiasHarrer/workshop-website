@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Technik & Gesundheit"
+title = "Workshops"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+# hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,11 +36,11 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "#about"
-  label = "Das Protect Lab"
-  icon_pack = "fas"
-  icon = "angle-down"
+# [cta]
+#   url = "#about"
+#   label = "Das Protect Lab"
+#   icon_pack = "fas"
+#   icon = "angle-down"
   
 
 
@@ -54,19 +54,12 @@ hero_media = "hero-academic.png"
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-.btn {
-  background-color: #2b7992;
-  border: none;
-  color: white;
-  padding: 12px 16px;
-  font-size: 16px;
-  cursor: pointer;
-  border-radius: 0px;
+#hero {
+  height: 50px;
+  padding-top: 20px !important;
 }
-
-/* Darker background on mouse-over */
-.btn:hover {
-  background-color: DodgerBlue;
+.hero-title {
+  font-size: 2rem;
 }
 </style>
 </head>

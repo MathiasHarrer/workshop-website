@@ -46,9 +46,8 @@ Ein großer Vorteil der R Infrastruktur liegt in der verbesserten Transparenz un
 
 ---
 
-* [Prof. Dr. David Ebert, TUM](/ebert): Leitung des Workshops
-* [Mathias Harrer, TUM & FAU Erlangen-Nürnberg](/harrer): Vorbereitung & Leitung des Workshops
-* [Janika Thielecke, TUM & FAU Erlangen-Nürnberg](/thielecke): Vorbereitung des Workshops
+* [Mathias Harrer, TUM](https://mharrer.dev): Vorbereitung & Leitung des Workshops
+* [Janika Thielecke, TUM & FAU Erlangen-Nürnberg](https://protectlab.org/thielecke): Vorbereitung des Workshops
 * Antonia Sprenger, Humboldt-Universität zu Berlin: Vorbereitung des Workshops
 
 

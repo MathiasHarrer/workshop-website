@@ -3,89 +3,89 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-
-[[main]]
-  name = "Lab"
-  url = "#ueberuns"
-  identifier = "lab"
-  weight = 20
-
-[[main]]
-  name = "Prof. David Daniel Ebert"
-  url = "author/prof.-dr.-david-daniel-ebert/"
-  parent = "lab"
-  weight = 20
-
-[[main]]
-  name = "Team"
-  url = "team/"
-  parent = "lab"
-  weight = 21
-
-[[main]]
-  name = "Ausschreibungen"
-  url = "job/"
-  parent = "lab"
-  weight = 22
-
-[[main]]
-  name = "Abschlussarbeiten"
-  url = "thesis-supervision/"
-  parent = "lab"
-  weight = 23
-
-[[main]]
-  name = "Kontakt"
-  url = "#contact"
-  parent = "lab"
-  weight = 24
-
-[[main]]
-  name = "Forschung"
-  url = "research/"
-  identifier = "research"
-  weight = 30
-
-[[main]]
-  name = "Übersicht"
-  url = "research/"
-  parent = "research"
-  weight = 31
-
-[[main]]
-  name = "Forschungsprojekte"
-  url = "research-projects/"
-  parent = "research"
-  weight = 32
-
-[[main]]
-  name = "Workshops"
-  url = "workshop/"
-  parent = "research"
-  weight = 33
-
-[[main]]
-  name = "Vorträge & Präsentationen"
-  url = "event/"
-  parent = "research"
-  weight = 34
-
-[[main]]
-  name = "Publikationen"
-  url = "publication/"
-  weight = 40
-
-[[main]]
-  name = "Presse"
-  url = "press/"
-  weight = 50
-
-[[main]]
-  name = "Neuigkeiten"
-  url = "post/"
-  weight = 60
-
-# Link to a PDF of your resume/CV from the menu.
+#
+#[[main]]
+#  name = "Lab"
+#  url = "#ueberuns"
+#  identifier = "lab"
+#  weight = 20
+#
+#[[main]]
+#  name = "Prof. David Daniel Ebert"
+#  url = "author/prof.-dr.-david-daniel-ebert/"
+#  parent = "lab"
+#  weight = 20
+#
+#[[main]]
+#  name = "Team"
+#  url = "team/"
+#  parent = "lab"
+#  weight = 21
+#
+#[[main]]
+#  name = "Ausschreibungen"
+#  url = "job/"
+#  parent = "lab"
+#  weight = 22
+#
+#[[main]]
+#  name = "Abschlussarbeiten"
+#  url = "thesis-supervision/"
+#  parent = "lab"
+#  weight = 23
+#
+#[[main]]
+#  name = "Kontakt"
+#  url = "#contact"
+#  parent = "lab"
+#  weight = 24
+#
+#[[main]]
+#  name = "Forschung"
+#  url = "research/"
+#  identifier = "research"
+#  weight = 30
+#
+#[[main]]
+#  name = "Übersicht"
+#  url = "research/"
+#  parent = "research"
+#  weight = 31
+#
+#[[main]]
+#  name = "Forschungsprojekte"
+#  url = "research-projects/"
+#  parent = "research"
+#  weight = 32
+#
+#[[main]]
+#  name = "Workshops"
+#  url = "workshop/"
+#  parent = "research"
+#  weight = 33
+#
+#[[main]]
+#  name = "Vorträge & Präsentationen"
+#  url = "event/"
+#  parent = "research"
+#  weight = 34
+#
+#[[main]]
+#  name = "Publikationen"
+#  url = "publication/"
+#  weight = 40
+#
+#[[main]]
+#  name = "Presse"
+#  url = "press/"
+#  weight = 50
+#
+#[[main]]
+#  name = "Neuigkeiten"
+#  url = "post/"
+#  weight = 60
+#
+## Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"

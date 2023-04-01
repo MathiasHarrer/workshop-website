@@ -4,9 +4,9 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Protect Lab" # Website name
+title: "Workshops" # Website name
 baseurl: '/' # Website URL
-copyright: "&copy; Protect Lab {year}" # Footer text, e.g. '© {year} Me'
+copyright: "&copy; [Mathias Harrer](https://mharrer.dev) {year}" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
