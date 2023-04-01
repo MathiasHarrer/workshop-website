@@ -8,18 +8,19 @@
       people[i].style.paddingBottom = "25px";
       people[i].style.paddingTop = "25px";
     }
-    //if (window.innerWidth >= 991) {
-    //  var navIcons = document.getElementsByClassName('nav-icons');
-    //  var li = document.createElement("li");
-    //  li.classList.add('nav-item');
-    //  var innerLink = document.createElement('a');
-    //  innerLink.href = "https://www.mharrer.dev";
-    //  innerLink.target = "_blank";
-    //  innerLink.style = "color: white !important;";
-    //  innerLink.setAttribute('id', 'gh-logo');
-    //  innerLink.innerHTML = '<img src="/media/tum.png" style="height: 20px !important;">';
-    //  li.appendChild(innerLink);
-    //  navIcons[0].appendChild(li); 
-    //}
+    if (window.innerWidth >= 991) {
+      var navIcons = document.getElementsByClassName('nav-icons');
+      var li = document.createElement("li");
+      li.classList.add('nav-item');
+      var innerLink = document.createElement('a');
+      innerLink.href = "https://www.mharrer.dev";
+      innerLink.target = "_blank";
+      innerLink.style = "color: white !important;";
+      innerLink.setAttribute('id', 'gh-logo');
+      innerLink.innerHTML = '<a href="https://mharrer.dev" class="nav-link "aria-label="语言"><i class="fas fa-user mr-1" aria-hidden="true"></i></a>';
+      li.appendChild(innerLink);
+      navIcons[0].appendChild(li); 
+    }
 </script>
+
 
