@@ -7,6 +7,6 @@ title: Login
 
 <form action="/.netlify/functions/login" method="POST">
     <label for="password">Passwort</label>
-    <input type="password" name="password" id="password" />
+    <input type="password" name="password" id="password" style="padding-right: 5px;"/>
     <button class="btn-primary" type="submit">Workshop Anzeigen</button>
   </form>
