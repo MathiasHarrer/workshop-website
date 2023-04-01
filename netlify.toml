@@ -20,6 +20,9 @@
   [plugins.inputs]
     debug = true
 
+[functions]
+  directory = "functions"
+
 [[redirects]]
   from = "/workshop/rct-evaluation-in-r/*"
   status = 200
@@ -32,5 +35,3 @@
  status = 200
  force = true
 
-[functions]
-  directory = "functions"
