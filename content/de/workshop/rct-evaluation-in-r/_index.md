@@ -9,7 +9,7 @@ linktitle: Evaluation von RCTs mit R
 
 ---
 
-Workshop · [{{< icon name="github" pack="fab" >}}](https://github.com/MathiasHarrer/RCT-Analysis-With-R)
+Workshop · [{{< icon name="github" pack="fab" >}}](https://github.com/MathiasHarrer/RCT-Analysis-With-R) 
 
 ![](bg-praxis.jpg)
 
