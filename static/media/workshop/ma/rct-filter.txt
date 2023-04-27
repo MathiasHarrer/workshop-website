@@ -1,0 +1,13 @@
+(“depressive
+disorder, major”
+[MeSH Terms] OR 
+ “depressive disorder” [MeSH Terms])
+  AND
+(Cogniti* AND (therapy OR treatment OR intervent*)) 
+ 
+AND
+(randomized
+controlled trial [pt] OR 
+ controlled clinical trial [pt] OR 
+ randomized [tiab] OR 
+ randomly [tiab]) 

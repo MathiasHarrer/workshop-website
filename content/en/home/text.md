@@ -20,6 +20,17 @@ weight = 3  # Order that this section will appear.
 }
 </style>
 
+
+<div class="ws-box">
+
+<a href="/en/workshop/intro-ma/"><h2>Introduction to Meta-Analytic Psychotherapy Research</h2></a>
+
+Meta-analysis is a method used in evidence-based mental health research to combine and analyze the findings of multiple independent studies. It allows researchers to determine if psychological treatments are effective and to assess the robustness and potential biases of the findings. This course provides an overview of meta-analytic psychotherapy research, including its core concepts, essential parts of high-quality systematic reviews and meta-analyses, statistical underpinnings of meta-analytic models, and how to implement them using statistical software.
+
+</div>
+
+<br>
+
 <div class="ws-box">
 
 <a href="/workshop/rct-evaluation-in-r/"><h2>Evaluation Randomisiert-Kontrollierter Studien mit R</h2></a>
