@@ -10,7 +10,7 @@ date: "2022-06-01"
 
 ---
 
-<b>Course · <a href="https://doi.org/10.17605/osf.io/uz4ge" target="_blank"><img src="https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Fuz4ge-blue" style="margin: 0 !important; display: inline !important;"></a></b>
+Course · <a href="https://doi.org/10.17605/osf.io/uz4ge" target="_blank"><img src="https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Fuz4ge-blue" style="margin: 0 !important; display: inline !important;"></a>
 
 ![](img/bg.webp)
 
