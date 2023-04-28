@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/definition.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/10E1u5UgwVWauW3Hww8Zeu8-rIomJ_s9y/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Research, Scientific Revolution, Isaac Newton
 

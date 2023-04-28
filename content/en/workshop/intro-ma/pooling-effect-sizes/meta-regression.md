@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/meta-regression.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1rmtsvGYRu-XvsTJy86BZ9ZOS9HzrN3cJ/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Fixed-Effects (Plural) Model, Ecological Fallacy
 

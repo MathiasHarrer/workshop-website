@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/common-effect-sizes.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/13QDlWkHL-xPIRC4-Sz1fHz9z8vIztj3p/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Standardized Mean Difference, Risk Ratio, Odds Ratio, Non-Collapsibility
 

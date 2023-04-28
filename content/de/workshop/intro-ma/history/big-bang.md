@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/big-bang.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1aXM-hZE885uEiBBPSouDI0QlV6ksrkuR/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Eysenck, Hunter & Schmidt, Gene Glass, Peto
 

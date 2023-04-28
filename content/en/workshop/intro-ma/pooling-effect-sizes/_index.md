@@ -56,6 +56,7 @@ code{
 ![](bg.webp)
 
 
+<br>
 
 {{< cta cta_text="👉 Statistical Models" cta_link="/en/workshop/intro-ma/pooling-effect-sizes/statistical-models" >}}
 

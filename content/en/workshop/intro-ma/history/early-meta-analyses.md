@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/early-meta-analyses.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1bA6OoNkqcfIWMsb0puZnwVnAg649HB42/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Karl Pearson, Ronald A. Fisher, Fisher's Method
 

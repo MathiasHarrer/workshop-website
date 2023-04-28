@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/rem.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/147zu5PwS5GigzR5hKCSgg40i5WVU-fqn/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Tau, RevMan, Comprehensive Meta-Analysis, Restricted Maximum Likelihood, Inverse-Variance Method, Knapp-Hartung Adjustment 
 

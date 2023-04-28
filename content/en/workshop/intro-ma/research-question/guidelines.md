@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/guidelines.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/17pcn-lgZqGTFZZuoyUFKtzs9vlh8lL6t/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: PRISMA, MARS
 

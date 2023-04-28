@@ -17,7 +17,9 @@ type: book  # Do not modify.
 <img src="bg.webp" width="800px">
 
 
-{{< cta cta_text="👉 Finding A Good Research Question" cta_link="/en/workshop/intro-ma/research-question/finding" >}}
+<br>
+
+{{< cta cta_text="👉 Finding A Good Research Question" cta_link="/en/workshop/rct-evaluation-in-r/research-question/finding" >}}
 
 <style>
 h1 {color: #2a7792;}

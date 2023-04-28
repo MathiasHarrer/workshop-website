@@ -21,7 +21,7 @@ _Hans-Jürgen Eysenck_ (1916-1997)
 
 <br>
 
-{{< cta cta_text="👉 Early Meta-Analyses" cta_link="/en/workshop/intro-ma/history/early-meta-analyses" >}}
+{{< cta cta_text="👉 Early Meta-Analyses" cta_link="/en/workshop/intro-ma/early-meta-analyses" >}}
 
 <style>
 h1 {color: #2a7792;}

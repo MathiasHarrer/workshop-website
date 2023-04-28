@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/pico.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1hjaiG6Fci2mDEzIiFsSXknMwqNIRqkFv/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Population, Intervention, Comparison, Outcome, WEIRD Populations
 

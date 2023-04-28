@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/rob.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1OTkACRExlErDZ-74KOD5__iQXFxiA3-n/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: RoB 2, Cochrane, Domain Judgment
 

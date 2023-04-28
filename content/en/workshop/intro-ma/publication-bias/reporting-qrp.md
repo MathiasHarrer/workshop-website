@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/reporting-qrp.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1nKjMv-nrk1zBUmTuGfC7rpbctzd602VM/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Questionable Research Practices, _P_-Hacking, Citation Bias
 

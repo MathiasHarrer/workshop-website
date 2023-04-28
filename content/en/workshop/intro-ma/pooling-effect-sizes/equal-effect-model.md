@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/equal.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1FqmvT1NW6XoY_n0uUHUOMDdxmWJEACPE/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Fixed-Effect Model, Common-Effect Model
 

@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/sampling-variances.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1F3AcixmmoDDLTL6XMfFkRBXeU5G_CfV_/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Sampling Error, Estimand, Standard Error, Precision
 

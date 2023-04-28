@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/selection.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1pI7YtPkrtXKY7WKMdBcxq_NbPAEwYN1P/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: _P_-Curve, Uniform Distribution, _P_-Hacking
 

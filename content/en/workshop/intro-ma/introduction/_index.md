@@ -16,6 +16,7 @@ type: book  # Do not modify.
 
 ![](bg.webp)
 
+
 {{< cta cta_text="👉 On the Shoulders of Giants..." cta_link="/en/workshop/intro-ma/introduction/giants" >}}
 
 <style>

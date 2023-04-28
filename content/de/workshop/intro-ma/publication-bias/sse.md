@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/sse.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1AxeWCcVQym1XfqIiHVQz8FiYautE1-XP/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Egger's Test, Duval & Tweedie Trim And Fill, Limit Meta-Analysis, PET-PEESE
 

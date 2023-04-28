@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/mental-health-care.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1qI7K26s0MuLDp3Fs_wwxZuG9k96VhWTa/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Cochrane, Evidence-based Medicine (EBM), Determinants
 

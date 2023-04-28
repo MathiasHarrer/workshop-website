@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/cautionary-tale.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1zPjtLXtfZVar_WnVtA4vb5lP-WExblK0/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Irving Kirsch, Antidepressants, Freedom of Information Act
 

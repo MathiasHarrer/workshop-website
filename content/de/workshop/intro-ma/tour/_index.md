@@ -54,8 +54,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/tour.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1ovaP5AzW87xzs-5w2BN75cyvOhb40U7F/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: Ioannidis, Meta-Analysis, Criticism, Apples and Oranges, File Drawer
 

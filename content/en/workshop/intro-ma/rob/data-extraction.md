@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/data-extraction.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1abeMi2SfTnIz3KNJ_Ts8yg6wm15bEJaJ/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: PRISMA flow chart, Screening, Study Retrieval
 

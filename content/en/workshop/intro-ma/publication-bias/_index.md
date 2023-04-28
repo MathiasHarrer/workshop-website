@@ -56,6 +56,8 @@ code{
 ![](bg.webp)
 
 
+<br>
+
 {{< cta cta_text="👉 How Widespread Is The Problem?" cta_link="/en/workshop/intro-ma/publication-bias/how-widespread" >}}
 
 <style>

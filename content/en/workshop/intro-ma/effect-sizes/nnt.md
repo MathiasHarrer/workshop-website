@@ -52,8 +52,7 @@ code{
 
 ## Slides {.minih}
 
-<object data="/media/workshop/ma/nnt.pdf" type="application/pdf" width="100%" height="500px">
-</object>
+<iframe src="https://drive.google.com/file/d/1DME94HMlPIPYKYAMuR5LXSZqP3cqge3U/preview" width="757" height="452" allow="autoplay"></iframe>
 
 **Keywords**: NNT, Number Needed To Harm, Absolute Risk Reduction
 
